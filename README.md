@@ -20,6 +20,8 @@ _The Table of Content is being updated. I do this when I work on a post, so it w
 
 ### Literatur
 
+[Der Prozeß](Deutsch/Literatur/DerProzeß/README.md)
+
 [Woyzeck](Deutsch/Literatur/Woyzeck/README.md)
 
 ### Rechtswissenschaft
