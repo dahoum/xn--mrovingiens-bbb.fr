@@ -1,5 +1,9 @@
 # Table of Contents
 
+## Русский
+
+## English
+
 ## Deutsch
 
 ### Literatur
@@ -9,6 +13,8 @@
 ### Rechtswissenschaft
 
 [Rechtswissenschaft](Rechtswissenschaft/README.md)
+
+## Français
 
 # Nursery
 
