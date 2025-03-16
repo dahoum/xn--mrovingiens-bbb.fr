@@ -1,6 +1,6 @@
-# Migration
+# Table of Contents
 
-This Nursery is being migrate to https://dahoum.wales
+[Rechtswissenschaft](../blob/master/LICENSE)
 
 # Nursery
 
