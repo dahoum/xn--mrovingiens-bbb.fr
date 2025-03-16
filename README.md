@@ -1,6 +1,6 @@
 # Table of Contents
 
-[Rechtswissenschaft](../blob/master/LICENSE)
+[Rechtswissenschaft](Rechtswissenschaft/README.md)
 
 # Nursery
 
