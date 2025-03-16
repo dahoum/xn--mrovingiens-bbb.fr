@@ -4,7 +4,7 @@
 
 ### Literatur
 
-[Rechtswissenschaft](Deutsch/Literatur/Woyzeck/README.md)
+[Woyzeck](Deutsch/Literatur/Woyzeck/README.md)
 
 ### Rechtswissenschaft
 
