@@ -2,6 +2,12 @@
 
 ## Deutsch
 
+### Literatur
+
+[Rechtswissenschaft](Deutsch/Literatur/Woyzeck/README.md)
+
+### Rechtswissenschaft
+
 [Rechtswissenschaft](Rechtswissenschaft/README.md)
 
 # Nursery
