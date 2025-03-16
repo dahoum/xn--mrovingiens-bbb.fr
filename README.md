@@ -4,6 +4,8 @@ http://dahoum.wales is a collection of of my autodidactic notes related to disco
 
 # Table of Contents
 
+_The Table of Content is being updated. I do this when I work on a post, so it will take a while._
+
 ## Русский
 
 ## English
