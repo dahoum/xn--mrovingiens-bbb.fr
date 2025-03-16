@@ -61,6 +61,18 @@ Seminar (5 ECTS)
 
 Bachelorarbeit (10 ECTS)
 
+### Motivation
+
+Arbeit...
+
+Interresse...
+
+Mutter...
+
+### Quellen
+
+[https://www.juracademy.de](https://www.juracademy.de)
+
 [https://www.lto.de/karriere/jura-studium/uni-ranking](https://www.lto.de/karriere/jura-studium/uni-ranking)
 
 [https://de.wikipedia.org/wiki/Rechtswissenschaft](https://de.wikipedia.org/wiki/Rechtswissenschaft)
