@@ -1,4 +1,4 @@
-This is a collection of of my autodidactic notes related to discovering and helping people and ventures.
+This is a collection of my autodidactic notes.
 
 ![](Images/caution.jpeg)
 
