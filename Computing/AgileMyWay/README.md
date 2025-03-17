@@ -2,7 +2,7 @@
 
 The Agile Manifesto was written and signed in 2001. It consists of four lines, not even four full sentences. In 2015 Alistair Cockburn launched the Heart of Agile movement, as a response to the overly complex state of the Agile industry, reducing the Manifesto to four words. In 2020 I applied Pareto 20/80 to the Agile Manifesto, reducing it even further to _a bunch of smart people in a room, solving a problem_.
 
-![](Images/AgileAnarchy.jpeg)
+![](Images/AgileAnarchy.png)
 
 "And more, much more than this,
 I did it my way."
