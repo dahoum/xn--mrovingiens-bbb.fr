@@ -30,6 +30,14 @@ _The Table of Content is being updated. I do this when I work on a post, so it w
 
 ## Français
 
+## People
+
+[Anthony Bourdain](People/AnthonyBourdain/README.md)
+
+[Herbert von Karajan](People/HerbertvonKarajan/README.md)
+
+[Leonard Bernstein](People/LeonardBernstein/README.md)
+
 # Have a question or need help?
 
 I help gladly.

@@ -1,0 +1,7 @@
+# Anthony Bourdain
+
+## 17 March 2025
+
+(source) “I always lead from the front. Cooks always like to see their chef come in before them, leave after them, and always work at least as hard, or better yet, harder than them. And they want their chef to be capable of doing anything they’re able to do. Because you’re going through what they’re going through, there’s camaraderie.
+It’s important that the crew knows that I care about them and will take care of them. I take pleasure in personal details. I take pleasure in their lives. And I protect them. If someone from another department—a waiter, a maître d’, an owner—has anything to say about anyone in my kitchen, they’re not allowed to communicate that directly.
+In my kitchen, no one will have two bosses. All orders will come from me. If something bad is coming down the pike, it will hit me first, and I will disseminate that information. I will fight fiercely to make sure that criticisms of my crew, from the floor staff or elsewhere, come through me. And if something goes wrong, whether I’m in the kitchen or not, I will never, ever blame anyone else. I delegated a job to them. If they’ve screwed up, it’s my fault. I return loyalty with absolute loyalty.”
