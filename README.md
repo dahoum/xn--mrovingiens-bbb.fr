@@ -28,6 +28,10 @@ _The Table of Content is being updated. I do this when I work on a post, so it w
 
 ## Français
 
+## Computing
+
+[Agile. My Way.](Computing/AgileMyWay/README.md)
+
 ## People
 
 [Anthony Bourdain](People/AnthonyBourdain/README.md)
