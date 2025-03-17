@@ -1,6 +1,6 @@
 This is a collection of of my autodidactic notes related to discovering and helping people and ventures.
 
-![](Images/2732A639-05AD-4965-ADC9-C15DEA4ED60C.jpeg)
+![](Images/caution.jpeg)
 
 # Table of Contents
 
