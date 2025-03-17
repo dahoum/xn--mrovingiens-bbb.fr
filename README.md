@@ -1,5 +1,3 @@
-This is a collection of my autodidactic notes.
-
 ![](Images/caution.jpeg)
 
 # Table of Contents
