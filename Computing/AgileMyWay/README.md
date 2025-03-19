@@ -93,7 +93,7 @@ If Agile is a A Bunch of Smart People in a room, then the Scrum Master is like a
 
 Backlog Refinement in Agile
 
-Agile is better than Waterfall, because while Waterfall is a purely engineering process sequence, Agile is based on the…dahoum.wales
+Agile is better than Waterfall — for enterpreneural software programming — because while Waterfall is a purely engineering process sequence, Agile is based on the…dahoum.wales
 
 Erik Meijer: AGILE must be destroyed, once and for all
 
