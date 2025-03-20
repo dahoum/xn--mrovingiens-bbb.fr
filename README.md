@@ -8,11 +8,13 @@ _The Table of Content is being updated. I do this when I work on a post, so it w
 
 ## English
 
-### Psychology
+### Human Nature
 
 [Extrovert](Extrovert/README.md)
 
 [Motivation and Importance](Motivation/README.md)
+
+[Prohibition](Prohibition/README.md)
 
 ## Deutsch
 
