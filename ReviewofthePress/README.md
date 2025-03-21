@@ -4,6 +4,6 @@
 
 ### Rags-to-riches hero or villainous torturer? The truth about Henry VIII's scheming right-hand man Thomas Cromwell
 
-https://www.bbc.com/culture/article/20250320-the-truth-about-henry-viiis-scheming-right-hand-man-thomas-cromwell
+[https://www.bbc.com/culture/article/20250320-the-truth-about-henry-viiis-scheming-right-hand-man-thomas-cromwell](https://www.bbc.com/culture/article/20250320-the-truth-about-henry-viiis-scheming-right-hand-man-thomas-cromwell)
 
 ![](2025-03-21.jpeg)
