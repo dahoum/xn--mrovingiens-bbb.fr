@@ -6,4 +6,4 @@
 
 https://www.bbc.com/culture/article/20250320-the-truth-about-henry-viiis-scheming-right-hand-man-thomas-cromwell
 
-image
+![](2025-03-21.jpeg)
