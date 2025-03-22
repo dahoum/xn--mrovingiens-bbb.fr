@@ -40,6 +40,8 @@ _The Table of Content is being updated. I do this when I work on a post, so it w
 
 ## People
 
+[My Idols are Dead and my Enempies are in Power](People/MyIdolsareDeadandmyEnemiesareinPower/README.md)
+
 [Anthony Bourdain](People/AnthonyBourdain/README.md)
 
 [Herbert von Karajan](People/HerbertvonKarajan/README.md)
