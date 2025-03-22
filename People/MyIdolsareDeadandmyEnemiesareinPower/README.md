@@ -1,4 +1,4 @@
-# My idols are dead and my enemies are in power."
+# "My idols are dead and my enemies are in power."
 
 The people whose deaths make me feel like my world is ending.
 
