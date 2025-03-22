@@ -2,8 +2,6 @@
 
 The people whose deaths make me feel like my world is ending.
 
-Moving from https://medium.com/dahoum/my-idols-are-dead-and-my-enemies-are-in-power-e8337d3975ff 
-
 ## George Foreman
 
 ![](./Images/2025-03-22.jpg)
