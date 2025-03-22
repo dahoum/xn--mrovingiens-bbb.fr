@@ -2,9 +2,9 @@
 
 ## 22 March 2025
 
-### Vivian Jenna Wilson, Elon Musk's Estranged Daughter, Is Not Afraid of Her Dad
+### Vivian Jenna Wilson on Being Elon Musk’s Estranged Daughter, Protecting Trans Youth and Taking on the Right Online
 
-[https://www.teenvogue.com/story/vivian-jenna-wilson-elon-musk-pathetic-man-child](https://www.teenvogue.com/story/vivian-jenna-wilson-elon-musk-pathetic-man-child)
+https://www.teenvogue.com/story/vivian-jenna-wilson-elon-musk-trans-youth](https://www.teenvogue.com/story/vivian-jenna-wilson-elon-musk-trans-youth)
 
 ![](2025-03-22.png)
 
