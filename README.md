@@ -8,6 +8,10 @@ _The Table of Content is being updated. I do this when I work on a post, so it w
 
 ## English
 
+### Philosophy
+
+Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
+
 ### Review of the Press
 
 [Review of the Press](ReviewofthePress/README.md)
