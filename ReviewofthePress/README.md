@@ -1,10 +1,14 @@
 # Review of the Press
 
+## 24 March 2025
+
+[https://edition.cnn.com/2025/03/24/politics/trump-bondi-elite-universities-boasberg-judges-deportation/index.html](https://edition.cnn.com/2025/03/24/politics/trump-bondi-elite-universities-boasberg-judges-deportation/index.html)
+
 ## 22 March 2025
 
 ### Vivian Jenna Wilson on Being Elon Musk’s Estranged Daughter, Protecting Trans Youth and Taking on the Right Online
 
-https://www.teenvogue.com/story/vivian-jenna-wilson-elon-musk-trans-youth](https://www.teenvogue.com/story/vivian-jenna-wilson-elon-musk-trans-youth)
+[https://www.teenvogue.com/story/vivian-jenna-wilson-elon-musk-trans-youth](https://www.teenvogue.com/story/vivian-jenna-wilson-elon-musk-trans-youth)
 
 ![](2025-03-22.png)
 
