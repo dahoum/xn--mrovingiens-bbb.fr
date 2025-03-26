@@ -8,6 +8,10 @@ _The Table of Content is being updated. I do this when I work on a post, so it w
 
 ## English
 
+### Family
+
+[Family Values](./Family/README.md)
+
 ### Philosophy
 
 Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
