@@ -62,6 +62,8 @@ x x x
 
 [Anthony Bourdain](People/AnthonyBourdain/README.md)
 
+[Friedrich Nietzsche](People/FriedrichNietzsche/README.md)
+
 [Herbert von Karajan](People/HerbertvonKarajan/README.md)
 
 [Leonard Bernstein](People/LeonardBernstein/README.md)
