@@ -1,5 +1,7 @@
 # Also sprach Zarathustra
 
+[Friedrich Nietzsche](../../../People/FriedrichNietzsche/README.md)
+
 ## 28 March 2025
 
 « Ihr drängt euch um den Nächsten und habt schöne Worte dafür. Aber ich sage
