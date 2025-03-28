@@ -36,6 +36,8 @@ Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
 
 ### Literatur
 
+[Also sprach Zarathustra](Deutch/Literatur/AlsosprachZarathustra/README.md)
+
 [Der Prozeß](Deutsch/Literatur/DerProzeß/README.md)
 
 [Woyzeck](Deutsch/Literatur/Woyzeck/README.md)
