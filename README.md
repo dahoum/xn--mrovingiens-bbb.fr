@@ -20,6 +20,8 @@ Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
 
 [Paradise Lost](English/Literature/ParadiseLost/README.md)
 
+[The Cocltail Party](English/Literature/the-cocktail-party/README.md) by T. S. Eliot
+
 ### Review of the Press
 
 [Review of the Press](ReviewofthePress/README.md)
