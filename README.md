@@ -34,6 +34,8 @@ Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
 
 [Prohibition](Prohibition/README.md)
 
+[Criticism and Critique](criticism-and-critique/README.md)
+
 ### Cinema
 
 [Conclave](English/Cinema/Conclave/README.md), 5 April 2025. Good my way.
