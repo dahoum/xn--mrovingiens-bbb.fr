@@ -2,4 +2,6 @@
 
 ## 11 April 2025
 
+[The Cocktail Party](../English/Literature/the-cocktail-party/README.md) by T. S. Eliot
+
 ![](2025-04-11-1730.jpeg)
