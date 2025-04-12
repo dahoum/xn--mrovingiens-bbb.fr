@@ -58,9 +58,9 @@ Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
 
 ### Cinéma
 
-[La rebelle, les aventures de la jeune George Sand]()
+[La rebelle, les aventures de la jeune George Sand](./Français/Cinéma/LaRebelle/README.md)
 
-[Les Femmes au Balcon]()
+[Les Femmes au Balcon](./Français/Cinéma/les-femmes-au-balcon/README.md)
 
 ## Computing
 
