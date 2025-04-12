@@ -40,6 +40,12 @@ Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
 
 [Conclave](English/Cinema/Conclave/README.md), 5 April 2025. Good my way.
 
+### Articles
+
+#### 12 April 2025
+
+[The Scots magician who inspired the great Houdini](./articles/the-scots-magician-who-inspired-the-great-houdini/)
+
 ## Deutsch
 
 ### Literatur
