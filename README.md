@@ -48,6 +48,10 @@ Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 [The Scots magician who inspired the great Houdini](./articles/the-scots-magician-who-inspired-the-great-houdini/)
 
+### Laws
+
+Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understandable way, half of the problem is solved."
+
 ## Deutsch
 
 ### Literatur
