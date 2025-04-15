@@ -8,6 +8,8 @@ Published by the Harry Potter's publisher Bloomsbury.
 
 ## 15 April 2025
 
+![](./2025-04-15-1230.jpeg)
+
 ## previously
 
 The book is written by a bunch of Finns. Gives it a Moomin feeling.
