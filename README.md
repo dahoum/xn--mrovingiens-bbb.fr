@@ -2,7 +2,7 @@
 
 # Table of Contents
 
-_The Table of Content is being updated. I do this when I work on a post, so it will take a while for the several 1 000s items to appear._
+_This web site is being moved here from Medium. I do this post by post, when I work on a post, so it will take a while for the several 1 000s or articles..._
 
 ## Русский
 

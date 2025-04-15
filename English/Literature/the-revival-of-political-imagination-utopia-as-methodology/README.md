@@ -1,7 +1,5 @@
 # The Revival of Political Imagination. Utopia as Methodology.
 
-the-revival-of-political-imagination-utopia-as-methodology
-
 Lotta wanted to have it for her birthday and the cultural appropriation thieving magpie I am - I ordered a copy for myself.
 
 Published by the Harry Potter's publisher Bloomsbury.
