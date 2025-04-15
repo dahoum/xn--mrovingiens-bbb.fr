@@ -8,6 +8,14 @@ Published by the Harry Potter's publisher Bloomsbury.
 
 ## 15 April 2025
 
+![](./2025-04-15-2355.jpeg)
+
+x x x
+
+![](./2025-04-15-2345.jpeg)
+
+x x x
+
 ![](./2025-04-15-1230.jpeg)
 
 ## previously
