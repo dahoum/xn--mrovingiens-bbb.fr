@@ -14,7 +14,7 @@ _This web site is being moved here from Medium. I do this post by post, when I w
 
 ### Philosophy
 
-Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
+Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 ### Literature
 
