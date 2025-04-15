@@ -22,6 +22,8 @@ Paraodx of Tolerance in [Tolerance](./Tolerance/README.md)
 
 [The Cocktail Party](English/Literature/the-cocktail-party/README.md) by T. S. Eliot
 
+[The Revival of Political Imagination. Utopia as Methodology.](./English/Literature/the-revival-of-political-imagination-utopia-as-methodology/README.md) I did not think a book about politics will excited me at my age, like I am in my late teens.
+
 ### Review of the Press
 
 [Review of the Press](ReviewofthePress/README.md)
