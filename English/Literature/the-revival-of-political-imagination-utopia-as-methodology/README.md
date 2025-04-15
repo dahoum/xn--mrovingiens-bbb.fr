@@ -14,4 +14,4 @@ Published by the Harry Potter's publisher Bloomsbury.
 
 The book is written by a bunch of Finns. Gives it a Moomin feeling.
 
-![](./2025-04-15-1220.jpeg)
+![](./2025-04-15-1220.jpg)
