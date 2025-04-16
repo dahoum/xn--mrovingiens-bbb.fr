@@ -74,6 +74,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Les Femmes au Balcon](./Français/Cinéma/les-femmes-au-balcon/README.md)
 
+### Livres
+
+[Surveiller et punir](./Français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./People/michel-foucault/README.md)
+
 ## Computing
 
 [Agile. My Way.](Computing/AgileMyWay/README.md)
