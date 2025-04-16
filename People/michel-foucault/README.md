@@ -3,3 +3,7 @@
 ## Livres
 
 [Surveiller et punir](../../Français/livres/surveiller-et-punir/README.md)
+
+## Wikipedia
+
+https://fr.wikipedia.org/wiki/Michel_Foucault
