@@ -8,11 +8,11 @@ de [Michel Foucault](../../../People/michel-foucault/README.md)
 
 ### I. Supplice (Audio)
 
-https://youtu.be/5J4SdeYAT-E?si=BDe6eVEVmNRcCGe5
+[https://youtu.be/5J4SdeYAT-E?si=BDe6eVEVmNRcCGe5](https://youtu.be/5J4SdeYAT-E?si=BDe6eVEVmNRcCGe5)
 
 ### Wikipedia
 
-https://fr.wikipedia.org/wiki/Surveiller_et_punir
+[https://fr.wikipedia.org/wiki/Surveiller_et_punir](https://fr.wikipedia.org/wiki/Surveiller_et_punir)
 
 ### Cover
 
