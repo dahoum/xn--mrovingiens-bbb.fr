@@ -98,6 +98,8 @@ x x x
 
 [Herbert von Karajan](People/HerbertvonKarajan/README.md)
 
+[Jean Cocteau](./People/jean-cocteau/README.md)
+
 [Leonard Bernstein](People/LeonardBernstein/README.md)
 
 # Have a question or need help?
