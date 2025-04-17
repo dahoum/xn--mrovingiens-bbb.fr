@@ -2,7 +2,7 @@
 
 1960
 
-écrit et réalisé par Jean Cocteau
+écrit et réalisé par [Jean Cocteau](../../../People/jean-cocteau/README.md)
 
 ## 18 avril 2025
 
