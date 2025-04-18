@@ -80,7 +80,7 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Surveiller et punir](./Français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./People/michel-foucault/README.md)
 
-[Madame Bovary](./Français/livres/)
+[Madame Bovary](./Français/livres/madame-bovary/README.md)
 
 ## Computing
 
