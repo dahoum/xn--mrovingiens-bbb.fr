@@ -108,6 +108,8 @@ x x x
 
 [Leonard Bernstein](People/LeonardBernstein/README.md)
 
+Louise Bourgeois
+
 # Have a question or need help?
 
 I help gladly.
