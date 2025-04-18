@@ -6,6 +6,10 @@
 
 ## 18 avril 2025
 
+François Périer me fait penser à Rip Torn dans Men in Black --
+
+![](2025-04-18-2315.jpeg)
+
 Regarder...
 
 ## 17 avril 2025
