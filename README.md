@@ -82,6 +82,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Madame Bovary](./Français/livres/madame-bovary/README.md)
 
+## Music
+
+2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [https://youtu.be/nId-f-_pKbQ](https://youtu.be/nId-f-_pKbQ)
+
 ## Computing
 
 [Agile. My Way.](Computing/AgileMyWay/README.md)
