@@ -76,6 +76,8 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Le Testament d'Orphée](./Français/Cinéma/le-testament-d'orphée/README.md)
 
+Madame Bovary
+
 ### Livres
 
 [Surveiller et punir](./Français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./People/michel-foucault/README.md)
