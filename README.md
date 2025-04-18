@@ -1,8 +1,8 @@
 ![](Images/caution.jpeg)
 
-# Table of Contents
+This is a collection of my intellectusl pursuits. Here I am mergin several 1 000 topics from several medium.com accounts, which I am about to close, as well as from my private Apple notes, so it might take a while.
 
-_This web site is being moved here from Medium. I do this post by post, when I work on a post, so it will take a while for the several 1 000s or articles..._
+# Table of Contents
 
 ## Русский
 
