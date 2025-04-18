@@ -112,6 +112,8 @@ x x x
 
 Louise Bourgeois
 
+[Raymond Radiguet](./People/raymon-radiguet/README.md)
+
 # Have a question or need help?
 
 I help gladly.
