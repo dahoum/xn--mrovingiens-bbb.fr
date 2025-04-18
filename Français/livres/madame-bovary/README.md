@@ -9,3 +9,7 @@
 [https://youtu.be/MqwCpRzVDZY](https://youtu.be/MqwCpRzVDZY) 1/2
 
 [https://youtu.be/cW6JY6vu8jE](https://youtu.be/cW6JY6vu8jE) 1/2
+
+x x x
+
+[https://fr.wikipedia.org/wiki/Madame_Bovary](https://fr.wikipedia.org/wiki/Madame_Bovary)
