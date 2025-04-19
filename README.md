@@ -1,6 +1,6 @@
 ![](Images/caution.jpeg)
 
-This is a collection of my intellectusl pursuits. Here I am mergin several 1 000 topics from several medium.com accounts, which I am about to close, as well as from my private Apple notes, so it might take a while.
+A collection of my intellectusl pursuits. I am merging several 1 000 topics from several medium.com sites, which I am about to close. s well as from my private Apple notes. It might take a while.
 
 # Table of Contents
 
