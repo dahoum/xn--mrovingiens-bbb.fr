@@ -100,7 +100,9 @@ Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [htt
 
 [Mr. Blue Sky](./music/mr-blue-sky/README.md)
 
-[Them Bones](./music/them-bones/README.md) Alice in Chains
+[Them Bones](./music/them-bones/README.md) by Alice in Chains
+
+[White Rabbit](./music/white-rabbit/README.md) by Jefferson Airplane
 
 ## Computing
 
