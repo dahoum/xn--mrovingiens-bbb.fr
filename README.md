@@ -112,6 +112,8 @@ x x x
 
 Louise Bourgeois
 
+[Marcel Duchamp](./People/marcel-duchamp/README.md)
+
 [Raymond Radiguet](./People/raymon-radiguet/README.md)
 
 # Have a question or need help?
