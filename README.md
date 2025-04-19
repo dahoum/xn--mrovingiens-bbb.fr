@@ -84,6 +84,12 @@ Madame Bovary
 
 [Madame Bovary](./Français/livres/madame-bovary/README.md)
 
+### Les gens
+
+[Marcel Duchamp](./People/marcel-duchamp/README.md)
+
+[Raymond Radiguet](./People/raymond-radiguet/README.md)
+
 ## Music
 
 Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [https://youtu.be/nId-f-_pKbQ](https://youtu.be/nId-f-_pKbQ)
@@ -111,10 +117,6 @@ x x x
 [Leonard Bernstein](People/LeonardBernstein/README.md)
 
 Louise Bourgeois
-
-[Marcel Duchamp](./People/marcel-duchamp/README.md)
-
-[Raymond Radiguet](./People/raymond-radiguet/README.md)
 
 # Have a question or need help?
 
