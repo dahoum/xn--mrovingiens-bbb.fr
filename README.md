@@ -98,6 +98,8 @@ Madame Bovary
 
 Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [https://youtu.be/nId-f-_pKbQ](https://youtu.be/nId-f-_pKbQ)
 
+[Mr. Blue Sky](./music/mr-blue-sky/README.md)
+
 [Them Bones](./music/them-bones/README.md) Alice in Chains
 
 ## Computing
