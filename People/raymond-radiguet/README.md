@@ -2,7 +2,7 @@
 
 ## 19 April 2025
 
-[https://youtu.be/Q3QdfzOdgBU](https://youtu.be/Q3QdfzOdgBU) 
+Raymond Radiguet, génie foudroyé [https://youtu.be/Q3QdfzOdgBU](https://youtu.be/Q3QdfzOdgBU) 
 
 [https://fr.wikipedia.org/wiki/Raymond_Radiguet](https://fr.wikipedia.org/wiki/Raymond_Radiguet)
 
