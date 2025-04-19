@@ -2,6 +2,8 @@
 
 ## 19 April 2025
 
+[https://youtu.be/Q3QdfzOdgBU](https://youtu.be/Q3QdfzOdgBU) 
+
 [https://fr.wikipedia.org/wiki/Raymond_Radiguet](https://fr.wikipedia.org/wiki/Raymond_Radiguet)
 
 ## 18 avril 2025
