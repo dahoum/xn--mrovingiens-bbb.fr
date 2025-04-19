@@ -66,4 +66,6 @@ Feed your head
 
 [https://youtu.be/XlxUnzuMAD0](https://youtu.be/XlxUnzuMAD0) by Pink
 
+![](2025-04-20-0055.jpeg)
+
 
