@@ -84,6 +84,10 @@ Madame Bovary
 
 [Madame Bovary](./Français/livres/madame-bovary/README.md)
 
+### Revues
+
+[SIC](./Français/revues/sic/README.md)
+
 ### Les gens
 
 [Marcel Duchamp](./People/marcel-duchamp/README.md)
