@@ -6,3 +6,7 @@ Alice in Chains
 
 [https://youtu.be/5HjbQ-UzBPk](https://youtu.be/5HjbQ-UzBPk)
 
+So,eone answering a fb question regarding the most perfect song --
+
+![](2025-04-20-0015.jpeg)
+
