@@ -66,6 +66,8 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Woyzeck](Deutsch/Literatur/Woyzeck/README.md)
 
+[Das Lachen der Ungetäuschten](./Deutsch/Literatur/das-lachen-der-ungetäuschten/README.md)
+
 ### Rechtswissenschaft
 
 [Rechtswissenschaft](Rechtswissenschaft/README.md)
