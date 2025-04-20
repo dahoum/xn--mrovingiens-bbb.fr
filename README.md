@@ -6,6 +6,14 @@ A collection of my intellectusl pursuits. I am merging several 1 000 topics from
 
 ## Русский
 
+### Книги
+
+[Мартиролог](./русский/книги/мартиролог/README.md)
+
+### Люди
+
+[Андре́й Тарко́вский](./русский/люди/андрей-тарковский/README.md)
+
 ## English
 
 ### Family
@@ -23,6 +31,8 @@ Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 [The Cocktail Party](English/Literature/the-cocktail-party/README.md) by T. S. Eliot
 
 [The Revival of Political Imagination. Utopia as Methodology.](./English/Literature/the-revival-of-political-imagination-utopia-as-methodology/README.md) I did not think a book about politics will excited me at my age, like I am in my late teens.
+
+[Time Within Time: The Diaries 1970–1986](./English/Literature/time-within-time-the-diaries-1970-1986/README.md) by [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
 
 ### Review of the Press
 
@@ -125,6 +135,8 @@ Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [htt
 [My Idols are Dead and my Enempies are in Power](People/MyIdolsareDeadandmyEnemiesareinPower/README.md)
 
 x x x
+
+[Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
 
 [Anthony Bourdain](People/AnthonyBourdain/README.md)
 
