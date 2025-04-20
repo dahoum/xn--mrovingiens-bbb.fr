@@ -42,6 +42,10 @@ Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 [Conclave](English/Cinema/Conclave/README.md), 5 April 2025. Good my way.
 
+### Papers and Magazines
+
+[![](Images/image-the-intercept.png)](https://theintercept.com)
+
 ### Articles
 
 #### 12 April 2025
@@ -83,6 +87,10 @@ Madame Bovary
 [Surveiller et punir](./Français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./People/michel-foucault/README.md)
 
 [Madame Bovary](./Français/livres/madame-bovary/README.md)
+
+### Journaux et Magazines
+
+[![](Images/image-l-humanite.png)](https://www.humanite.fr)
 
 ### Revues
 
