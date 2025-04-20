@@ -10,7 +10,7 @@ A collection of my intellectusl pursuits. I am merging several 1 000 topics from
 
 [Мартиролог](./русский/книги/мартиролог/README.md)
 
-https://ru.wikipedia.org/wiki/Пикник_на_обочине
+[Пикник на обочине](./русский/книги/пикник-на-обочине/README.md)
 
 ## Фильм
 
