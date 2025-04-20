@@ -10,9 +10,17 @@ A collection of my intellectusl pursuits. I am merging several 1 000 topics from
 
 [Мартиролог](./русский/книги/мартиролог/README.md)
 
+https://ru.wikipedia.org/wiki/Пикник_на_обочине
+
+## Фильм
+
+https://ru.wikipedia.org/wiki/Сталкер_(фильм)
+
 ### Люди
 
 [Андре́й Тарко́вский](./русский/люди/андрей-тарковский/README.md)
+
+https://ru.wikipedia.org/wiki/Братья_Стругацкие
 
 ## English
 
