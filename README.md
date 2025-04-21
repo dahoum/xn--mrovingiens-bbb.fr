@@ -44,6 +44,8 @@ Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 Silverview by John le Carré (I am Edward Avon)
 
+The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silverview)
+
 ### Review of the Press
 
 [Review of the Press](ReviewofthePress/README.md)
