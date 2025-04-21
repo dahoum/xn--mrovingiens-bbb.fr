@@ -2,6 +2,8 @@
 
 ## 21 April 2025
 
+-END-
+
 _The closing monologue of Stalker's wife --_
 
 My mother used to say:
