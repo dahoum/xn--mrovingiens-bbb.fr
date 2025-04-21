@@ -42,6 +42,8 @@ Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 [Time Within Time: The Diaries 1970–1986](./English/Literature/time-within-time-the-diaries-1970-1986/README.md) by [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
 
+Silverview by John le Carré (I am Edward Avon)
+
 ### Review of the Press
 
 [Review of the Press](ReviewofthePress/README.md)
