@@ -20,7 +20,7 @@ A collection of my intellectusl pursuits. I am merging several 1 000 topics from
 
 [Андре́й Тарко́вский](./русский/люди/андрей-тарковский/README.md)
 
-https://ru.wikipedia.org/wiki/Братья_Стругацкие
+[Братья Стругацкие](русский/люди/братья-стругацкие/README.md)
 
 ## English
 
