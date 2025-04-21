@@ -24,7 +24,7 @@ A collection of my intellectusl pursuits. I am merging several 1 000 topics from
 
 ## English
 
-### Family
+### Original Thoughts
 
 [Family Values](./Family/README.md)
 
