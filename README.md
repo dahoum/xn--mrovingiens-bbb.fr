@@ -14,7 +14,7 @@ A collection of my intellectusl pursuits. I am merging several 1 000 topics from
 
 ## Фильм
 
-https://ru.wikipedia.org/wiki/Сталкер_(фильм)
+[Сталкер](русский/фильмы/сталкер/README.md)
 
 ### Люди
 
