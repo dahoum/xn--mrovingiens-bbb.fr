@@ -142,6 +142,8 @@ Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [htt
 
 [My Idols are Dead and my Enempies are in Power](People/MyIdolsareDeadandmyEnemiesareinPower/README.md)
 
+[Extraordinary people have ordinary problems](./People/extraordinary-people-have-ordinary-problems/README.md)
+
 x x x
 
 [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
