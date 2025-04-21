@@ -1,8 +1,12 @@
 # Raymond Radiguet
 
-## 19 April 2025
+## 21 avril 2025
 
-Raymond RADIGUET – Qui est-il ? (Club d'Essai, 1946) [https://youtu.be/XJG4BKWaKVE](https://youtu.be/XJG4BKWaKVE)
+Raymond RADIGUET – Qui est-il ? (Club d'Essai, 1946) [https://youtu.be/XJG4BKWaKVE](https://youtu.be/XJG4BKWaKVE) -COMPLETTED-
+
+## 19 avril 2025
+
+Raymond RADIGUET – Qui est-il ? (Club d'Essai, 1946) [https://youtu.be/XJG4BKWaKVE](https://youtu.be/XJG4BKWaKVE) -BEGAN-
 
 Raymond Radiguet, génie foudroyé [https://youtu.be/Q3QdfzOdgBU](https://youtu.be/Q3QdfzOdgBU) 
 
