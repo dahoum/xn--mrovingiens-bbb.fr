@@ -60,9 +60,35 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [Criticism and Critique](criticism-and-critique/README.md)
 
+## People
+
+[A very high profile people using popular quotes](./Quotes/README.md)
+
+[My Idols are Dead and my Enempies are in Power](People/MyIdolsareDeadandmyEnemiesareinPower/README.md)
+
+[Extraordinary people have ordinary problems](./People/extraordinary-people-have-ordinary-problems/README.md)
+
+x x x
+
+[Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
+
+[Anthony Bourdain](People/AnthonyBourdain/README.md)
+
+[Friedrich Nietzsche](People/FriedrichNietzsche/README.md)
+
+[Herbert von Karajan](People/HerbertvonKarajan/README.md)
+
+[Jean Cocteau](./People/jean-cocteau/README.md)
+
+[Leonard Bernstein](People/LeonardBernstein/README.md)
+
+Louise Bourgeois
+
 ### Cinema
 
 [Conclave](English/Cinema/Conclave/README.md), 5 April 2025. Good my way.
+
+[The Big Short]
 
 ### Papers and Magazines
 
@@ -139,30 +165,6 @@ Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [htt
 ## Computing
 
 [Agile. My Way.](Computing/AgileMyWay/README.md)
-
-## People
-
-[A very high profile people using popular quotes](./Quotes/README.md)
-
-[My Idols are Dead and my Enempies are in Power](People/MyIdolsareDeadandmyEnemiesareinPower/README.md)
-
-[Extraordinary people have ordinary problems](./People/extraordinary-people-have-ordinary-problems/README.md)
-
-x x x
-
-[Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
-
-[Anthony Bourdain](People/AnthonyBourdain/README.md)
-
-[Friedrich Nietzsche](People/FriedrichNietzsche/README.md)
-
-[Herbert von Karajan](People/HerbertvonKarajan/README.md)
-
-[Jean Cocteau](./People/jean-cocteau/README.md)
-
-[Leonard Bernstein](People/LeonardBernstein/README.md)
-
-Louise Bourgeois
 
 # Have a question or need help?
 
