@@ -86,6 +86,8 @@ x x x
 
 Louise Bourgeois
 
+[David E. Shaw](./English/people/d-e-shaw/README.md)
+
 ### Cinema
 
 [Conclave](English/Cinema/Conclave/README.md), 5 April 2025. Good my way.
