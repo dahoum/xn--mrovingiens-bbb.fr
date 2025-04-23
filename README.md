@@ -86,7 +86,7 @@ x x x
 
 Louise Bourgeois
 
-[David E. Shaw](./English/people/d-e-shaw/README.md)
+[D. E. Shaw](./English/people/d-e-shaw/README.md)
 
 ### Cinema
 

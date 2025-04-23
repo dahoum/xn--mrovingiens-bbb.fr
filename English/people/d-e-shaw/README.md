@@ -1,4 +1,4 @@
-#  David E. Shaw
+#  D. E. Shaw
 
 ## 23 April 2025
 
