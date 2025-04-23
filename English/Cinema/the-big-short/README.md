@@ -2,6 +2,8 @@
 
 ## 23 April 2025
 
+btw [the book](../../Literature/the-big-short/README.md) is v good.
+
 And the Brownfield Fund guys and Brad Pitt.
 
 Especially Michael Burry.

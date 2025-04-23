@@ -46,6 +46,8 @@ Silverview by John le Carré (I am Edward Avon)
 
 The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silverview)
 
+[The Big Short](./English/Literature/the-big-short/README.md)
+
 ### Review of the Press
 
 [Review of the Press](ReviewofthePress/README.md)
@@ -88,7 +90,7 @@ Louise Bourgeois
 
 [Conclave](English/Cinema/Conclave/README.md), 5 April 2025. Good my way.
 
-[The Big Short]
+[The Big Short](./English/Cinema/the-big-short/README.md)
 
 ### Papers and Magazines
 
