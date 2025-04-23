@@ -92,6 +92,8 @@ Louise Bourgeois
 
 [The Big Short](./English/Cinema/the-big-short/README.md)
 
+[Margin Call](./English/Cinema/margin-call/README.md)
+
 ### Papers and Magazines
 
 [![](Images/image-the-intercept.png)](https://theintercept.com)
