@@ -2,7 +2,7 @@
 
 1960
 
-écrit et réalisé par [Jean Cocteau](../../../People/jean-cocteau/README.md)
+écrit et réalisé par [Jean Cocteau](../../les-gens/jean-cocteau/README.md)
 
 ## 21 avril 2025
 
