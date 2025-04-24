@@ -158,6 +158,8 @@ Madame Bovary
 
 [Raymond Radiguet](./People/raymond-radiguet/README.md)
 
+[Jean Cocteau](./Français/les-gens/jean-cocteau/README.md)
+
 ## Music
 
 Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [https://youtu.be/nId-f-_pKbQ](https://youtu.be/nId-f-_pKbQ)
