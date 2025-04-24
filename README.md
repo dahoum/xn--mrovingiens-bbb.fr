@@ -24,11 +24,11 @@ A collection of my intellectusl pursuits. I am merging several 1 000 topics from
 
 ## English
 
-### Original Thoughts
+### Original Thought
 
 [Family Values](./Family/README.md)
 
-[1-(1-1-1)-1](./original-thoughts/1-1-1-1-1/README.md)
+[1-(1-1-1)-1](./English/original-thought/1-1-1-1-1/README.md)
 
 ### Philosophy
 
