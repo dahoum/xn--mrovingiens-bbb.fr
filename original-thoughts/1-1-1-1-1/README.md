@@ -1,0 +1,58 @@
+# 1-(1-1-1)-1
+
+A thought model and a method of how to do what one loves, while earning the money one needs.
+
+The 1-(1-1-1)-1 model and method is based on my life and on my experience mentoring people.Introduction
+Many people are confronted, sooner or later, w/ the above question.
+
+This model and method provide a perspective.
+
+## tl;dr
+
+For the impatient, 1-(1-1-1)-1 translates ingto (read it backwards) —
+
+Amazing Projects <—people remember one when they need someone for—  (Networking <—makes one interesting during— Teach <—will give one content and passion to— Art) <—should leave time for— a job that pays the bills.
+
+## Explanation
+
+### A job that pays the bills
+
+is work which, well, pays the bills. Not every work that pays the bills is of the pays the bills type meant here. The focus should be on stability and reliability. For this to work, one might also need to be humble w/ the bills. Also - this job should leave one some free time.
+
+### Art
+
+are unpaid activities w/ unlimited creativity, which demonstrate one's dreams and aspirations. Art can be anything, drawing, photography, film, public speaking, writing, developing ideas, making prototypes (cooking experimental dishes), creating a proof of concept. Anything.
+
+For example if you are a copywriter, one of the best things you can prove the quality of your work and more importantly - improve the quality of your work - is to begin seriously contributing to one or more Wikipedia articles. Time and again I leave company websites overloaded w/ marketing lingo and go to Wikipedia to understand what the company actually does.
+
+### Teaching
+
+allows one to sparing the Art ideas w/ youngsters/ pupils/ students and thus, develop them (the youngsters/ pupils/ students and the ideas). Besides, teaching is the greatest way of learning.
+
+The original source has been deleted and presently I do not have a source for this graphic.This post was deleted as well.
+
+### Networking
+
+allows one to talk about the Art, which one has practiced and improved through Teaching.
+Networking for Introverts
+
+I have a whole article about that. BUT if you are shy and introvert and networking scares you to death do the following. Go. Woody Allen has said, "80% of success is just showing up". Acclimatise. If needed stand in a corner w/ a drink and be yourself. Find another shy and lonely person. They will love you and you will be surprised how many interesting, exciting, successful people are shy and introvert and shy and lonely at events.
+
+### Networking, Teaching and Art
+
+are in brackets, because there is where the potential for Amazing Projects is created.
+
+### Amazing Projects
+
+are something, which happens occasionally and has higher chances to happen if one can Pay the Bills, develop ideas as Art, sparing them during Teaching, and spreading them during Networking.
+
+Examples
+
+Christo et Jeanne-Claude et l'Arc de Triomphe
+It took Christo et Jeanne-Claude 60 years from the idea to the actuall wrapping of l'Arc de Triomphe.
+Christo w/ the project.Me, watching the result on the last night, 60 years later.Nacht Loerrrders
+I was mentoring some kids when 72andSunny asked for someone who can do a Scratch Mod. I had someone and all this led to the Nacht Loerrrders by Wendy, Lee, and others. It ended up at the Amsterdam Light Festival.
+
+The Waste Land
+
+T. S. Eliot is "considered one of the 20th century's major poets". His 1922 poem The Waste Land is "widely regarded as one of the most important poems of the 20th century". And in 1948 he is awarded Nobel Prize in Literature. Yet throughout his life he holds ordinary jobs. First a teacher. Later a banker w/ Lloyds. And lastly a director at the publishing house Faber & Faber. His Art was literature. He did teach. And he networked well, being close w/ many of the names of the day. Not last, w/ Ezra Pound, who spend two years editing The Waste Land w/ him.

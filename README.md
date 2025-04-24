@@ -28,6 +28,8 @@ A collection of my intellectusl pursuits. I am merging several 1 000 topics from
 
 [Family Values](./Family/README.md)
 
+[1-(1-1-1)-1](./original-thoughts/1-1-1-1-1/README.md)
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
