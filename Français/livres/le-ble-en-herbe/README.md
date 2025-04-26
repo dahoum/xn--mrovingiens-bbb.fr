@@ -10,6 +10,8 @@ I have it in my Books Folder.
 
 ### x x x
 
+"Ce livre a été écrit lors de vacances à Saint-Coulomb, entre Saint-Malo et Cancale."
+
 [https://fr.wikipedia.org/wiki/Le_Blé_en_herbe](https://fr.wikipedia.org/wiki/Le_Blé_en_herbe)
 
 et
