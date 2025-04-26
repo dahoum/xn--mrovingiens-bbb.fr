@@ -182,6 +182,10 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 [Colette](./Français/les-gens/colette/README.md)
 
+### Maisons d'édition
+
+https://fr.wikipedia.org/wiki/J'ai_lu | [Le Blé en herbe](./Français/livres/le-ble-en-herbe/README.md)
+
 ## Music
 
 Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [https://youtu.be/nId-f-_pKbQ](https://youtu.be/nId-f-_pKbQ)
