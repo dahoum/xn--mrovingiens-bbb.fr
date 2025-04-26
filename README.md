@@ -160,7 +160,7 @@ Madame Bovary
 
 [Jean Cocteau](./Français/les-gens/jean-cocteau/README.md)
 
-Colette https://fr.wikipedia.org/wiki/Colette livre et https://fr.wikipedia.org/wiki/Le_Blé_en_herbe_(film) 
+[Colette](./Français/les-gens/colette/README.md)
 
 ## Music
 
