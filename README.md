@@ -140,6 +140,26 @@ Madame Bovary
 
 ### Livres
 
+For a fine vocabulary, read 137 books
+
+https://en.wikipedia.org/wiki/French_literature#French_Nobel_Prize_in_Literature_winners 
+
+https://en.wikipedia.org/wiki/French_literature#French_literary_awards 
+
+https://en.wikipedia.org/wiki/French_literature#Key_texts 
+
+https://fr.wikipedia.org/wiki/Littérature_française 
+
+1 Les Trois Mousquetaires ... audio+epub
+
+2 Le Comte de Monte-Cristo 28 July 2024-9 March 2025 audio only
+
+3 La Comtesse d'Escarbagnas 17 February 2025 audio only 
+
+4 Laura. Voyages et Impressions (1865) 9 March 2025-... audio 
+
+5 [Le Blé en herbe](../livres/le-ble-en-herbe/README.md) 26 April 2025-...
+
 [Surveiller et punir](./Français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./People/michel-foucault/README.md)
 
 [Madame Bovary](./Français/livres/madame-bovary/README.md)
