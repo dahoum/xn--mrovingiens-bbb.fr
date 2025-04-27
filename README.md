@@ -204,7 +204,7 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 ### Maisons d'édition
 
-https://fr.wikipedia.org/wiki/J'ai_lu | [Le Blé en herbe](./Français/livres/le-ble-en-herbe/README.md)
+J'ai lu [https://fr.wikipedia.org/wiki/J'ai_lu](https://fr.wikipedia.org/wiki/J'ai_lu) [Le Blé en herbe](./Français/livres/le-ble-en-herbe/README.md)
 
 ## Music
 
