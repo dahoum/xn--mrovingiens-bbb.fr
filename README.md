@@ -8,6 +8,8 @@ And then I, sometimes, like to cook v labour intensive dishes.
 
 This is a collection of my intellectual pursuits. Fresh as well as past. I am merging several 1 000s of notes from different sources. It might take a while.
 
+You will see, that the content is leading and that the form is like the 1995 Internet. I do not plan to change that.
+
 # Table of Contents
 
 ## Русский
