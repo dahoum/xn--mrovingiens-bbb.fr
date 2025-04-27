@@ -1,6 +1,12 @@
 ![](Images/caution.jpeg)
 
-A collection of my intellectusl pursuits. Several 1 000 of topics from different collections of my notes are being merged here. It might take a while.
+I remember, as a child, my grandmother had tiny bonbons, that were covered w/ their own dust. I liked to keep them in my mouth till the dust had melted and then I would place them on another tray. Once I had licked the dust out of all bonbons.
+
+I think this defines part of my attitude towards books, for it is impossible to read all the good books, but I try to at least get their essense, the feel. Someone once said, that "some people write a book to help other people write one sentence". I think one can enjoy some books simply by having them, by holding them, by reading the dust jacket and a few pages.
+
+And then I, sometimes, like to cook v labour intensive dishes.
+
+This is a collection of my intellectual pursuits. Fresh as well as past. I am merging several 1 000s of notes from different sources. It might take a while.
 
 # Table of Contents
 
@@ -50,6 +56,8 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [The Big Short](./English/Literature/the-big-short/README.md)
 
+[Cavett] by Dick Cavett and ...
+
 ### Review of the Press
 
 [Review of the Press](ReviewofthePress/README.md)
@@ -87,6 +95,8 @@ x x x
 Louise Bourgeois
 
 [D. E. Shaw](./English/people/d-e-shaw/README.md)
+
+[Dick Cavett]
 
 ### Cinema
 
