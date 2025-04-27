@@ -1,3 +1,3 @@
 # Cavett
 
-[Dick Cavett](../../People/dick-cavett/README.md)'s autobiography.
+[Dick Cavett](../../people/dick-cavett/README.md)'s autobiography.
