@@ -16,4 +16,4 @@ I have it in my Books Folder.
 
 et
 
-[https://fr.wikipedia.org/wiki/Le_Blé_en_herbe_(film)](https://fr.wikipedia.org/wiki/Le_Blé_en_herbe_(film)) | https://www.canalplus.com/cinema/le-ble-en-herbe/h/3959094_40099/streaming/ 
+[https://fr.wikipedia.org/wiki/Le_Blé_en_herbe_(film)](https://fr.wikipedia.org/wiki/Le_Blé_en_herbe_(film)) eg. https://www.canalplus.com/cinema/le-ble-en-herbe/h/3959094_40099/streaming/ 
