@@ -156,7 +156,7 @@ https://boutique.arte.tv
 
 Madame Bovary
 
-[Le Blé en herbe]
+[Le Blé en herbe] `27 April 2025`
 
 ### Livres
 
