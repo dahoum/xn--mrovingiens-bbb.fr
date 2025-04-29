@@ -80,6 +80,10 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [Friendship](friendship/README.md) Why is it more difficult to make friends as an adult?
 
+### People
+
+[Sylvia Plath](./english/people/sylvia-plath/README.md) [The Bell Jar](./english/literature/the-bell-jar/README.md)
+
 ## People
 
 [A very high profile people using popular quotes](./Quotes/README.md)
