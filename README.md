@@ -78,6 +78,8 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [Creativity](./Creativity/README.md) Paul McCartney and John Cleese
 
+[Friendship](friendship/README.md) Why is it more difficult to make friends as an adult?
+
 ## People
 
 [A very high profile people using popular quotes](./Quotes/README.md)
