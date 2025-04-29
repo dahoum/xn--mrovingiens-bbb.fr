@@ -36,7 +36,7 @@ You will see, that the content is leading and that the form is like the 1995 Int
 
 [Family Values](./Family/README.md)
 
-[1-(1-1-1)-1](./English/original-thought/1-1-1-1-1/README.md)
+[1-(1-1-1)-1](./english/original-thought/1-1-1-1-1/README.md)
 
 [How I became the Mother of Durrell or Why and How I bought a horse] `2024-`
 
@@ -46,21 +46,21 @@ Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 ### Literature
 
-[Paradise Lost](English/Literature/ParadiseLost/README.md)
+[Paradise Lost](english/Literature/ParadiseLost/README.md)
 
-[The Cocktail Party](English/Literature/the-cocktail-party/README.md) by T. S. Eliot
+[The Cocktail Party](english/Literature/the-cocktail-party/README.md) by T. S. Eliot
 
-[The Revival of Political Imagination. Utopia as Methodology.](./English/Literature/the-revival-of-political-imagination-utopia-as-methodology/README.md) I did not think a book about politics will excited me at my age, like I am in my late teens.
+[The Revival of Political Imagination. Utopia as Methodology.](./english/Literature/the-revival-of-political-imagination-utopia-as-methodology/README.md) I did not think a book about politics will excited me at my age, like I am in my late teens.
 
-[Time Within Time: The Diaries 1970–1986](./English/Literature/time-within-time-the-diaries-1970-1986/README.md) by [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
+[Time Within Time: The Diaries 1970–1986](./english/Literature/time-within-time-the-diaries-1970-1986/README.md) by [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
 
 Silverview by John le Carré (I am Edward Avon)
 
 The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silverview)
 
-[The Big Short](./English/Literature/the-big-short/README.md)
+[The Big Short](./english/Literature/the-big-short/README.md)
 
-[Cavett](./English/Literature/cavett/README.md) by Dick Cavett and ... `27 April 2025-`
+[Cavett](./english/Literature/cavett/README.md) by Dick Cavett and ... `27 April 2025-`
 
 ### Review of the Press
 
@@ -102,17 +102,17 @@ x x x
 
 Louise Bourgeois
 
-[D. E. Shaw](./English/people/d-e-shaw/README.md)
+[D. E. Shaw](./english/people/d-e-shaw/README.md)
 
 [Dick Cavett]
 
 ### Cinema
 
-[Conclave](English/Cinema/Conclave/README.md), 5 April 2025. Good my way.
+[Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
 
-[The Big Short](./English/Cinema/the-big-short/README.md)
+[The Big Short](./english/cinema/the-big-short/README.md)
 
-[Margin Call](./English/Cinema/margin-call/README.md)
+[Margin Call](./english/cinema/margin-call/README.md)
 
 ### Papers and Magazines
 
