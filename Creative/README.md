@@ -1,4 +1,4 @@
-# Creative
+# Creativity
 
 ## 29 April 2025
 
