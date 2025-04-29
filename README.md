@@ -218,6 +218,8 @@ Claude Debussy 2 Arabesques, CD 74: No. 1 in E Major. Andantino con moto -- [htt
 
 [White Rabbit](./music/white-rabbit/README.md) by Jefferson Airplane
 
+Señorita [https://youtu.be/Pkh8UtuejGw](https://youtu.be/Pkh8UtuejGw)
+
 ## Computing
 
 [Agile. My Way.](Computing/AgileMyWay/README.md)
