@@ -87,35 +87,29 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 ### People
 
-[Sylvia Plath](./english/people/sylvia-plath/README.md) [The Bell Jar](./english/literature/the-bell-jar/README.md)
-
-## People
-
 [A very high profile people using popular quotes](./Quotes/README.md)
 
 [My Idols are Dead and my Enempies are in Power](People/MyIdolsareDeadandmyEnemiesareinPower/README.md)
 
 [Extraordinary people have ordinary problems](./People/extraordinary-people-have-ordinary-problems/README.md)
 
-x x x
+#### x x x
 
 [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
 
 [Anthony Bourdain](People/AnthonyBourdain/README.md)
 
-[Friedrich Nietzsche](People/FriedrichNietzsche/README.md)
-
-[Herbert von Karajan](People/HerbertvonKarajan/README.md)
-
 [Leonard Bernstein](People/LeonardBernstein/README.md)
 
-Louise Bourgeois
-
 [D. E. Shaw](./english/people/d-e-shaw/README.md)
+
+[Sylvia Plath](./english/people/sylvia-plath/README.md) [The Bell Jar](./english/literature/the-bell-jar/README.md)
 
 [Dick Cavett]
 
 [Ursula Le Guin](./english/people/ursula-le-guin/README.md) `30 April 2025`
+
+Louise Bourgeois
 
 ### Cinema
 
@@ -140,6 +134,12 @@ Louise Bourgeois
 Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understandable way, half of the problem is solved."
 
 ## Deutsch
+
+### Personen
+
+[Friedrich Nietzsche](People/FriedrichNietzsche/README.md)
+
+[Herbert von Karajan](People/HerbertvonKarajan/README.md)
 
 ### Literatur
 

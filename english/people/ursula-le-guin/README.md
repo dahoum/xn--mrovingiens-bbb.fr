@@ -14,4 +14,4 @@ The formative book of a good friend in his late teens and early 20s.
 
 “The creative adult is the child who survived.”
 
-(source)
+-- apparently from No Time to Spare
