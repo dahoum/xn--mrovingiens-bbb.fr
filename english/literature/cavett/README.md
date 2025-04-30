@@ -4,6 +4,12 @@
 
 ## 30 April 2025
 
+![](2025-04-30-1440.jpeg)
+
+![](2025-04-30-1450.jpeg)
+
+### x x x
+
 Anathomy of disillusionment.
 
 ![](2025-04-30-1430.jpeg)
