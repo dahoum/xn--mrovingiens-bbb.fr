@@ -63,7 +63,9 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 [Cavett](./english/literature/cavett/README.md) by Dick Cavett and Christopher Porterfield `27 April 2025-`
 
 
-[Eye on Cavett] While researching Christopher Porterfield in relation to [Cavett](./english/literature/cavett/README.md) `30 April 2025`
+[Eye on Cavett] While researching Christopher Porterfield in relation to [Cavett](./english/literature/cavett/README.md) `30 April 2025-`
+
+[A Wizard of Earthsea](./english/literature/a-wizard-of-earthsea/README.md) by [Ursula Le Guin](./english/people/ursula-le-guin/README.md) The formative book of a good friend in his late teens and early 20s.
 
 ### Review of the Press
 
@@ -112,6 +114,8 @@ Louise Bourgeois
 [D. E. Shaw](./english/people/d-e-shaw/README.md)
 
 [Dick Cavett]
+
+[Ursula Le Guin](./english/people/ursula-le-guin/README.md) `30 April 2025`
 
 ### Cinema
 
