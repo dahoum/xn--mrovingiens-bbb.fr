@@ -60,8 +60,10 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [The Big Short](./english/literature/the-big-short/README.md)
 
-[Cavett](./english/literature/cavett/README.md) by Dick Cavett and ... `27 April 2025-`
+[Cavett](./english/literature/cavett/README.md) by Dick Cavett and Christopher Porterfield `27 April 2025-`
 
+
+[Eye on Cavett] While researching Christopher Porterfield in relation to [Cavett](./english/literature/cavett/README.md) `30 April 2025`
 
 ### Review of the Press
 
