@@ -46,21 +46,21 @@ Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 ### Literature
 
-[Paradise Lost](english/Literature/ParadiseLost/README.md)
+[Paradise Lost](english/literature/ParadiseLost/README.md)
 
-[The Cocktail Party](english/Literature/the-cocktail-party/README.md) by T. S. Eliot
+[The Cocktail Party](english/literature/the-cocktail-party/README.md) by T. S. Eliot
 
-[The Revival of Political Imagination. Utopia as Methodology.](./english/Literature/the-revival-of-political-imagination-utopia-as-methodology/README.md) I did not think a book about politics will excited me at my age, like I am in my late teens.
+[The Revival of Political Imagination. Utopia as Methodology.](./english/literature/the-revival-of-political-imagination-utopia-as-methodology/README.md) I did not think a book about politics will excited me at my age, like I am in my late teens.
 
-[Time Within Time: The Diaries 1970–1986](./english/Literature/time-within-time-the-diaries-1970-1986/README.md) by [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
+[Time Within Time: The Diaries 1970–1986](./english/literature/time-within-time-the-diaries-1970-1986/README.md) by [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
 
 Silverview by John le Carré (I am Edward Avon)
 
 The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silverview)
 
-[The Big Short](./english/Literature/the-big-short/README.md)
+[The Big Short](./english/literature/the-big-short/README.md)
 
-[Cavett](./english/Literature/cavett/README.md) by Dick Cavett and ... `27 April 2025-`
+[Cavett](./english/literature/cavett/README.md) by Dick Cavett and ... `27 April 2025-`
 
 ### Review of the Press
 
