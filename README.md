@@ -40,6 +40,8 @@ You will see, that the content is leading and that the form is like the 1995 Int
 
 [How I became the Mother of Durrell or Why and How I bought a horse] `2024-`
 
+People Reading in Public
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
