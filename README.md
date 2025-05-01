@@ -69,7 +69,7 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [A Wizard of Earthsea](./english/literature/a-wizard-of-earthsea/README.md) by [Ursula Le Guin](./english/people/ursula-le-guin/README.md) The formative book of a good friend in his late teens and early 20s.
 
-[The Handmaid's Tale] MA on recommendation by AEE I first refused due to hype then discovered its 300 pages and how did they make so many episodes? `1 May 2025`
+[The Handmaid's Tale] MA on recommendation by AEE I first refused due to hype then discovered its 300 pages and how did they make so many episodes? `1 May 2025` image in the desert eat stones ///
 
 ### Review of the Press
 
