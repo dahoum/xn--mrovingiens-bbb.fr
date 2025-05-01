@@ -105,13 +105,15 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [D. E. Shaw](./english/people/d-e-shaw/README.md)
 
-[Sylvia Plath](./english/people/sylvia-plath/README.md) [The Bell Jar](./english/literature/the-bell-jar/README.md)
+[Sylvia Plath](./english/people/sylvia-plath/README.md) [The Bell Jar](./english/literature/the-bell-jar/README.md) [https://en.wikipedia.org/wiki/Dame_Edna_Everage])https://en.wikipedia.org/wiki/Dame_Edna_Everage)
 
 [Dick Cavett]
 
 [Ursula Le Guin](./english/people/ursula-le-guin/README.md) `30 April 2025`
 
 Louise Bourgeois
+
+[Dame Edna] w/ Trump [https://www.facebook.com/reel/137556588406027?fs=e&fs=e](https://www.facebook.com/reel/137556588406027?fs=e&fs=e) 
 
 ### Cinema
 
