@@ -109,7 +109,7 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [Sylvia Plath](./english/people/sylvia-plath/README.md) [The Bell Jar](./english/literature/the-bell-jar/README.md) [https://en.wikipedia.org/wiki/Dame_Edna_Everage])https://en.wikipedia.org/wiki/Dame_Edna_Everage)
 
-[Dick Cavett]
+[Dick Cavett](./english/people/dick-cavett/README.md) reading Cavett `3 May 2025`
 
 [Ursula Le Guin](./english/people/ursula-le-guin/README.md) `30 April 2025`
 
