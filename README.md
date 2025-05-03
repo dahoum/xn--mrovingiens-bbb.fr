@@ -119,6 +119,8 @@ Louise Bourgeois
 
 Huxley https://www.facebook.com/reel/1942626972759778?fs=e&fs=e 
 
+[Stuart Nolan](./english/people/stuart-nolan/README.md) re: PhD `3 May 2025`
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
