@@ -2,6 +2,11 @@
 
 [Dick Cavett](../../people/dick-cavett/README.md)'s autobiography.
 
+## 3 May 2025
+
+![](2025-05-03-1030.png)
+
+
 ## 30 April 2025
 
 ![](2025-04-30-1440.jpeg)
