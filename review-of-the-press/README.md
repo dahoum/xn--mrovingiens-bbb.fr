@@ -1,5 +1,13 @@
 # Review of the Press
 
+## 4 May 2025
+
+"Faschismus war keine italienische Besonderheit, und der Nationalsozialismus war keine deutsche. Sie waren Teile einer weltweiten Bewegung, die Demokratie und rechtsstaatliche Institutionen beiseite fegte, um starken Männern ein möglichst unbehindertes Regiment zu ermöglichen. Die Idee von Checks and Balances, die Vorstellung, dass Macht kontrolliert werden müsse, wurde diskreditiert."
+
+![](2025-05-04-1449.png)
+
+[https://www.fr.de/kultur/deutsche-geschichte-faschismus-seiner-epoche-12251270.html](https://www.fr.de/kultur/deutsche-geschichte-faschismus-seiner-epoche-12251270.html)
+
 ## 24 March 2025
 
 [https://edition.cnn.com/2025/03/24/politics/trump-bondi-elite-universities-boasberg-judges-deportation/index.html](https://edition.cnn.com/2025/03/24/politics/trump-bondi-elite-universities-boasberg-judges-deportation/index.html)

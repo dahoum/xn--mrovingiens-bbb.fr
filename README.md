@@ -73,7 +73,7 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 ### Review of the Press
 
-[Review of the Press](ReviewofthePress/README.md)
+[Review of the Press](./review-of-the-press/README.md)
 
 ### Human Nature
 
@@ -164,6 +164,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 ### Rechtswissenschaft
 
 [Rechtswissenschaft](Rechtswissenschaft/README.md)
+
+## Gesellschaft
+
+Historikerstreit / Ernst Nolte / Der Faschismus in seiner Epoche / see Review of the Press of 4 May 2025
 
 ## Français
 
