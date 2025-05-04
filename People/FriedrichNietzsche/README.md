@@ -1,3 +1,3 @@
 # Friedrich Nietzsche 
 
-[Also sprach Zarathustra](../../Deutsch/Literatur/AlsosprachZarathustra/README.md)
+[Also sprach Zarathustra](../../deutsch/Literatur/AlsosprachZarathustra/README.md)

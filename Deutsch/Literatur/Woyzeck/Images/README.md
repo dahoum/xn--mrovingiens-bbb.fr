@@ -1,1 +1,0 @@
-# Woyzeck Images
