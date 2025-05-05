@@ -89,6 +89,8 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [Friendship](friendship/README.md) Why is it more difficult to make friends as an adult?
 
+Change / Change before you have to / when you change (that image) /
+
 ### People
 
 [A very high profile people using popular quotes](./Quotes/README.md)
