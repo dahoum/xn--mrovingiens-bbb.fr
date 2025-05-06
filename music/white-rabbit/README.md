@@ -4,7 +4,11 @@ Jefferson Airplane
 
 ## 20 April 2025
 
-[https://youtu.be/ejKUJu9xct4](https://youtu.be/ejKUJu9xct4)
+Hear it on [YouTube](https://youtu.be/ejKUJu9xct4)
+
+Extended edit on [YouTube](https://youtu.be/8-ZZ5n9Br5I?si=Di4DedI6RRFHW-07)
+
+### x x x
 
 One pill makes you larger
 
