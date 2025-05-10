@@ -46,6 +46,8 @@ You will see, that the content is leading and that the form is like the 1995 Int
 
 People Reading in Public
 
+[Famous People as Young Adults]()
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
