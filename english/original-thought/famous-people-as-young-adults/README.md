@@ -4,6 +4,6 @@ Famous people can be an example and an inspiration. Yet, they are often portrait
 
 ## Margot Friedländer
 
-Left. Undated photograph.
+Left. Undated photograph from the Berliner Zeitung.
 
 ![](margot-friedlaender.jpeg)
