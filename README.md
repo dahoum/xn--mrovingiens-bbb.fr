@@ -1,14 +1,14 @@
 ![](Images/caution.jpeg)
 
-I remember, as a child, my grandmother had tiny bonbons, that were covered w/ their own dust. I liked to keep them in my mouth till the dust had melted and then I would place them on another tray. Once I had licked the dust out of all bonbons.
+I remember, as a child, my grandmother had bonbons, that were covered w/ their own dust. I liked to keep them in my mouth till the dust had melted and then I would place them on another tray. Once I had licked the dust out of all bonbons.
 
 I think this defines part of my attitude towards books, for it is impossible to read all the good books, but I try to at least get their essense, the feel. Someone once said, that "some people write a book to help other people write one sentence". I think one can enjoy some books simply by having them, by holding them, by reading the dust jacket and a few pages.
 
-And then I, sometimes, like to cook v labour intensive dishes.
+This is a collection of my intellectual pursuits. I am uploading several 1 000s of notes from different sources. It might take a while.
 
-This is a collection of my intellectual pursuits. Fresh as well as past. I am merging several 1 000s of notes from different sources. It might take a while.
+The content is leading and that the form is like the 80s Internet.
 
-You will see, that the content is leading and that the form is like the 1995 Internet. I do not plan to change that.
+I do not plan to change that.
 
 # Notes
 
