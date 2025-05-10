@@ -6,4 +6,4 @@ Famous people can be an example and an inspiration. Yet, they are often portrait
 
 Left. Undated photograph.
 
-![](margot-friedlaender.jpeg]
+![](margot-friedlaender.jpeg)
