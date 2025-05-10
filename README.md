@@ -46,7 +46,7 @@ You will see, that the content is leading and that the form is like the 1995 Int
 
 People Reading in Public
 
-[Famous People as Young Adults]()
+[Famous People as Young Adults](./english/original-thought/famous-people-as-young-adults/README.md)
 
 ### Philosophy
 
