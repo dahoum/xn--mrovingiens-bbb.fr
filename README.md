@@ -173,9 +173,13 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Rechtswissenschaft](Rechtswissenschaft/README.md)
 
-## Gesellschaft
+### Gesellschaft
 
 Historikerstreit / Ernst Nolte / Der Faschismus in seiner Epoche / see Review of the Press of 4 May 2025
+
+### Zeitschriften
+
+https://brotundspielezeitschrift.at via Claudia fb
 
 ## Français
 
