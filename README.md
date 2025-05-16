@@ -48,7 +48,7 @@ People Reading in Public
 
 [Famous People as Young Adults](./english/original-thought/famous-people-as-young-adults/README.md)
 
-[(working title) Empathy as an Ingredient of Expertise](.englush/original-thought/empathy-as-an-ingredient-of-expertise/README.md)
+[(working title) Empathy as an Ingredient of Expertise](./english/original-thought/empathy-as-an-ingredient-of-expertise/README.md)
 
 ### Philosophy
 
