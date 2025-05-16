@@ -48,6 +48,8 @@ People Reading in Public
 
 [Famous People as Young Adults](./english/original-thought/famous-people-as-young-adults/README.md)
 
+[(working title) Empathy as Ingredient of Expertise](.englush/original-thought/empathy-as-ingredient-of-expertise/README.md)
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
