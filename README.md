@@ -163,6 +163,8 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Herbert von Karajan](People/HerbertvonKarajan/README.md)
 
+[Elfride Jelinek](deutsch/leute/elfride-jelinek/README.md)
+
 ### Literatur
 
 [Also sprach Zarathustra](deutsch/Literatur/AlsosprachZarathustra/README.md)
