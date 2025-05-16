@@ -54,6 +54,8 @@ Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 ### Literature
 
+[A Theory of Semiotics](./english/literature/a-theory-of-semiotics/README.md) by Umberto Eco
+
 [Paradise Lost](english/literature/ParadiseLost/README.md)
 
 [The Cocktail Party](english/literature/the-cocktail-party/README.md) by T. S. Eliot
