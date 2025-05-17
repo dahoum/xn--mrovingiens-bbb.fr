@@ -165,6 +165,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Elfride Jelinek](deutsch/leute/elfride-jelinek/README.md)
 
+[Ferdinand Raimund]
+
+[Johann Nestroy]
+
 ### Literatur
 
 [https://de.wikipedia.org/wiki/Kleinschreibung](https://de.wikipedia.org/wiki/Kleinschreibung) Adolf Loos, Elfride Jelinek
