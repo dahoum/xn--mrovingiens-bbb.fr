@@ -4,6 +4,8 @@
 
 ## 17 Mai 2025
 
+Gewalt und Geschlecht in Elfriede Jelineks Burgtheater von Merle Proll über [https://www.grin.com/user/5529972](https://www.grin.com/user/5529972) (ich besitze eine Kopie)
+
 "Sehr wichtig ist die Behandlung der Sprache, sie ist als eine Art Kunstsprache zu verstehen. Nur Anklänge an den echten Wiener Dialekt! Alles wird genauso gesprochen, wie es geschrieben ist. Es ist sogar wünschenswert, wenn ein deutscher Schauspieler den Text wie einen fremdsprachigen Text lernt und spricht."
 
 https://de.wikipedia.org/wiki/Mavie_Hörbiger
