@@ -4,10 +4,6 @@
 
 [Burgtheater](../../literatur/burgtheater/README.md)
 
-[Burgtheater 1](https://original.elfriedejelinek.com/fburgth1.html)
-
-[Burgtheater 2](https://original.elfriedejelinek.com/fburgth2.html)
-
 [Schule](https://original.elfriedejelinek.com/fschule.html)
 
 Macht —

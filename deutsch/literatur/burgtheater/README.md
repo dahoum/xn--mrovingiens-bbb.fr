@@ -17,3 +17,7 @@ Nochmal.
 ## 16 Mai 2025
 
 Anfang.
+
+[Burgtheater 1](https://original.elfriedejelinek.com/fburgth1.html)
+
+[Burgtheater 2](https://original.elfriedejelinek.com/fburgth2.html)
