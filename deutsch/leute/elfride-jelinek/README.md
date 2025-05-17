@@ -14,6 +14,8 @@ Aus eigenem Antrieb —
 
 (Comenius...)
 
+"Man weiß ja als Kind nicht, wo man sonst hingehen sollte als nach Hause, wo man mit Schritten und Tritten korrigiert wird. Ein Horrorfilm."
+
 ### x x x
 
 [https://original.elfriedejelinek.com/fstab.html](https://original.elfriedejelinek.com/fstab.html)
