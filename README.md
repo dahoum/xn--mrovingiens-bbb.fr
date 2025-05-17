@@ -175,13 +175,15 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 ### x x x
 
-[Also sprach Zarathustra](deutsch/Literatur/AlsosprachZarathustra/README.md)
+[Also sprach Zarathustra](deutsch/literatur/AlsosprachZarathustra/README.md)
 
-[Der Prozeß](deutsch/Literatur/DerProzeß/README.md)
+[Der Prozeß](deutsch/literatur/DerProzeß/README.md)
 
-[Woyzeck](deutsch/Literatur/Woyzeck/README.md)
+[Woyzeck](deutsch/literatur/Woyzeck/README.md)
 
-[Das Lachen der Ungetäuschten](./deutsch/Literatur/das-lachen-der-ungetäuschten/README.md)
+[Das Lachen der Ungetäuschten](./deutsch/literatur/das-lachen-der-ungetäuschten/README.md)
+
+[Burgtheater](./deutsch/literatur/burgtheater/README.md)
 
 ### Rechtswissenschaft
 

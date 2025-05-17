@@ -2,7 +2,7 @@
 
 ## 17 May 2025
 
-[Burgtheater](../../Literatur/burgtheater/README.md)
+[Burgtheater](../../literatur/burgtheater/README.md)
 
 [Burgtheater 1](https://original.elfriedejelinek.com/fburgth1.html)
 
