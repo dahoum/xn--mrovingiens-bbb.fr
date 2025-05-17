@@ -2,6 +2,12 @@
 
 Umberto Eco
 
+## 17 May 2025
+
+Umberto Eco describes how the ability of the Australopithecus to use a rock to kill and then to see another rock and to have the idea of killing represents signification, but not communication; it is the same w/ the populist politicians and their followers. Their abilities end w/ identifying to kill. They are unable to engage in a constructive discourse. A Theory of Semiotics.
+
+IMAGE
+
 ## 16 May 2025
 
 ![](2025-05-16-2345.jpeg)
