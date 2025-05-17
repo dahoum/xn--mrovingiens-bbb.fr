@@ -167,6 +167,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 ### Literatur
 
+[https://de.wikipedia.org/wiki/Kleinschreibung](https://de.wikipedia.org/wiki/Kleinschreibung) Adolf Loos, Elfride Jelinek
+
+### x x x
+
 [Also sprach Zarathustra](deutsch/Literatur/AlsosprachZarathustra/README.md)
 
 [Der Prozeß](deutsch/Literatur/DerProzeß/README.md)
