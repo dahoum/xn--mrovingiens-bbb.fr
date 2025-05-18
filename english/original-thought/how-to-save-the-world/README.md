@@ -1,6 +1,6 @@
 # How to Save the World
 
-Those who want to save the world face two primary challenges: there are many problems, that need solving and the information (and lately the digital communication) is overwhelming.
+Those who want to save the world face two primary challenges: there are many problems, that need solving and the amount of information and lately, the amount of digital communication, are overwhelming.
 
 I have solved these two problems for myself in a scientific way, which means "for now".
 
