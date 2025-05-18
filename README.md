@@ -87,6 +87,8 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 [The Handmaid's Tale] MA on recommendation by AEE I first refused due to hype then discovered its 300 pages and how did they make so many episodes? `1 May 2025` image in the desert eat stones ///
 
+Everybody's Protest Novel by James Baldwin in relation to Uncle Tom's Cabin `18 May 2025`
+
 ### Review of the Press
 
 [Review of the Press](./review-of-the-press/README.md)
