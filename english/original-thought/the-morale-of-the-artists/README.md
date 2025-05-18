@@ -48,6 +48,6 @@ The thought of new artists bothered me, when I was young. "There are so many goo
 
 But then I evolved.
 
-Even if in a certain area there is no new knowledge, there can ge new sensitivities, which we must incorporate, and new perspectives.
+Even if in a certain area there is no new knowledge, there can ge new sensibilities, which we must incorporate, as well as new perspectives.
 
 And we must ask new questions.
