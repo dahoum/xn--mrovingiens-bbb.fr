@@ -28,16 +28,16 @@ There is a finite number of people and a finite number of places.
 
 The number of people and places is much smaller, than the amount of information and the avalange of social media posts, many of them auto-generated w/ a good or w/ a bad purpose.
 
-What counts at the end are the people. If the people disappear, all the machines will have no purpose (unless they have have been made self-sufficient, but then they will still have no purpose beyond what was put into them).
+What counts at the end are the people. If the people disappear, all the machines will have no purpose and stop (unless they have have been made to self-maintain and self-reproduce, but even then they will still have no purpose beyond what was put into them).
 
-So, go out and play!
+So, go out and meet people.
 
 ## Cooperate
 
-Focusing is important, becoming an island is mostly not useful.
+Focus is important, becoming an island is mostly not useful.
 
-ALl thopics have intersection points w/ other topics.
+Most thopics have intersection points w/ other topics.
 
-Find the intersection points of your topics and cooperate w/ people focused on other topics.
+Find the intersection points of your topics and cooperate w/ those, who have focused on other topics.
 
-This will help both your topics and their topics to advance in a better, balanced way and will protect both topics from taking extreme positions.
+This will help both your topics and their topics to advance in a balanced way and will protect both of you from taking extreme positions.
