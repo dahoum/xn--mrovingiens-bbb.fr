@@ -41,3 +41,9 @@ Most thopics have intersection points w/ other topics.
 Find the intersection points of your topics and cooperate w/ those, who have focused on other topics.
 
 This will help both your topics and their topics to advance in a balanced way and will protect both of you from taking extreme positions.
+
+### x x x
+
+When thinking about cooperations, think broadly. For example one of my focuses is renewable energy and I have a friend, one of whose focuses is empathy. And these subjects do overlap, for one of the hopes for the renewable energy is to steer against the climate change and the climate change will have broad and deep effect on people all over the world. Having empathy for those people adds to the motivation to work hard on renewable energy.
+
+Similarly broad interest in history, art and human nature will help you better understand the world and have a more sound judgement, when it comes to convroversal topics.
