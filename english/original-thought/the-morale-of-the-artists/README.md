@@ -51,3 +51,7 @@ But then I evolved.
 Even if in some area of life there is no new knowledge, there can ge new sensitivities, which we must incorporat4e, and new perspectives.
 
 And we must ask new questions.
+
+----
+
+I am full of doubt and love discourse. If you feel like discussing, I am reachable under t.e.shaw@dahoum.wales.
