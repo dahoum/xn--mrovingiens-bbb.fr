@@ -50,6 +50,8 @@ People Reading in Public
 
 [(working title) Empathy as an Ingredient of Expertise](./english/original-thought/empathy-as-an-ingredient-of-expertise/README.md)
 
+[How to Save the World](./english/original-thought/how-to-save-the-world/README.md)
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
