@@ -1,10 +1,8 @@
 ![](Images/caution.jpeg)
 
-I remember, as a child, my grandmother had bonbons, that were covered w/ their own dust. I liked to keep them in my mouth till the dust had melted and then I would place them on another tray. Once I had licked the dust out of all bonbons.
+This is a collection of my intellectual pursuits. I am currently uploading here several 1 000s of my notes from different sources. It might take a while to get them all. I mostly do it, when I revisit a topic.
 
-I think this defines part of my attitude towards books, for it is impossible to read all the good books, but I try to at least get their essense, the feel. Someone once said, that "some people write a book to help other people write one sentence". I think one can enjoy some books simply by having them, by holding them, by reading the dust jacket and a few pages.
-
-This is a collection of my intellectual pursuits. I am uploading several 1 000s of notes from different sources. It might take a while.
+There is no AI generated content on these pages and no spellchecker have been employed.
 
 The content is leading and that the form is like the 80s Internet.
 
@@ -52,11 +50,17 @@ People Reading in Public
 
 [How to Save the World](./english/original-thought/how-to-save-the-world/README.md)
 
+[The Morale of the Artists](./english/original-thought/the-morale-of-the-artists/README.md)
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
 
 ### Literature
+
+I remember, as a child, my grandmother had bonbons, that were covered w/ their own dust. I liked to keep them in my mouth till the dust had melted and then I would place them on another tray. Once I had licked the dust out of all bonbons.
+
+I think this defines part of my attitude towards books, for it is impossible to read all the good books, but I try to at least get their essense, the feel. Someone once said, that "some people write a book to help other people write one sentence". I think one can enjoy some books simply by having them, by holding them, by reading the dust jacket and a few pages.
 
 [A Theory of Semiotics](./english/literature/a-theory-of-semiotics/README.md) by Umberto Eco
 
