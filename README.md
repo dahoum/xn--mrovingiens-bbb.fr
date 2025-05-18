@@ -103,6 +103,8 @@ Change / Change before you have to / when you change (that image) /
 
 ### People
 
+[Foreigners](./english/people/foreigners/README.md)
+
 [A very high profile people using popular quotes](./Quotes/README.md)
 
 [My Idols are Dead and my Enempies are in Power](People/MyIdolsareDeadandmyEnemiesareinPower/README.md)
