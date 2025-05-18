@@ -2,7 +2,7 @@
 
 _or how to be an artist and an audience in a world, that oscilates from "hosanna" to "crucify him"?_
 
-_or what is the humanist version of "the ones, who are without sin among you, let them first cast a stone"?_
+_and what is the humanist version of "the ones, who are without sin amongst you, let them first cast a stone"?_
 
 ## How it all Began
 
@@ -22,7 +22,7 @@ This offered a perspective. I do not know if the perspective is right. But it of
 
 ## Growing Sensibilities
 
-Uncle Tom's Cabin has had a profound effect on attitudes toward African Americans and slavery in the United States and is said to have "helped lay the groundwork for the American Civil War" [[Wikipedia](https://en.wikipedia.org/wiki/Uncle_Tom%27s_Cabin)].
+Uncle Tom's Cabin has had a profound effect on the attitudes toward African Americans and slavery in the United States and is said to have "helped lay the groundwork for the American Civil War" [[Wikipedia](https://en.wikipedia.org/wiki/Uncle_Tom%27s_Cabin)].
 
 Yet, later, the book has been profoundly criticised [[Wikipedia](https://en.wikipedia.org/wiki/Uncle_Tom%27s_Cabin#20th_century_and_modern_criticism)].
 
@@ -48,10 +48,6 @@ The thought of new artists bothered me, when I was young. "There are so many goo
 
 But then I evolved.
 
-Even if in some area of life there is no new knowledge, there can ge new sensitivities, which we must incorporat4e, and new perspectives.
+Even if in a certain area there is no new knowledge, there can ge new sensitivities, which we must incorporate, and new perspectives.
 
 And we must ask new questions.
-
-----
-
-I am full of doubt and love discourse. If you feel like discussing, I am reachable under t.e.shaw@dahoum.wales.
