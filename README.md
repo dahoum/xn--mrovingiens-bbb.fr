@@ -145,6 +145,8 @@ Huxley https://www.facebook.com/reel/1942626972759778?fs=e&fs=e
 
 [Casanova] https://www.bbc.com/reel/video/p0lb6x9t/inside-the-hidden-quarters-of-history-s-greatest-seducer https://it.wikipedia.org/wiki/Lia_Celi The G Variations Prague
 
+Wes Anderson
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
@@ -152,6 +154,8 @@ Huxley https://www.facebook.com/reel/1942626972759778?fs=e&fs=e
 [The Big Short](./english/cinema/the-big-short/README.md)
 
 [Margin Call](./english/cinema/margin-call/README.md)
+
+The Grand Budapest Hotel
 
 ### Papers and Magazines
 
