@@ -8,6 +8,10 @@ The content is leading and that the form is like the 80s Internet.
 
 I do not plan to change that.
 
+# Timeline
+
+[21 May 2025](./timeline/2025/01/21/README.md)
+
 # Notes
 
 ## Русский
