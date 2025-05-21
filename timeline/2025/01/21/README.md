@@ -4,7 +4,7 @@
 
 ![](der-35-mai.jpg)
 
-My father gave me this book when I was a little boy. This was the first time I realised one can invent things, which do not exist, like 35 May.
+My father gave it to me when I was a little boy. This was the first time I realised, that one can modify the reality. Like inventing the 35 of May.
 
 ## Want to Talk?
 
