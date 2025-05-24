@@ -6,6 +6,9 @@ Quality begins before even the person has been born or the organisation, product
 
 Why else do we proudly have Made in Germany and Swiss Made? German cars. Swiss watches. French parfume.
 
+Michael Lewis. The Big Short ——
+![](2025-05-25-0035.jpeg)
+
 ## Ends
 
 Quality ends long after the person has died or the organisation  product or service ceased to exist.
