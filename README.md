@@ -93,6 +93,8 @@ The Rings of Saturn by W. G. Sebald (learned about it from Edward Avon from Silv
 
 Everybody's Protest Novel by James Baldwin in relation to Uncle Tom's Cabin `18 May 2025`
 
+The Big Short `25 May 2025`
+
 ### Review of the Press
 
 [Review of the Press](./review-of-the-press/README.md)
