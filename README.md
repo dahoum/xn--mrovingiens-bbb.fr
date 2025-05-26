@@ -167,6 +167,8 @@ The Grand Budapest Hotel
 
 [![](Images/image-the-intercept.png)](https://theintercept.com)
 
+[![](review-of-the-press/sfgate.jpeg)](https://www.sfgate.com)
+
 ### Articles
 
 #### 12 April 2025
