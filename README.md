@@ -303,6 +303,8 @@ Señorita [https://youtu.be/Pkh8UtuejGw](https://youtu.be/Pkh8UtuejGw)
 
 [The Cold Song](./music/the-cold-song/README.md) Best performances and Special Mentions.
 
+[Lithium](music/lithium/README.md)
+
 ## Computing
 
 [Agile. My Way.](Computing/AgileMyWay/README.md)
