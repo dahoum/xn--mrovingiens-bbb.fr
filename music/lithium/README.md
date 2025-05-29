@@ -1,6 +1,7 @@
 # Lithium
 
 I'm so happy 'cause today I found my friends
+
 They're in my head
 
 ## Covers
