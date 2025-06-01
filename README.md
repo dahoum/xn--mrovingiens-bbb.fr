@@ -163,6 +163,8 @@ Wes Anderson
 
 The Grand Budapest Hotel
 
+[One Flew Over the Cuckoo's Nest](english/cinema/one-flew-over-the-cuckoos-nest/README.md)
+
 ### Papers and Magazines
 
 [![](Images/image-the-intercept.png)](https://theintercept.com)
