@@ -2,6 +2,10 @@
 
 Foreigners change their adopted countries and the world.
 
+## Elia Kazan
+
+https://www.nytimes.com/2003/09/28/obituaries/elia-kazan-influential-director-dies-at-94.html
+
 ## JJ
 
 Austrians like to ridicule the Eiropean Song contest, but an Austria won it this year and the winner's mother is a Filipina.
