@@ -119,7 +119,7 @@ be useful | Arnold Schwarzernegger, his autobiography. [Elia Kazan](./people/eli
 
 ### People
 
-[Foreigners](./english/people/foreigners/README.md)
+[Foreigners](./english/people/foreigners)
 
 [A very high profile people using popular quotes](./Quotes/README.md)
 
