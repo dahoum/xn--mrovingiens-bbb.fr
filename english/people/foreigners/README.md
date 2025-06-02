@@ -4,7 +4,11 @@ Foreigners change their adopted countries and the world.
 
 ## Elia Kazan
 
-https://www.nytimes.com/2003/09/28/obituaries/elia-kazan-influential-director-dies-at-94.html
+"Elia Kazan, the immigrant child of a Greek rug merchant who
+became one of the most honored and influential directors in
+Broadway and Hollywood history..." [[Source](https://www.nytimes.com/2003/09/28/obituaries/elia-kazan-influential-director-dies-at-94.html)]
+
+![](elia-kazan.jpg)
 
 ## JJ
 
