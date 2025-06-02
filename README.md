@@ -115,6 +115,8 @@ The Big Short `25 May 2025`
 
 Change / Change before you have to / when you change (that image) /
 
+be useful | Arnold Schwarzernegger, his autobiography. [Elia Kazan](./people/elia-kazan/README.md, read the obituary.
+
 ### People
 
 [Foreigners](./english/people/foreigners/README.md)
