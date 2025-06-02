@@ -1,6 +1,6 @@
 # Also sprach Zarathustra
 
-[Friedrich Nietzsche](../../../People/FriedrichNietzsche/README.md)
+[Friedrich Nietzsche](../../../people/FriedrichNietzsche/README.md)
 
 ## 28 March 2025
 

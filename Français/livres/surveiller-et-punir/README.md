@@ -2,7 +2,7 @@
 
 1975
 
-de [Michel Foucault](../../../People/michel-foucault/README.md)
+de [Michel Foucault](../../../people/michel-foucault/README.md)
 
 ## 18 April 2025
 

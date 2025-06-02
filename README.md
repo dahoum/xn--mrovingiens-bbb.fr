@@ -74,7 +74,7 @@ I think this defines part of my attitude towards books, for it is impossible to 
 
 [The Revival of Political Imagination. Utopia as Methodology.](./english/literature/the-revival-of-political-imagination-utopia-as-methodology/README.md) I did not think a book about politics will excited me at my age, like I am in my late teens.
 
-[Time Within Time: The Diaries 1970–1986](./english/literature/time-within-time-the-diaries-1970-1986/README.md) by [Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
+[Time Within Time: The Diaries 1970–1986](./english/literature/time-within-time-the-diaries-1970-1986/README.md) by [Andrei Tarkovsky](./people/andrei-tarkovsky/README.md)
 
 Silverview by John le Carré (I am Edward Avon)
 
@@ -121,17 +121,17 @@ Change / Change before you have to / when you change (that image) /
 
 [A very high profile people using popular quotes](./Quotes/README.md)
 
-[My Idols are Dead and my Enempies are in Power](People/MyIdolsareDeadandmyEnemiesareinPower/README.md)
+[My Idols are Dead and my Enempies are in Power](people/MyIdolsareDeadandmyEnemiesareinPower/README.md)
 
-[Extraordinary people have ordinary problems](./People/extraordinary-people-have-ordinary-problems/README.md)
+[Extraordinary people have ordinary problems](./people/extraordinary-people-have-ordinary-problems/README.md)
 
 #### x x x
 
-[Andrei Tarkovsky](./People/andrei-tarkovsky/README.md)
+[Andrei Tarkovsky](./people/andrei-tarkovsky/README.md)
 
-[Anthony Bourdain](People/AnthonyBourdain/README.md)
+[Anthony Bourdain](people/AnthonyBourdain/README.md)
 
-[Leonard Bernstein](People/LeonardBernstein/README.md)
+[Leonard Bernstein](people/LeonardBernstein/README.md)
 
 [D. E. Shaw](./english/people/d-e-shaw/README.md)
 
@@ -185,9 +185,9 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 ### Personen
 
-[Friedrich Nietzsche](People/FriedrichNietzsche/README.md)
+[Friedrich Nietzsche](people/FriedrichNietzsche/README.md)
 
-[Herbert von Karajan](People/HerbertvonKarajan/README.md)
+[Herbert von Karajan](people/HerbertvonKarajan/README.md)
 
 [Elfride Jelinek](deutsch/leute/elfride-jelinek/README.md)
 
@@ -265,7 +265,7 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 5 [Le Blé en herbe](./Français/livres/le-ble-en-herbe/README.md) `26 April 2025`
 
-[Surveiller et punir](./Français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./People/michel-foucault/README.md)
+[Surveiller et punir](./Français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./people/michel-foucault/README.md)
 
 [Madame Bovary](./Français/livres/madame-bovary/README.md)
 
@@ -279,9 +279,9 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 ### Les gens
 
-[Marcel Duchamp](./People/marcel-duchamp/README.md)
+[Marcel Duchamp](./people/marcel-duchamp/README.md)
 
-[Raymond Radiguet](./People/raymond-radiguet/README.md)
+[Raymond Radiguet](./people/raymond-radiguet/README.md)
 
 [Jean Cocteau](./Français/les-gens/jean-cocteau/README.md)
 
