@@ -153,6 +153,8 @@ Huxley https://www.facebook.com/reel/1942626972759778?fs=e&fs=e
 
 Wes Anderson
 
+[Elia Kazan](./people/elia-kazan/README.md) I grew up hearing and reading the name Elia Kazan.
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
