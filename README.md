@@ -56,6 +56,8 @@ People Reading in Public
 
 [The Morale of the Artists](./english/original-thought/the-morale-of-the-artists/README.md)
 
+[Diplomacy] / https://www.facebook.com/share/v/1B8KNsHToG/
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
