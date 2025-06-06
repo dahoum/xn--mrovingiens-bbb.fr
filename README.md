@@ -173,6 +173,8 @@ The Grand Budapest Hotel
 
 Requiem for a Dream https://www.bbc.com/culture/article/20250603-why-requiem-for-a-dream-is-still-so-divisive 
 
+[Something the Lord Made](./english/cinema/something-the-lord-made) w/ Mos Def and Alan Rickman
+
 ### Papers and Magazines
 
 [![](Images/image-the-intercept.png)](https://theintercept.com)
