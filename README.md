@@ -171,6 +171,8 @@ The Grand Budapest Hotel
 
 [One Flew Over the Cuckoo's Nest](english/cinema/one-flew-over-the-cuckoos-nest/README.md)
 
+Requiem for a Dream https://www.bbc.com/culture/article/20250603-why-requiem-for-a-dream-is-still-so-divisive 
+
 ### Papers and Magazines
 
 [![](Images/image-the-intercept.png)](https://theintercept.com)
