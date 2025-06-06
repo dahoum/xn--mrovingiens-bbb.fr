@@ -1,5 +1,9 @@
 # Review of the Press
 
+## 6 June 2025
+
+Young people can't afford a life. Whose fault is that? [https://www.bbc.com/worklife/article/20250603-housing-affordability-crisis-kyla-scanlon-katty-kay-interview](https://www.bbc.com/worklife/article/20250603-housing-affordability-crisis-kyla-scanlon-katty-kay-interview)
+
 ## 4 May 2025
 
 "Faschismus war keine italienische Besonderheit, und der Nationalsozialismus war keine deutsche. Sie waren Teile einer weltweiten Bewegung, die Demokratie und rechtsstaatliche Institutionen beiseite fegte, um starken Männern ein möglichst unbehindertes Regiment zu ermöglichen. Die Idee von Checks and Balances, die Vorstellung, dass Macht kontrolliert werden müsse, wurde diskreditiert."
