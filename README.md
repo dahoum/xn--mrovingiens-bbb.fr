@@ -171,7 +171,7 @@ The Grand Budapest Hotel
 
 [One Flew Over the Cuckoo's Nest](english/cinema/one-flew-over-the-cuckoos-nest/README.md)
 
-Requiem for a Dream https://www.bbc.com/culture/article/20250603-why-requiem-for-a-dream-is-still-so-divisive 
+[Requiem for a Dream](./english/cinema/requiem-for-a-dream/README.md) `7 June 2025` 
 
 [Something the Lord Made](./english/cinema/something-the-lord-made) w/ Mos Def and Alan Rickman
 
