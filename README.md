@@ -193,6 +193,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 ## Deutsch
 
+### Gedanken
+
+"In einer Demokratie zu leben, ist kompliziert. Ich habe bemerkt, dass Menschen, die aus einem autokratischen System in eine Demokratie kommen, eine leichte Neigung haben, die Ideen, die sie selbst gut finden, in der Demokratie mit einer etwas autoritären Haltung zu kommunizieren, als ob das der einzige Weg sei und es jetzt geschehen müsse. Wenn man den demokratischen Diskurs bewahren möchte, geht das, meiner Meinung nach, nicht." `7 Juni 2025`
+
 ### Personen
 
 [Friedrich Nietzsche](people/FriedrichNietzsche/README.md)
