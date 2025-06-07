@@ -36,6 +36,8 @@ I do not plan to change that.
 
 ### Original Research
 
+[Authenticity] Peter Lindberf, "you have nothing to give but your authenticity ", able heart "real is what goes viral" https://www.facebook.com/reel/568984926250146?fs=e&fs=e 
+
 [The Revolution Will Not Be Televised]
 
 [Renewable Energy](./english/renewable-energy/README.md)
