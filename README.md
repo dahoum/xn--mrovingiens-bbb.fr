@@ -159,6 +159,8 @@ Wes Anderson
 
 [Elia Kazan](./people/elia-kazan/README.md) I grew up hearing and reading the name Elia Kazan.
 
+[Andy Warhol](./english/people/andy-warhol/README.md)
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
