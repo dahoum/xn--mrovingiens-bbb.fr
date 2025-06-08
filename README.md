@@ -1,13 +1,5 @@
 ![](Images/caution.jpeg)
 
-This is a collection of my intellectual pursuits. I am currently uploading here several 1 000s of my notes from different sources. It might take a while to get them all. I mostly do it, when I revisit a topic.
-
-There is no AI generated content on these pages and no spellchecker have been employed.
-
-The content is leading and that the form is like the 80s Internet.
-
-I do not plan to change that.
-
 # Timeline
 
 [21 May 2025](./timeline/2025/01/21/README.md)
