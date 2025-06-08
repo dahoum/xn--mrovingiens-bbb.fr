@@ -146,6 +146,8 @@ be useful | Arnold Schwarzernegger, his autobiography. [Elia Kazan](./people/eli
 
 [Ursula Le Guin](./english/people/ursula-le-guin/README.md) `30 April 2025`
 
+[Caoimhe Butterly](https://en.wikipedia.org/wiki/Caoimhe_Butterly) `8 June 2025`
+
 Louise Bourgeois
 
 [Dame Edna] w/ Trump [https://www.facebook.com/reel/137556588406027?fs=e&fs=e](https://www.facebook.com/reel/137556588406027?fs=e&fs=e) 
