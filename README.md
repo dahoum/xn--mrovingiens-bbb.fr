@@ -253,7 +253,7 @@ https://boutique.arte.tv
 
 [Le Testament d'Orphée](./Français/Cinéma/le-testament-d'orphée/README.md)
 
-Madame Bovary
+[Madame Bovary](./Français/Cinéma/madame-bovary/README.md)
 
 [Le Blé en herbe] `27 April 2025`
 
