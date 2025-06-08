@@ -194,6 +194,10 @@ The Grand Budapest Hotel
 
 Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understandable way, half of the problem is solved."
 
+### Civil Rights
+
+[![](sncc.png)](https://en.wikipedia.org/wiki/Student_Nonviolent_Coordinating_Committee)
+
 ## Deutsch
 
 ### Gedanken
