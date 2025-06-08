@@ -247,13 +247,13 @@ https://boutique.arte.tv
 
 #### x x x
 
-[La rebelle, les aventures de la jeune George Sand](./Français/Cinéma/LaRebelle/README.md)
+[La rebelle, les aventures de la jeune George Sand](./français/Cinéma/LaRebelle/README.md)
 
-[Les Femmes au Balcon](./Français/Cinéma/les-femmes-au-balcon/README.md)
+[Les Femmes au Balcon](./français/Cinéma/les-femmes-au-balcon/README.md)
 
-[Le Testament d'Orphée](./Français/Cinéma/le-testament-d'orphée/README.md)
+[Le Testament d'Orphée](./français/Cinéma/le-testament-d'orphée/README.md)
 
-[Madame Bovary](./Français/Cinéma/madame-bovary/README.md)
+[Madame Bovary](./français/Cinéma/madame-bovary/README.md) en français 
 
 [Le Blé en herbe] `27 April 2025`
 
@@ -277,11 +277,11 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 4 Laura. Voyages et Impressions (1865) 9 March 2025-... audio 
 
-5 [Le Blé en herbe](./Français/livres/le-ble-en-herbe/README.md) `26 April 2025`
+5 [Le Blé en herbe](./français/livres/le-ble-en-herbe/README.md) `26 April 2025`
 
-[Surveiller et punir](./Français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./people/michel-foucault/README.md)
+[Surveiller et punir](./français/livres/surveiller-et-punir/README.md) de [Michel Foucault](./people/michel-foucault/README.md)
 
-[Madame Bovary](./Français/livres/madame-bovary/README.md)
+[Madame Bovary](./français/livres/madame-bovary/README.md)
 
 ### Journaux et Magazines
 
@@ -289,7 +289,7 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 ### Revues
 
-[SIC](./Français/revues/sic/README.md)
+[SIC](./français/revues/sic/README.md)
 
 ### Les gens
 
@@ -297,13 +297,15 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 [Raymond Radiguet](./people/raymond-radiguet/README.md)
 
-[Jean Cocteau](./Français/les-gens/jean-cocteau/README.md)
+[Jean Cocteau](./français/les-gens/jean-cocteau/README.md)
 
-[Colette](./Français/les-gens/colette/README.md)
+[Colette](./français/les-gens/colette/README.md)
+
+[Gustave Flaubert] [Madame Bovary](./français/livres/madame-bovary/README.md)
 
 ### Maisons d'édition
 
-J'ai lu [https://fr.wikipedia.org/wiki/J'ai_lu](https://fr.wikipedia.org/wiki/J'ai_lu) [Le Blé en herbe](./Français/livres/le-ble-en-herbe/README.md)
+J'ai lu [https://fr.wikipedia.org/wiki/J'ai_lu](https://fr.wikipedia.org/wiki/J'ai_lu) [Le Blé en herbe](./français/livres/le-ble-en-herbe/README.md)
 
 ## Music
 

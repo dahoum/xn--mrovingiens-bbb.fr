@@ -2,7 +2,7 @@
 
 ## Livres
 
-[Surveiller et punir](../../Français/livres/surveiller-et-punir/README.md)
+[Surveiller et punir](../../français/livres/surveiller-et-punir/README.md)
 
 ## Wikipedia
 
