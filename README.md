@@ -40,6 +40,8 @@ I do not plan to change that.
 
 [The Revolution Will Not Be Televised]
 
+[Reading](./english/original-research/reading/README.md)
+
 [Renewable Energy](./english/renewable-energy/README.md)
 
 ### Original Thought
