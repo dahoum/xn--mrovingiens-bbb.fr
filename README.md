@@ -184,6 +184,8 @@ The Grand Budapest Hotel
 
 [![](review-of-the-press/sfgate.jpeg)](https://www.sfgate.com)
 
+[![](zinn-education-project.png)](https://www.zinnedproject.org)
+
 ### Articles
 
 #### 12 April 2025
