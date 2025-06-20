@@ -170,6 +170,8 @@ Wes Anderson
 
 [Igor Stravinsky](./english/people/igor-stravinsky/README.md)
 
+[Emily Bender]
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
