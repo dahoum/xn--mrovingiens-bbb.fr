@@ -1,5 +1,9 @@
 # Andy Warhol
 
+## 21 Jine 2025
+
+![](IMG_7621.png)
+
 ## 20 Jine 2025
 
 ![](IMG_7611.png)
