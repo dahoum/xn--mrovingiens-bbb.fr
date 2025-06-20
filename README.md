@@ -172,6 +172,8 @@ Wes Anderson
 
 [Emily Bender]
 
+[Jackson Pollock] "Each age finds its own technique." https://youtu.be/PYpA0iWhjJc 
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
