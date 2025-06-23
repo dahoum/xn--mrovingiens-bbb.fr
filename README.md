@@ -204,7 +204,7 @@ The Spy Who Came In From The Cold https://youtu.be/F8MwYkbvJjI also place at JlC
 
 #### 12 April 2025
 
-[The Scots magician who inspired the great Houdini](./articles/the-scots-magician-who-inspired-the-great-houdini/)
+[The Scots magician who inspired the great Houdini](./english/articles/the-scots-magician-who-inspired-the-great-houdini/)
 
 ### Laws
 
