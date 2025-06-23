@@ -190,6 +190,8 @@ The Grand Budapest Hotel
 
 [Something the Lord Made](./english/cinema/something-the-lord-made) w/ Mos Def and Alan Rickman
 
+The Spy Who Came In From The Cold https://youtu.be/F8MwYkbvJjI also place at JlC
+
 ### Papers and Magazines
 
 [![](Images/image-the-intercept.png)](https://theintercept.com)
