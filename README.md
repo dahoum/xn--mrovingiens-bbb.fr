@@ -214,6 +214,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [![](sncc.png)](https://en.wikipedia.org/wiki/Student_Nonviolent_Coordinating_Committee)
 
+### Theatre
+
+[Jeffrey Bernard is Unwell] (1990) Peter O'Toole https://youtu.be/g6cYbZe1WYU "One day I was asked to write my autobiography and I put a letter in the Spectator asking if anyone could tell me what I was doing between 1960 and 1974."
+
 ## Deutsch
 
 ### Gedanken
