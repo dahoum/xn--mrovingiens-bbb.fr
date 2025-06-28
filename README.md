@@ -1,3 +1,5 @@
+Amateurs. Chaplin.
+
 ![](Images/caution.jpeg)
 
 ![](2025-06-08-19-05.png)
