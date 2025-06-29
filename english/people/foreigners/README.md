@@ -6,7 +6,7 @@ Foreigners change their adopted countries and the world.
 
 Born in Czechoslovakia, Stoppard left as a child refugee, fleeing imminent Nazi occupation. He settled with his family in Britain after the war. His work covers the themes of human rights, censorship, and political freedom, often delving into the deeper philosophical bases of society. Stoppard is one of the most internationally performed dramatists of his generation.
 
-![](tom-stoppard.jpg)
+![](tom-stoppard.jpeg)
 
 ## Elia Kazan
 
