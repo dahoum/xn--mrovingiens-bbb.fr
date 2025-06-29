@@ -372,6 +372,10 @@ https://youtube.com/shorts/x2ryfMgQmOE?si=Kxv-S5jMs95jKEd_
 
 https://youtube.com/shorts/OBgMCC-DkpU?si=prrKt0O9zZ42v-YV
 
+### Music Theory
+
+https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1
+
 ### Take me back to the 80s
 
 Voyage, Voyage
