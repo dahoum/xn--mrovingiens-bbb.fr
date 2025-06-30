@@ -276,7 +276,7 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 ### Organisationen der Zivilgesellschaft
 
-https://csd-deutschland.de
+[![](csddev.png)](https://csd-deutschland.de)
 
 ## Français
 
