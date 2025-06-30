@@ -274,6 +274,10 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 [Jugendstil](./deutsch/ausstellungen/jugendstill-kunsthalle-muenchen/README.md)
 
+### Organisationen der Zivilgesellschaft
+
+https://csd-deutschland.de
+
 ## Français
 
 ### Cinéma
