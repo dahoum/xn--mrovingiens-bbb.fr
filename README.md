@@ -224,6 +224,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Hamlet](./english/theatre/hamlet)
 
+### Radio Programs
+
+[Die Peter Thiel Story](https://www.deutschlandfunk.de/die-peter-thiel-story-100.html) `3 July 2025`
+
 ## Deutsch
 
 ### Gedanken
