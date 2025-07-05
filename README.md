@@ -272,6 +272,8 @@ Historikerstreit / Ernst Nolte / Der Faschismus in seiner Epoche / see Review of
 
 https://brotundspielezeitschrift.at via Claudia fb
 
+[![](taz.jpeg)](https://taz.de)
+
 ### Austtellungen
 
 [Jugendstil](./deutsch/ausstellungen/jugendstill-kunsthalle-muenchen/README.md)
