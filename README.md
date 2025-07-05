@@ -386,6 +386,8 @@ https://youtube.com/shorts/OBgMCC-DkpU?si=prrKt0O9zZ42v-YV
 
 Tattoo Loreen https://youtube.com/shorts/fTJ0qt80LiQ?si=7J9XOU518dUxJWKm 
 
+Adele Rolling in the Deep [https://youtu.be/rYEDA3JcQqw](https://youtu.be/rYEDA3JcQqw)
+
 ### Music Theory
 
 https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1
