@@ -106,6 +106,8 @@ The Big Short `25 May 2025`
 
 [The Bell Jar](./english/literature/the-bell-jar)
 
+[SCUM Manifesto](./english/literature/scum-manifesto/README.md)
+
 ### Review of the Press
 
 [Review of the Press](./review-of-the-press/README.md)
@@ -187,6 +189,10 @@ Wes Anderson
 [Jackson Pollock] "Each age finds its own technique." https://youtu.be/PYpA0iWhjJc 
 
 [George Bernard Shaw](./english/people/george-bernard-shaw)
+
+[Valerie Solanas](./english/people/valerie-solanas/README.md)
+
+[Maurice Girodias](./english/people/maurice-girodias/README.md) publisher of [SCUM manifesto](./english/literature/scum-manifesto/README.md) and Tropic of Cander
 
 ### Cinema
 
