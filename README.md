@@ -128,6 +128,10 @@ Change / Change before you have to / when you change (that image) /
 
 be useful | Arnold Schwarzernegger, his autobiography. [Elia Kazan](./people/elia-kazan/README.md, read the obituary.
 
+### Paradoxes
+
+Bonini's paradox "As a model of a complex system becomes more complete, it becomes less understandable. Alternatively, as a model grows more realistic, it also becomes just as difficult to understand as the real-world processes it represents." [https://en.wikipedia.org/wiki/Bonini%27s_paradox](https://en.wikipedia.org/wiki/Bonini%27s_paradox)
+
 ### People
 
 [Foreigners](./english/people/foreigners)
