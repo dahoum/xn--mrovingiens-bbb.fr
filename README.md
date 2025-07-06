@@ -132,6 +132,10 @@ be useful | Arnold Schwarzernegger, his autobiography. [Elia Kazan](./people/eli
 
 Bonini's paradox "As a model of a complex system becomes more complete, it becomes less understandable. Alternatively, as a model grows more realistic, it also becomes just as difficult to understand as the real-world processes it represents." [https://en.wikipedia.org/wiki/Bonini%27s_paradox](https://en.wikipedia.org/wiki/Bonini%27s_paradox)
 
+### Neurodivergense
+
+Pathological Demand Avoidance: Characteristics & Treatments [https://www.choosingtherapy.com/pathological-demand-avoidance/](https://www.choosingtherapy.com/pathological-demand-avoidance/)
+
 ### People
 
 [Foreigners](./english/people/foreigners)
