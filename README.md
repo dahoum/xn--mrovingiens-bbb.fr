@@ -286,6 +286,8 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 [Die Peter Thiel Story](https://www.deutschlandfunk.de/die-peter-thiel-story-100.html) `3 July 2025`
 
+[Die Elon Musk Story](https://www.ardaudiothek.de/sendung/1live-die-elon-musk-story/urn:ard:show:54d819d5fb6a8835/)
+
 ## Français
 
 ### Cinéma
