@@ -244,6 +244,10 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 
 [Hamlet](./english/theatre/hamlet)
 
+### Artists
+
+Young Emperors https://www.wulmagazine.com/interviews/cesar-love-alexandre 
+
 ## Deutsch
 
 ### Gedanken
