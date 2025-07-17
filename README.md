@@ -108,6 +108,8 @@ The Big Short `25 May 2025`
 
 [SCUM Manifesto](./english/literature/scum-manifesto/README.md)
 
+[Bachelors and Bunnies](./english/literature/bachelors-and-bunnies/README.md)
+
 ### Review of the Press
 
 [Review of the Press](./review-of-the-press/README.md)
@@ -247,6 +249,14 @@ Kidlin's Law (no record of Kidlin) "If one writes a problem down in an understan
 ### Artists
 
 Young Emperors https://www.wulmagazine.com/interviews/cesar-love-alexandre 
+
+### Recording Studios
+
+Abbey Road
+
+... another in London
+
+... Max Martin
 
 ## Deutsch
 
