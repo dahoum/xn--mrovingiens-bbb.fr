@@ -63,6 +63,8 @@ People Reading in Public
 
 [Diplomacy] / https://www.facebook.com/share/v/1B8KNsHToG/
 
+No Governance w/o Representation should be the modern state of https://en.wikipedia.org/wiki/No_taxation_without_representation 
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
