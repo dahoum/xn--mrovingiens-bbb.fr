@@ -4,7 +4,7 @@ Famous people can be an example and an inspiration. Yet, they are often portrait
 
 ## Ozzy Osbourne 
 
-
+![](ozzy-osbourne.jpeg)
 
 ## Ricky Gervais
 
