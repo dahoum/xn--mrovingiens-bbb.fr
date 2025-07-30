@@ -43,6 +43,8 @@ The 37th Edition of The Radio Amateur's Handbook, 1960.
 
 [https://en.wikipedia.org/wiki/List_of_peace_activists](https://en.wikipedia.org/wiki/List_of_peace_activists)
 
+[Empathy](./english/original-research/empathy/README.md)
+
 ### Original Thought
 
 [Family Values](./Family/README.md)
