@@ -424,6 +424,8 @@ Tattoo Loreen https://youtube.com/shorts/fTJ0qt80LiQ?si=7J9XOU518dUxJWKm
 
 Adele Rolling in the Deep [https://youtu.be/rYEDA3JcQqw](https://youtu.be/rYEDA3JcQqw)
 
+Dreamer Ozzy Osbourne [https://youtu.be/LCCiwPEdEpg](https://youtu.be/LCCiwPEdEpg)
+
 ### Music Theory
 
 https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1
