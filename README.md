@@ -441,6 +441,8 @@ Friday I'm In Love (Accoustic) The Cure [https://youtu.be/qdYwrFRxKH0?si=YFqzsen
 
 In This Shirt The Irrepressibles (live at Haldern Pop Festival 2009) [https://youtu.be/z6tDHN20h7s?si=F1kC09d4lkLEknJf](https://youtu.be/z6tDHN20h7s?si=F1kC09d4lkLEknJf)
 
+Equinoxe, Pt. 4 Jean-Michel Jarre [https://youtu.be/iyX_qouAmfE?si=P5-8iUK7wwJmkp5X](https://youtu.be/iyX_qouAmfE?si=P5-8iUK7wwJmkp5X)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
