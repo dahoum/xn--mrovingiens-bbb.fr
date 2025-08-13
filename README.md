@@ -430,6 +430,8 @@ Adele Rolling in the Deep [https://youtu.be/rYEDA3JcQqw](https://youtu.be/rYEDA3
 
 Dreamer Ozzy Osbourne [https://youtu.be/LCCiwPEdEpg](https://youtu.be/LCCiwPEdEpg)
 
+Friday I'm In Love (Accoustic) The Cure [https://youtu.be/qdYwrFRxKH0?si=YFqzsenAEtqs7m87](https://youtu.be/qdYwrFRxKH0?si=YFqzsenAEtqs7m87)
+
 ### Music Theory
 
 https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1
