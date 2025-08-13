@@ -333,6 +333,16 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 [Die Elon Musk Story](https://www.ardaudiothek.de/sendung/1live-die-elon-musk-story/urn:ard:show:54d819d5fb6a8835/)
 
+## Czech
+
+### Music
+
+Cesta Kryštof ft. Tomáš Klus [https://youtu.be/_spfCq_FAFE?si=dqbloCGDTFiEKSVK](https://youtu.be/_spfCq_FAFE?si=dqbloCGDTFiEKSVK)
+
+### Theatre
+
+![](zdeněk-svěrák.jpeg)
+
 ## Français
 
 ### Cinéma
