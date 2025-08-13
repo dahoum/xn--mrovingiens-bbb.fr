@@ -237,6 +237,8 @@ The Spy Who Came In From The Cold https://youtu.be/F8MwYkbvJjI also place at JlC
 
 [![](zinn-education-project.png)](https://www.zinnedproject.org)
 
+[![](stack-magazines.png)](https://stackmagazines.com)
+
 ### Articles
 
 #### 12 April 2025
