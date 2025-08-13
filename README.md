@@ -5,9 +5,10 @@
 ![](./chaplin-3.jpeg)
 
 ![](Images/caution.jpeg)
+_My Family and Other Animals_
 
 ![](2025-06-08-19-05.png)
-The 37th Edition of The Radio Amateur's Handbook, 1960.
+_The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 # Timeline
 
@@ -449,9 +450,3 @@ Voyage, Voyage
 ## Computing
 
 [Agile. My Way.](Computing/AgileMyWay/README.md)
-
-# Have a question or need help?
-
-I help gladly.
-
-Email me at t.e.shaw@dahoum.wales.
