@@ -443,7 +443,7 @@ In This Shirt The Irrepressibles (live at Haldern Pop Festival 2009) [https://yo
 
 ### Music Theory
 
-[https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
+by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
 
 ### Take me back to the 80s
 
