@@ -432,6 +432,8 @@ Dreamer Ozzy Osbourne [https://youtu.be/LCCiwPEdEpg](https://youtu.be/LCCiwPEdEp
 
 Friday I'm In Love (Accoustic) The Cure [https://youtu.be/qdYwrFRxKH0?si=YFqzsenAEtqs7m87](https://youtu.be/qdYwrFRxKH0?si=YFqzsenAEtqs7m87)
 
+In This Shirt The Irrepressibles (live at Haldern Pop Festival 2009) [https://youtu.be/z6tDHN20h7s?si=F1kC09d4lkLEknJf](https://youtu.be/z6tDHN20h7s?si=F1kC09d4lkLEknJf)
+
 ### Music Theory
 
 https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1
