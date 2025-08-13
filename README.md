@@ -1,4 +1,8 @@
-Amateurs. Chaplin.
+![](./chaplin-1.jpeg)
+
+![](./chaplin-2.jpeg)
+
+![](./chaplin-3.jpeg)
 
 ![](Images/caution.jpeg)
 
