@@ -1,17 +1,12 @@
 ![](./chaplin-1.jpeg)
-
 ![](./chaplin-2.jpeg)
-
 ![](./chaplin-3.jpeg)
-
 _Limelight_
 
 ![](Images/caution.jpeg)
-
 _My Family and Other Animals_
 
 ![](2025-06-08-19-05.png)
-
 _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 # Timeline
