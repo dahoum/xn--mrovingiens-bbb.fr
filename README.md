@@ -37,7 +37,7 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 ### Original Research
 
-[Authenticity] Peter Lindberf, "you have nothing to give but your authenticity ", able heart "real is what goes viral" https://www.facebook.com/reel/568984926250146?fs=e&fs=e 
+[Authenticity](./english/original-research/authenticity/README.md)
 
 [The Revolution Will Not Be Televised]
 
