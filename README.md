@@ -51,6 +51,8 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 [Gender](./english/original-research/gender/README.md)
 
+[Diplomacy](./english/original-research/diplomacy/README.md)
+
 ### Original Thought
 
 [Family Values](./Family/README.md)
@@ -68,8 +70,6 @@ People Reading in Public
 [How to Save the World](./english/original-thought/how-to-save-the-world/README.md)
 
 [The Morale of the Artists](./english/original-thought/the-morale-of-the-artists/README.md)
-
-[Diplomacy] / https://www.facebook.com/share/v/1B8KNsHToG/
 
 No Governance w/o Representation should be the modern state of https://en.wikipedia.org/wiki/No_taxation_without_representation 
 
