@@ -455,6 +455,8 @@ Equinoxe, Pt. 4 Jean-Michel Jarre [https://youtu.be/iyX_qouAmfE?si=P5-8iUK7wwJmk
 
 Here Comes The Rain Again (live 1987) [https://youtu.be/jWT2_b71K1k?si=U9sQcWLIAqscmV7u](https://youtu.be/jWT2_b71K1k?si=U9sQcWLIAqscmV7u)
 
+All The Things She Said t.A.T.u. [https://youtu.be/8mGBaXPlri8?si=v11LPa22wbe-fkLx](https://youtu.be/8mGBaXPlri8?si=v11LPa22wbe-fkLx)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
