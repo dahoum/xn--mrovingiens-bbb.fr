@@ -4,7 +4,7 @@
 
 ![](./chaplin-3.jpeg)
 
-_Limelight._
+_Limelight_
 
 ![](Images/caution.jpeg)
 
