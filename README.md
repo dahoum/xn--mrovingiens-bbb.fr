@@ -206,6 +206,8 @@ Wes Anderson
 
 [Maurice Girodias](./english/people/maurice-girodias/README.md) publisher of [SCUM manifesto](./english/literature/scum-manifesto/README.md) and Tropic of Cander
 
+[Terence Stamp](./english/people/terence-stamp/README.md) -17 August 2025
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
