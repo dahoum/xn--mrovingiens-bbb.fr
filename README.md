@@ -466,6 +466,10 @@ by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](http
 
 Voyage, Voyage [https://youtu.be/NlgmH5q9uNk?si=w2QmLSr64sYgUAWH](https://youtu.be/NlgmH5q9uNk?si=w2QmLSr64sYgUAWH)
 
+Come On Eileen [https://youtu.be/6BODDyZRF6A?si=bGw5jVIPZH-DKFOY](https://youtu.be/6BODDyZRF6A?si=bGw5jVIPZH-DKFOY)
+
+Everybody Wants To Rule The World [https://youtu.be/aGCdLKXNF3w?si=YJn7zvzPEYtuzMV4](https://youtu.be/aGCdLKXNF3w?si=YJn7zvzPEYtuzMV4)
+
 ## Computing
 
 [Agile. My Way.](Computing/AgileMyWay/README.md)
