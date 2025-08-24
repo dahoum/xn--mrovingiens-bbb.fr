@@ -53,6 +53,8 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 [Diplomacy](./english/original-research/diplomacy/README.md)
 
+[Photography](./english/original-research/photography/README.md)
+
 ### Original Thought
 
 [Family Values](./Family/README.md)
@@ -207,6 +209,8 @@ Wes Anderson
 [Maurice Girodias](./english/people/maurice-girodias/README.md) publisher of [SCUM manifesto](./english/literature/scum-manifesto/README.md) and Tropic of Cander
 
 [Terence Stamp](./english/people/terence-stamp/README.md) -17 August 2025
+
+[Martin Parr](./english/people/martin-parr/README.md)
 
 ### Cinema
 
