@@ -462,6 +462,8 @@ Here Comes The Rain Again (live 1987) [https://youtu.be/jWT2_b71K1k?si=U9sQcWLIA
 
 All The Things She Said t.A.T.u. [https://youtu.be/8mGBaXPlri8?si=v11LPa22wbe-fkLx](https://youtu.be/8mGBaXPlri8?si=v11LPa22wbe-fkLx)
 
+Christophe by Rock Monsieur 45 (France, 1973) [https://youtu.be/eWKWWTwkZaE?si=BseCtSWnu5kjXcwP](https://youtu.be/eWKWWTwkZaE?si=BseCtSWnu5kjXcwP)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
