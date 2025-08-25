@@ -464,7 +464,7 @@ All The Things She Said t.A.T.u. [https://youtu.be/8mGBaXPlri8?si=v11LPa22wbe-fk
 
 Christophe by Rock Monsieur 45 (France, 1973) [https://youtu.be/eWKWWTwkZaE?si=BseCtSWnu5kjXcwP](https://youtu.be/eWKWWTwkZaE?si=BseCtSWnu5kjXcwP)
 
-Rapture by Laura Veirs [https://youtu.be/cwSKVB6Z-cs?si=D30lAnb-vn0pLIKd](https://youtu.be/cwSKVB6Z-cs?si=D30lAnb-vn0pLIKd)
+🦋 Rapture by Laura Veirs [https://youtu.be/cwSKVB6Z-cs?si=D30lAnb-vn0pLIKd](https://youtu.be/cwSKVB6Z-cs?si=D30lAnb-vn0pLIKd)
 
 ### Music Theory
 
