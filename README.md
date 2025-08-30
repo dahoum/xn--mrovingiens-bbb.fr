@@ -470,6 +470,8 @@ Christophe by Rock Monsieur 45 (France, 1973) [https://youtu.be/eWKWWTwkZaE?si=B
 
 🦋 Rapture by Laura Veirs [https://youtu.be/cwSKVB6Z-cs?si=D30lAnb-vn0pLIKd](https://youtu.be/cwSKVB6Z-cs?si=D30lAnb-vn0pLIKd)
 
+[Einstürzende Neubauten](./music/einstuerzende-neubauten/README.md)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
