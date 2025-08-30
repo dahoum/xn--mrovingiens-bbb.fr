@@ -342,7 +342,7 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 ### Das Kino
 
-[Der Himmel über Berlin][./deutsch/das-kino/der-himmel-ueber-berlin/README.md)
+[Der Himmel über Berlin](./deutsch/das-kino/der-himmel-ueber-berlin/README.md)
 
 ## Czech
 
