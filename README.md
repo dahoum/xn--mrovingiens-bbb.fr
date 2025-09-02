@@ -280,6 +280,12 @@ Abbey Road
 
 ... Max Martin
 
+### Paintings
+
+![](./english/paintings/the-execution-of-lady-jane-grey/the-execution-of-lady-jane-grey.jpeg)
+
+[The Execution of Lady Jane Grey](./english/paintings/the-execution-of-lady-jane-grey/README.md)
+
 ## Deutsch
 
 ### Gedanken
@@ -430,7 +436,7 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 J'ai lu [https://fr.wikipedia.org/wiki/J'ai_lu](https://fr.wikipedia.org/wiki/J'ai_lu) [Le Blé en herbe](./français/livres/le-ble-en-herbe/README.md)
 
-### Art
+### Arts
 
 ![](./français/art/l-oublié/l-oublié.jpeg)
 
