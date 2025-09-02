@@ -424,6 +424,8 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 [Gustave Flaubert] [Madame Bovary](./français/livres/madame-bovary/README.md)
 
+[Simone Weil](./français/les-gens/simone-weil/README.md)
+
 ### Maisons d'édition
 
 J'ai lu [https://fr.wikipedia.org/wiki/J'ai_lu](https://fr.wikipedia.org/wiki/J'ai_lu) [Le Blé en herbe](./français/livres/le-ble-en-herbe/README.md)
