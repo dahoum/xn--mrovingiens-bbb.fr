@@ -6,4 +6,4 @@ oil on canvas
 
 Musee Bonnat Helleu
 
-![](./i-oublié.jpeg)
+![](./l-oublié.jpeg)
