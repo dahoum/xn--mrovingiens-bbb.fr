@@ -1,4 +1,4 @@
-# The Forgotten (1872)
+# L'Oublié ! (1872)
 
 oil on canvas
 
@@ -6,4 +6,4 @@ oil on canvas
 
 Musee Bonnat Helleu
 
-![](./the-forgotten.jpeg)
+![](./i-oublié.jpeg)

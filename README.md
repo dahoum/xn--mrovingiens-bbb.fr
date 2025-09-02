@@ -434,7 +434,7 @@ J'ai lu [https://fr.wikipedia.org/wiki/J'ai_lu](https://fr.wikipedia.org/wiki/J'
 
 ![](./français/art/the-forgotten/the-forgotten.jpeg)
 
-[The Forgotten](./français/art/the-forgotten/README.md)
+[L'Oublié !](./français/art/the-forgotten/README.md)
 
 ## Music
 
