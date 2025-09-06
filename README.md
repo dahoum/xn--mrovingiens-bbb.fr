@@ -352,6 +352,10 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 [Der Himmel über Berlin](./deutsch/das-kino/der-himmel-ueber-berlin/README.md)
 
+### Diskotheken
+
+[Dorian Gray](./deutsch/diskotheken/dorian-grey/README.md)
+
 ## Czech
 
 ### Music
