@@ -1,5 +1,17 @@
 # Renewable Energy
 
+## Weather
+
+### Clouds
+
+## Devices
+
+### Pyranometer
+
+[https://en.wikipedia.org/wiki/Pyranometer](https://en.wikipedia.org/wiki/Pyranometer)
+
+### 
+
 ## 17 July 2025
 
 [https://edition.cnn.com/2025/07/17/business/china-new-export-controls-ev-battery-intl-hnk](https://edition.cnn.com/2025/07/17/business/china-new-export-controls-ev-battery-intl-hnk)
