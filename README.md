@@ -354,6 +354,8 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 ### Diskotheken
 
+![](./deutsch/diskotheken/dorian-grey/dorian-grey-logo.png)
+
 [Dorian Gray](./deutsch/diskotheken/dorian-grey/README.md)
 
 ## Czech
