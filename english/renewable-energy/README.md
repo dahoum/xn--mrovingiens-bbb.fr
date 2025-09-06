@@ -8,6 +8,12 @@
 
 ### Pyranometer
 
+#### Thermopile Technology
+
+#### Silicon Semiconductor Technology
+
+#### Documents
+
 [https://en.wikipedia.org/wiki/Pyranometer](https://en.wikipedia.org/wiki/Pyranometer)
 
 ### 
