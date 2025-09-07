@@ -8,6 +8,8 @@ While its scientificity/ statistical quality are disputed, and the actual distri
 
 ![](Images/when-I-walk-into-a-room.png)
 
+## "80% of Success is Showing Up"
+
 ## Turn Your Camera On
 
 ...
