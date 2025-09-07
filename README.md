@@ -505,6 +505,8 @@ Christophe by Rock Monsieur 45 (France, 1973) [https://youtu.be/eWKWWTwkZaE?si=B
 
 [Einstürzende Neubauten](./music/einstuerzende-neubauten/README.md)
 
+🦋 [https://www.mixcloud.com/ForgottenTapes/dj-dag-dorian-gray-frankfurt-juli-1989-side-a/](https://www.mixcloud.com/ForgottenTapes/dj-dag-dorian-gray-frankfurt-juli-1989-side-a/)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
