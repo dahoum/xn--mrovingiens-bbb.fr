@@ -336,6 +336,11 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 [![](taz.jpeg)](https://taz.de)
 
+![](music-mind.jpeg)
+
+[Music Mind](https://music-mind.de) Subkultur und Sound
+
+
 ### Austtellungen
 
 [Jugendstil](./deutsch/ausstellungen/jugendstill-kunsthalle-muenchen/README.md)
