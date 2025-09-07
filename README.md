@@ -27,6 +27,8 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 ## Фильм
 
+![](./русский/фильмы/сталкер/1.jpeg)
+
 [Сталкер](русский/фильмы/сталкер/README.md)
 
 ### Люди
