@@ -83,6 +83,8 @@ People Reading in Public
 
 No Governance w/o Representation should be the modern state of https://en.wikipedia.org/wiki/No_taxation_without_representation 
 
+[On Taxing the Super Rich](./english/original-thought/on-taxing-the-super-rich/README.md)
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
