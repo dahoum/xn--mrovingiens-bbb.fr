@@ -515,6 +515,8 @@ Christophe by Rock Monsieur 45 (France, 1973) [https://youtu.be/eWKWWTwkZaE?si=B
 
 (Welsh) Calon Lan (Live) [https://youtu.be/9YFGM8LXRPM?si=cTn_UC0nVCVvipoy](https://youtu.be/9YFGM8LXRPM?si=cTn_UC0nVCVvipoy) via my fb friend RA McCafferty
 
+I'am Not In Love 10cc [https://youtu.be/STugQ0X1NoI](https://youtu.be/STugQ0X1NoI)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
