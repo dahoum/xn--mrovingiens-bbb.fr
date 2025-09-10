@@ -20,6 +20,12 @@
 
 ### 10 September 2025
 
+https://www.thepoke.com/2025/09/10/trumps-energy-secretary-took-aim-at-renewable-energy-and-it-magnificently-blew-up-in-his-face-13-simply-electric-takedowns/
+
+The broad public knows only batteries.
+
+#### x x x
+
 "In July, Oracle announced a deal to provide ChatGPT’s parent company OpenAI with 4.5 gigawatts of electricity to power its AI software."
 
 [https://edition.cnn.com/2025/09/10/investing/elon-musk-larry-ellison-wealth](https://edition.cnn.com/2025/09/10/investing/elon-musk-larry-ellison-wealth)
