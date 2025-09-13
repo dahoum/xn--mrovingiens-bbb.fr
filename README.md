@@ -517,6 +517,10 @@ Christophe by Rock Monsieur 45 (France, 1973) [https://youtu.be/eWKWWTwkZaE?si=B
 
 I'am Not In Love 10cc [https://youtu.be/STugQ0X1NoI](https://youtu.be/STugQ0X1NoI)
 
+![](./never-gonna-change.jpeg)
+
+Never Gonna Change [https://youtu.be/V2Af30WFYQM](https://youtu.be/V2Af30WFYQM)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
