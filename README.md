@@ -132,6 +132,8 @@ The Big Short `25 May 2025`
 
 [Bachelors and Bunnies](./english/literature/bachelors-and-bunnies/README.md)
 
+[Dubliners](./english/literature/dubliners/README.md)
+
 ### Review of the Press
 
 [Review of the Press](./review-of-the-press/README.md)
