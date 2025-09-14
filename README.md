@@ -222,6 +222,8 @@ Wes Anderson
 
 [Martin Parr](./english/people/martin-parr/README.md)
 
+[D H Lawrence](./english/people/d-h-lawrence/README.md)
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
