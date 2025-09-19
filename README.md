@@ -531,6 +531,8 @@ I'am Not In Love 10cc [https://youtu.be/STugQ0X1NoI](https://youtu.be/STugQ0X1No
 
 Never Gonna Change [https://youtu.be/V2Af30WFYQM](https://youtu.be/V2Af30WFYQM)
 
+Be Alive, Beyoncé [https://youtu.be/4aeDlZOD-B0?si=5U40YpB6Q-SA7juF](https://youtu.be/4aeDlZOD-B0?si=5U40YpB6Q-SA7juF)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
