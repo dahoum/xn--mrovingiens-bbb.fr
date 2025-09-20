@@ -1,5 +1,7 @@
 ![](dhlawrence.jpeg)
 
+![](./english/literature/the-three-musketeers/atos-advice.jpeg)
+
 ![](./chaplin-1.jpeg)
 ![](./chaplin-2.jpeg)
 ![](./chaplin-3.jpeg)
@@ -133,6 +135,8 @@ The Big Short `25 May 2025`
 [Bachelors and Bunnies](./english/literature/bachelors-and-bunnies/README.md)
 
 [Dubliners](./english/literature/dubliners/README.md)
+
+[The Three Musketeers](./english/literature/the-three-musketeers/README.md)
 
 ### Review of the Press
 
