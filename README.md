@@ -465,7 +465,7 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 [Simone Weil]simone-weil/README.md)
 
-(sorry, Belgium) [René Magritte](./français/les-gens/rené-magrittr/README.md)
+(sorry, Belgium) [René Magritte](./français/les-gens/rené-magritte/README.md)
 
 ### Maisons d'édition
 
