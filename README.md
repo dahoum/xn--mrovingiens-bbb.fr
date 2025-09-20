@@ -463,7 +463,9 @@ https://fr.wikipedia.org/wiki/Littérature_française
 
 [Gustave Flaubert] [Madame Bovary](./français/livres/madame-bovary/README.md)
 
-[Simone Weil](./français/les-gens/simone-weil/README.md)
+[Simone Weil]simone-weil/README.md)
+
+(sorry, Belgium) [René Magritte](./français/les-gens/rené-magrittr/README.md)
 
 ### Maisons d'édition
 
