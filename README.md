@@ -138,6 +138,8 @@ The Big Short `25 May 2025`
 
 [The Three Musketeers](./english/literature/the-three-musketeers/README.md)
 
+[The Origins of Totalitarism](./english/literature/the-origins-of-totalitarism/README.md) by Hannah Arendt
+
 ### Review of the Press
 
 [Review of the Press](./review-of-the-press/README.md)
