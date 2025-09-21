@@ -1,5 +1,5 @@
 # The Origins of Totalitarism
 
-![](./2.png)
+![](./2.jpeg)
 
 ![](./1.png)
