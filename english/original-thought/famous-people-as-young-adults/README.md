@@ -6,7 +6,7 @@ Famous people can be an example and an inspiration. Yet, they are often portrait
 
 Age 18.
 
-
+![](howard-stern.jpeg)
 
 ## Robert Smith and Mary Poole
 
