@@ -65,6 +65,8 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 [Woke](./english/original-research/woke/README.md)
 
+[Book Publishing](./english/book-publishing/README.md)
+
 ### Original Thought
 
 [Family Values](./Family/README.md)
