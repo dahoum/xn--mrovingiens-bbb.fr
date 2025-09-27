@@ -186,6 +186,8 @@ Pathological Demand Avoidance: Characteristics & Treatments [https://www.choosin
 
 [Extraordinary people have ordinary problems](./people/extraordinary-people-have-ordinary-problems/README.md)
 
+[Hannah Fry](./english/people/hannah-fry/README.md)
+
 #### x x x
 
 [Andrei Tarkovsky](./people/andrei-tarkovsky/README.md)
