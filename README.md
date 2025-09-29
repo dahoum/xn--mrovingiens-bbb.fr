@@ -1,3 +1,5 @@
+# We've come too far to give up who we are.
+
 ![](dhlawrence.jpeg)
 
 ![](./english/literature/the-three-musketeers/atos-advice.jpeg)
@@ -555,7 +557,7 @@ Be Alive, Beyoncé [https://youtu.be/4aeDlZOD-B0?si=5U40YpB6Q-SA7juF](https://yo
 
 Angel, Massive Attack [https://youtu.be/hbe3CQamF8k](https://youtu.be/hbe3CQamF8k)
 
-👻 Get Lucky cover by George Barnett [https://youtu.be/xY0-4ymWtbo](https://youtu.be/xY0-4ymWtbo)
+👻 Get Lucky cover by George Barnett [https://youtu.be/xY0-4ymWtbo](https://youtu.be/xY0-4ymWtbo) by Dua Lipa [https://youtu.be/wtZcG1jfyBE?feature=shared](https://youtu.be/wtZcG1jfyBE?feature=shared)
 
 ### Music Theory
 
