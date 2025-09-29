@@ -4,7 +4,7 @@ Famous people can be an example and an inspiration. Yet, they are often portrait
 
 ## Daft Punk
 
-
+![](daft-punk.webp]
 
 ## Howard Stern
 
