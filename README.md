@@ -262,6 +262,8 @@ The Spy Who Came In From The Cold https://youtu.be/F8MwYkbvJjI also place at JlC
 
 [Women In Love](./english/cinema/women-in-love/README.md)
 
+Making of Blade Runner [https://youtu.be/9AoiqICo6ZI?si=e6c7-MYvleUmz_jB](https://youtu.be/9AoiqICo6ZI?si=e6c7-MYvleUmz_jB)
+
 ### TV
 
 [Darling Buds of May](./english/tv/darling-buds-of-may/README.md) via my good friend Matt R., after I mentioned, that I discovered Catherine Zeta-Jones is Welsh and CBE. One of her 1st appearance it appears.
