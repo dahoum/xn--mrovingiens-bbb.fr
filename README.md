@@ -67,6 +67,8 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 [Book Publishing](./english/book-publishing/README.md)
 
+[Attention to Detail](./english/attention-to-detail/README.md)
+
 ### Original Thought
 
 [Family Values](./Family/README.md)
