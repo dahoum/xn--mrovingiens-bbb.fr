@@ -555,6 +555,8 @@ Be Alive, Beyoncé [https://youtu.be/4aeDlZOD-B0?si=5U40YpB6Q-SA7juF](https://yo
 
 Angel, Massive Attack [https://youtu.be/hbe3CQamF8k](https://youtu.be/hbe3CQamF8k)
 
+👻 Get Lucky cover by George Barnett [https://youtu.be/xY0-4ymWtbo](https://youtu.be/xY0-4ymWtbo)
+
 ### Music Theory
 
 by Frank Zappa [https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1](https://youtube.com/shorts/vip4VfvbgMw?si=zgeFdTwAE5p6bst1)
