@@ -372,10 +372,15 @@ https://brotundspielezeitschrift.at via Claudia fb
 
 [![](taz.jpeg)](https://taz.de)
 
+taz
+
 ![](music-mind.jpeg)
 
 [Music Mind](https://music-mind.de) Subkultur und Sound
 
+[![](jacobin.png)](https://jacobin.de)
+
+JACOBIN
 
 ### Austtellungen
 
