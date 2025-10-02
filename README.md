@@ -17,8 +17,6 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 # Timeline
 
-[Timeline](./timeline/README.md)
-
 [21 May 2025](./timeline/2025/01/21/README.md)
 
 # Notes
@@ -72,6 +70,8 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 [Book Publishing](./english/book-publishing/README.md)
 
 [Attention to Detail](./english/attention-to-detail/README.md)
+
+[A Relative Timeline](./english/original-research/a-relative-timeline)
 
 ### Original Thought
 
