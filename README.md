@@ -93,6 +93,8 @@ No Governance w/o Representation should be the modern state of https://en.wikipe
 
 [On Taxing the Super Rich](./english/original-thought/on-taxing-the-super-rich/README.md)
 
+[What to do in this day and time and why?](./english/original-thought/what-to-do-in-this-day-and-time-and-why/README.md)
+
 ### Philosophy
 
 Paradox of Tolerance in [Tolerance](./Tolerance/README.md)
