@@ -1,12 +1,10 @@
-# Timeline
-
-A relative timeline by pairs or more.
+# A Relative Timeline
 
 David Attenborough and Jane Goodall
 
 ![](da-jg.jpeg)
 
-CHarles Bukowski and Neal Cassidy
+Charles Bukowski and Neal Cassidy
 
 ![](bukowsky-neal-c-notes-of-a-dirty-old-man.png)
 
