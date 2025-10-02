@@ -1,6 +1,6 @@
 # Timeline
 
-Convert this to a vertical and horizontal project w/ a filter.
+A relative timeline by pairs or more.
 
 David Attenborough and Jane Goodall
 
