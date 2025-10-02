@@ -1,6 +1,7 @@
 # What to do in this day and time and why?
 
-![](./browsers.png)
+![](naked-lunch.png)
+_Naked Lunch_
 
 What to do in this day and time and why?
 
@@ -35,6 +36,8 @@ Third, I started a project to help small and medium size businesses improve thei
 Then I did a few more things w/ which I am not going to bore you.
 
 And then I turned my attention to my computing habits.
+
+![](./browsers.png)
 
 Apple, earlier a Revolution, has lately became a big fat corporate. Not evil looking, but big fat corporate nevertheless.
 
