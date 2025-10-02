@@ -2,12 +2,14 @@
 
 Convert this to a vertical and horizontal project w/ a filter.
 
+David Attenborough and Jane Goodall
+
 ![](da-jg.jpeg)
 
-Notes of a Dirty Old Man —
+CHarles Bukowski and Neal Cassidy
 
 ![](bukowsky-neal-c-notes-of-a-dirty-old-man.png)
 
-Chaplin and Disney —
+Charlie Chaplin and Walt Disney
 
 ![](chaplin-and-disney.jpeg)
