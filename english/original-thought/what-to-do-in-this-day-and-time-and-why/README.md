@@ -1,35 +1,41 @@
 # What to do in this day and time and why?
 
-![](naked-lunch.png)
-_Naked Lunch_
-
-What to do in this day and time and why?
-
 An essay.
 
-In my late teens and early 20s I was all Greenpeace and New Media Art (the Internet emerged when I was 23) and Revolution.
+> ![](naked-lunch.png)
+> _Naked Lunch_
 
-And lately I've been thinking, "What's wrong with the world and what's wrong w/ me?"
+In my late teens and early 20s I was all Greenpeace and New Media Art (the Internet emerged when I was 23). And Revolution.
 
-One thing that's wrong w/ the world is that it is beginning to feel v much how it felt prior to the French revolution: the rich get richer and the politics get shaped by the richer rich and the general population loses agency at a breathtaking pace.
+Since then I have "calmed down". Apparently.
 
-And myself?
+For, lately, I've been thinking, "What's wrong with the world and what's wrong w/ me?"
 
-Comfortably sitting in the corporate ecosystem. No Greenpeace beyond a meager monthly donation, no New Media Art, no Revolution. 
+One thing that's definitely wrong w/ the world is that it is beginning to feel v much the way it felt in the eve before the French Revolution: the rich get richer, the politics get shaped by the richer rich and the general population loses walth and agency at a breathtaking pace.
+
+And I myself?
+
+Comfortably sitting in the corporate ecosystem. No Greenpeace beyond a meager monthly donation. No New Media Art. No Revolution. 
+
+I felt depressed.
+
+Jack Welch is a big corporate and not a very nice person from at least a couple of points of view, but he said something I like (I can learn even from my "enemies") —
+
+> Change before you have to.
 
 So I decided to change.
 
 Since guillotining people seems to be out of fashion and frowned upon, I had to think of other ways.
 
-Top-down change has always had a limited success and has never had a success w/o a broad grassroots support. One can vote for politicians and end up, like us in Germany, w/ a BlackRock lobbyist as a Chancellor.
+Changing society from the top has always had a limited success and has never had a success w/o a grassroots support. One can vote for politicians and end up, like we in Germany, w/ a BlackRock lobbyist as a Chancellor.
 
-My idea of democracy is slightly different.
+My idea of democracy is a little different.
 
-So, I decided to change myself.
+I decided to change myself.
 
-First I quit my successful, but big corporations serving business, sold my shares and joined a small, but v advanced renewable energy project serving small and medium size businesses.
+First, I quit my successful, but big corporations serving business, sold my shares and joined a small, but v advanced renewable energy project serving small and medium size businesses.
 
-Second I founded a publishing house, which publishes the thoughts of ordinary, but interesting people. In two weeks we are going to the Frankfurt Book Fair w/ three titles.
+Second, I founded a publishing house, which publishes by ordinary, but interesting people. In two weeks we are going to the Frankfurt Book Fair w/ three titles.
 
 Third, I started a project to help small and medium size businesses improve their Accounts Receivable by improving the overall relationship between the parties.
 
@@ -37,7 +43,9 @@ Then I did a few more things w/ which I am not going to bore you.
 
 And then I turned my attention to my computing habits.
 
-![](./browsers.png)
+How are computing habits related to societal change, the reader might ask.
+
+In a very simple way. Some of the most dangerous people of this time became rich through compuing. Eg. Peter Thiel and Larry Ellison.
 
 Apple, earlier a Revolution, has lately became a big fat corporate. Not evil looking, but big fat corporate nevertheless.
 
@@ -97,3 +105,5 @@ And to those who say, "but economy of scale" I will answer w/ this sentence from
 And to those who, "Is this Marxism? Is this socialism? Is this communism? Communism did not work!" I say — no. It is a continuously self-balancing humanity, which seeks democratic, pluralistic society, life in peace, in which the individual has agency and is not terrorised by people far and away on topics, which concern mostly or only this person and nobody else.
 
 Now. Ditch this big corporate web browser of yours and join the Revolution.
+
+![](./browsers.png)
