@@ -4,6 +4,12 @@ David Attenborough and Jane Goodall
 
 ![](da-jg.jpeg)
 
+Jane Goodall and Greta
+
+Silvester Stalone and Michael Schumacher
+
+Trump and Nixon
+
 William S. Burroughs and Jack Kerouac in Naked Lunch
 
 ![](william-s-burroughs-and-jack-kerouac.png)
