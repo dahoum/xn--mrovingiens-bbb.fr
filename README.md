@@ -1,4 +1,7 @@
-# We've come too far to give up who we are.
+## If you haven't given up on me, you do not know me well enough.
+## If you have given up on me, you do not know me well enough.
+
+## We've come too far to give up who we are.
 
 ![](dhlawrence.jpeg)
 
@@ -569,6 +572,8 @@ Be Alive, Beyoncé [https://youtu.be/4aeDlZOD-B0?si=5U40YpB6Q-SA7juF](https://yo
 Angel, Massive Attack [https://youtu.be/hbe3CQamF8k](https://youtu.be/hbe3CQamF8k)
 
 👻 Get Lucky cover by George Barnett [https://youtu.be/xY0-4ymWtbo](https://youtu.be/xY0-4ymWtbo) by Dua Lipa [https://youtu.be/wtZcG1jfyBE?feature=shared](https://youtu.be/wtZcG1jfyBE?feature=shared)
+
+🦋 Why does my heart fee so bad? Mobi & Elton John (2000) [https://youtu.be/eg5B-oVXBj8?si=Oi8mTPV17h3dJ30h](https://youtu.be/eg5B-oVXBj8?si=Oi8mTPV17h3dJ30h)
 
 ### Music Theory
 
