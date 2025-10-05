@@ -62,6 +62,12 @@ The `Wireframes Shock` is a surprise when visually inclined `Sponsor` sees black
 
 Digital products are usually developed through [projects](project.md), which can be less or more formal.
 
+## Quality Assurance
+
+### How to ask the Users
+
+I do not like Sam Altman, but I like what he says: [https://www.facebook.com/reel/567531646232601?fs=e&fs=e](https://www.facebook.com/reel/567531646232601?fs=e&fs=e)
+
 ## Self Disript
 
 Do not get comfortable, Self [Disrupt(ion)](../Disruption/README.md).

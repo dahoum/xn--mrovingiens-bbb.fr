@@ -73,6 +73,8 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 [A Relative Timeline](./english/original-research/a-relative-timeline)
 
+[Digital Products and Services](./english/original-research/digital-products-and-services/README.md) including "How to talk to user?" by Sam Altman
+
 ### Original Thought
 
 [Family Values](./Family/README.md)
