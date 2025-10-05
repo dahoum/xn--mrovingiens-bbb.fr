@@ -1,14 +1,20 @@
 # A Relative Timeline
 
+Jane Goodall and Greta
+
+![](goodall-and-greta.jpeg)
+
 David Attenborough and Jane Goodall
 
 ![](da-jg.jpeg)
 
-Jane Goodall and Greta
+Silvester Stallone and Michael Schumacher
 
-Silvester Stalone and Michael Schumacher
+![](stallone-and-schumacher.jpeg)
 
-Trump and Nixon
+Nixon and Trump
+
+![](nixon-and-trump.png)
 
 William S. Burroughs and Jack Kerouac in Naked Lunch
 
