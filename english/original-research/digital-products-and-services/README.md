@@ -64,9 +64,9 @@ Digital products are usually developed through [projects](project.md), which can
 
 ## Quality Assurance
 
-### How to ask the Users
+### How to ask the users?
 
-I do not like Sam Altman, but I like what he says: [https://www.facebook.com/reel/567531646232601?fs=e&fs=e](https://www.facebook.com/reel/567531646232601?fs=e&fs=e)
+I do not like Sam Altman, but I like what he says about "How to talk to the users?": [https://www.facebook.com/reel/567531646232601?fs=e&fs=e](https://www.facebook.com/reel/567531646232601?fs=e&fs=e)
 
 ## Self Disript
 
