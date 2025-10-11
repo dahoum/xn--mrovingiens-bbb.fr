@@ -10,6 +10,10 @@ David Attenborough and Jane Goodall
 
 Silvester Stallone and Michael Schumacher
 
+![](
+
+Charles Bukowski and Arnold Schwarzenegger at a party at Spago’s in 1985, where, reportedly, Bukowski insulted Arnold.
+
 ![](stallone-and-schumacher.jpeg)
 
 Nixon and Trump
