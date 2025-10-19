@@ -1,5 +1,11 @@
 # Jean Cocteau
 
+## 20 octobre 2025
+
+[https://www.facebook.com/cultureprime/videos/1076424000876630/?fs=e&fs=e](https://www.facebook.com/cultureprime/videos/1076424000876630/?fs=e&fs=e)
+
+## previously
+
 https://www.radiofrance.fr/franceculture/podcasts/la-compagnie-des-oeuvres/cocteau-tel-quel-4642076 
 
 ## 24 April 2025
