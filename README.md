@@ -66,6 +66,10 @@ _The 37th Edition of The Radio Amateur's Handbook, 1960_
 
 [Diplomacy](./english/original-research/diplomacy/README.md)
 
+![](./english/original-research/photography/1854-1st-solar-eclipse.jpg)
+
+Frederick and William Langenheim: 'eclipse of the sun,' the first photograph of a solar eclipse (1854)
+
 [Photography](./english/original-research/photography/README.md)
 
 [Woke](./english/original-research/woke/README.md)
