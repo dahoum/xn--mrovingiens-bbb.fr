@@ -259,6 +259,8 @@ Wes Anderson
 
 [Sallie Fiske](./english/people/sallie-fiske/README.md)
 
+[Sophy Rickett](./english/people/sophy-rickett/index.html)
+
 ### Cinema
 
 [Conclave](english/cinema/conclave/README.md), 5 April 2025. Good my way.
