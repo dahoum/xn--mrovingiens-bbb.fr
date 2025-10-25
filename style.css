@@ -1,10 +1,11 @@
 body
 {
-    max-width: 800px;
+    max-width: 500px;
 }
 
 img
 {
+    max-height: 450px;
     max-width: 750px;
     margin-left: 25px;
     margin-bottom: 25px;
@@ -22,6 +23,11 @@ h1, h2, h3
 p
 {
     margin-left: 10px;
+}
+
+p.article-date-time
+{
+    font-style: italic;
 }
 
 p.quote
