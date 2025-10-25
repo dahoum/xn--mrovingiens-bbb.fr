@@ -18,6 +18,7 @@ img
 h1, h2, h3
 {
     font-family: 'Anaheim', sans-serif;
+    font-size: 3rem;
 }
 
 p
@@ -34,4 +35,9 @@ p.quote
 {
     margin-left: 25px;
     font-style: italic;
+}
+
+a
+{
+    text-decoration: none;
 }
