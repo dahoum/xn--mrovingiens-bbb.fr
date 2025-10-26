@@ -13,12 +13,16 @@ img
 
 /* https://fonts.bunny.net
  */
-@import url(https://fonts.bunny.net/css?family=anaheim:400);
 
-h1, h2, h3
+/* https://fonts.google.com
+ */
+
+h1
 {
-    font-family: 'Anaheim', sans-serif;
-    font-size: 3rem;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
 }
 
 p
