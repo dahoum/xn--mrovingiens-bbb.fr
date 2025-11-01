@@ -1,3 +1,7 @@
+/* Google Fonts https://fonts.google.com
+ */
+@import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+
 body
 {
     max-width: 500px;
@@ -11,19 +15,22 @@ img
     margin-bottom: 25px;
 }
 
-/* https://fonts.bunny.net
+/* Page Title
  */
-
-/* https://fonts.google.com
- */
-
 h1
 {
-    font-family: "Oswald", sans-serif;
-    font-optical-sizing: auto;
-    font-weight: 400;
-    font-style: normal;
+  font-family: "Amarante", serif;
+  font-weight: 400;
+  font-style: normal;
 }
+
+/* Page Sub-Title
+ */
+h2
+
+/* Section Titles
+ */
+h3
 
 p
 {
