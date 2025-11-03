@@ -1,6 +1,13 @@
-/* Google Fonts https://fonts.google.com
+/*
+ * Google Fonts
+ *
+ * https://fonts.google.com
+ *
+ * One day when stabilised, download them locally onto the server.
+ *
  */
 @import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
 body
 {
@@ -20,13 +27,14 @@ img
 h1
 {
   font-family: "Amarante", serif;
-  font-weight: 400;
-  font-style: normal;
 }
 
 /* Page Sub-Title
  */
 h2
+{
+    font-family: "Amarante", serif;
+}
 
 /* Section Titles
  */
@@ -34,7 +42,10 @@ h3
 
 p
 {
-    margin-left: 10px;
+    font-family: "Noticia Text", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: red; 
 }
 
 p.article-date-time
@@ -44,7 +55,6 @@ p.article-date-time
 
 p.quote
 {
-    margin-left: 25px;
     font-style: italic;
 }
 
