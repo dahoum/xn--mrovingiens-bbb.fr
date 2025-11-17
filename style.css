@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Noticia+Text:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 body
 {
@@ -28,16 +28,13 @@ h2
     font-family: "Amarante", serif;
 }
 
-/* Section Titles
- */
-h3
-
 p
 {
-    font-family: "Noticia Text", serif;
-    font-weight: 400;
-    font-style: normal;
-    color: red; 
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
 }
 
 p.article-date-time
@@ -53,4 +50,23 @@ p.quote
 a
 {
     text-decoration: none;
+    color: black;
+}
+
+a:hover
+{
+    text-decoration: underline;
+    color: orange;
+}
+
+a:visited
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited:hover
+{
+    text-decoration: underline;
+    color: orange;
 }
