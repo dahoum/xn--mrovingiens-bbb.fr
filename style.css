@@ -67,6 +67,6 @@ a:visited
 
 a:visited:hover
 {
-    text-decoration: underline;
-    color: orange;
+    text-decoration: none;
+    background-color: yellow;
 }
