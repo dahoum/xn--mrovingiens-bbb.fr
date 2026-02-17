@@ -1,5 +1,8 @@
-@import url('https://fonts.googleapis.com/css2?family=Amarante&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+/* It seems fonts must start at the bottom or do not work.
+ */
 
 body
 {
@@ -18,14 +21,30 @@ img
  */
 h1
 {
-  font-family: "Amarante", serif;
+    font-family: "Anton", sans-serif;
+    font-size: 5rem;
+
+    position: relative;
+    display: inline-block;
+    padding: 0.2em 0.4em;
 }
+
+h1::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: -0.3em;
+            right: -0.3em;
+            height: 50%;
+            background: yellow;
+            z-index: -1;
+        }
 
 /* Page Sub-Title
  */
 h2
 {
-    font-family: "Amarante", serif;
+    font-family: "Anton", sans-serif;
 }
 
 p
