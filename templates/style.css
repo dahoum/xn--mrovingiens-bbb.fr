@@ -36,10 +36,14 @@ span.logo
     font-size: 3.5rem;
     position: relative;
     display: inline-block;
-    padding: 0.2rem 0.4rem;
 }
 
-span.logo::before {
+a.logo {
+    position: relative;
+    display: inline-block;
+}
+
+a.logo::before {
     content: "";
     position: absolute;
     top: 0;
@@ -48,6 +52,15 @@ span.logo::before {
     height: 50%;
     background: gold;
     z-index: -1;
+}
+
+a.logo,
+a.logo:hover,
+a.logo:active {
+  text-decoration: none;
+  padding: 0;
+  margin: 0;
+  border: none;
 }
 
 /* Article Title
