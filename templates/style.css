@@ -33,11 +33,11 @@ div.logo{
 span.logo
 {
     font-family: "Anton", sans-serif;
-    font-size: 5rem;
+    font-size: 3.5rem;
 
     position: relative;
     display: inline-block;
-    padding: 0.2em 0.4em;
+    padding: 0.2rem 0.4rem;
 }
 
 h1::before {

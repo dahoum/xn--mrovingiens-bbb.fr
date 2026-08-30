@@ -98,7 +98,7 @@ function parseMarkdown(filePath) {
   };
 }
 
-function generateCategoriesHtml(articles) {
+function generateCategoriesHtml(articles, contentDir) {
   const byCategory = {};
   articles.forEach(a => {
     if (!byCategory[a.category]) byCategory[a.category] = [];
@@ -110,8 +110,9 @@ function generateCategoriesHtml(articles) {
     html += `<section>\n<h2>${category}</h2>\n<ul>\n`;
     list.forEach(a => {
       const articleDir = path.dirname(a.filePath);
+      const relativeDir = path.relative(contentDir, articleDir);
       const folderName = path.basename(articleDir);
-      const filename = folderName + '.html';
+      const filename = path.join(relativeDir, folderName + '.html');
       html += `<li><a href="${filename}">${a.title}</a></li>\n`;
     });
     html += `</ul>\n</section>\n`;
@@ -193,7 +194,7 @@ function main() {
   const articleTpl = fs.readFileSync(path.join(templatesDir, 'article.html'), 'utf8');
 
   // Generate index.html
-  const categoriesHtml = generateCategoriesHtml(articles);
+  const categoriesHtml = generateCategoriesHtml(articles, contentDir);
   fs.writeFileSync(
     path.join(buildDir, 'index.html'),
     indexTpl.replace('{{categories}}', categoriesHtml)
@@ -202,15 +203,18 @@ function main() {
   // Generate article pages
   articles.forEach(a => {
     const articleDir = path.dirname(a.filePath);
+    const relativeDir = path.relative(contentDir, articleDir);
+    const outputDir = path.join(buildDir, relativeDir);
+    fs.mkdirSync(outputDir, { recursive: true });
     const folderName = path.basename(articleDir);
-    const filename = folderName + '.html';
+    const filename = path.join(outputDir, folderName + '.html');
     let html = articleTpl
       .replace(/{{title}}/g, a.title)
       .replace(/{{image}}/g, a.image)
       .replace('{{content}}', markdownToHtml(a.body));
-    fs.writeFileSync(path.join(buildDir, filename), html);
+    fs.writeFileSync(filename, html);
 
-    // Copy images from article's images folder
+    // Copy images from article's images folder to flat images dir
     const articleImagesDir = path.join(articleDir, 'images');
     if (fs.existsSync(articleImagesDir)) {
       const imagesDir = path.join(buildDir, 'images');
