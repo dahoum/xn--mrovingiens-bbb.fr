@@ -29,16 +29,27 @@ There are several reasons to shave peaks.
 
 ## Grid Limits
 
-The Grid operators impose two kind of Grid Limits.
+The Grid operators may impose limits.
+
+These can be two kinds.
 
 ## Grid Limits | kW Peak
 
-![here you see...](images/1.jpeg)
+![Here again the chart from above. The factory has a kW Peak Limit of 1 750 kW.](images/1.jpeg)
 
-
+The kW Peak Grid Limit prohibits consumption above the Limit even for a short time.
 
 ## Grid Limits | kWh Over Period of Time
 
+The kWh Over Period of Time is a limit which is calculated the following way.
+
+The factory has a kWh limit of 398 kWh.
+
+The factory is not allowed to exceed 1/4 of it during any 15 minutes period.
+
+## Grid Limits | Problems and Challenges
+
+The Grid Limits may be a bargaining chip in complex negotiations.
 
 ## Fuses
 
