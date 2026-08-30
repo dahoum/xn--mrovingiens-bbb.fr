@@ -119,7 +119,12 @@ function markdownToHtml(markdown, outputDir) {
       const imagesDir = path.join(path.dirname(outputDir), 'images');
       src = path.relative(outputDir, path.join(imagesDir, src));
       
-      html += `<p><img src="${src}" alt="${alt}"></p>\n`;
+      if (alt) {
+        html += `<p><img src="${src}" alt="${alt}" class="article-inline-image"></p>\n`;
+        html += `<p class="article-explanation">${alt}</p>\n`;
+      } else {
+        html += `<p><img src="${src}" alt="" class="article-inline-image"></p>\n`;
+      }
       continue;
     }
 

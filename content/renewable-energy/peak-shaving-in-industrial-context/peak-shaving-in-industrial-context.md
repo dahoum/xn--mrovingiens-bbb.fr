@@ -7,11 +7,11 @@ explanation: A 60-seconds window showing the power meter of a factory. The label
 
 # Audience
 
-Technical Directors of Factories
+This article is written for Technical Directors of Factories and people in similar roles and/or with similar responsibilities.
 
 # Goal of this Article
 
-To explain the different types of Peaks and Peak Shaving Solitions.
+Explain the different types of Peaks and Peak Shaving Solitions.
 
 The article uses data and charts from an actual factors.
 
@@ -25,7 +25,7 @@ The Grid operators normally impose two kind of Grid Limits.
 
 ## Grid Limits | kW Peak
 
-![](images/1.jpeg)
+![A chart showing fast power peaks in a factory](images/1.jpeg)
 
 ## Fuses
 
