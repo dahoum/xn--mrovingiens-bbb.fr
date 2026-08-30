@@ -87,7 +87,7 @@ a
 a:hover
 {
     text-decoration: none;
-    background-color: yellow;
+    background-color: gold;
 }
 
 a:visited
@@ -99,5 +99,5 @@ a:visited
 a:visited:hover
 {
     text-decoration: none;
-    background-color: yellow;
+    background-color: gold;
 }
