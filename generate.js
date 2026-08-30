@@ -121,7 +121,7 @@ function main() {
   const dir = __dirname;
   const contentDir = path.join(dir, 'content');
   const templatesDir = path.join(dir, 'templates');
-  const buildDir = path.join(dir, 'build');
+  const buildDir = path.join(dir, 'public');
 
   // Ensure templates exist
   if (!fs.existsSync(templatesDir)) {
@@ -166,11 +166,11 @@ function main() {
     return;
   }
 
-  // Clean build dir
+  // Clean public dir
   fs.rmSync(buildDir, { recursive: true, force: true });
   fs.mkdirSync(buildDir);
 
-  // Copy header.html to build dir
+  // Copy header.html to public dir
   const headerHtmlPath = path.join(templatesDir, 'header.html');
   if (fs.existsSync(headerHtmlPath)) {
     fs.copyFileSync(headerHtmlPath, path.join(buildDir, 'header.html'));
