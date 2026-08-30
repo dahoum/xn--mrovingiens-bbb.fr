@@ -1,6 +1,50 @@
 const fs = require('fs');
 const path = require('path');
 
+// Minimum recommended dimensions for social media cards
+const MIN_IMAGE_WIDTH = 1200;
+const MIN_IMAGE_HEIGHT = 627;
+
+/**
+ * Read image dimensions from file (JPEG and PNG)
+ * Returns { width, height } or null if unable to read
+ */
+function getImageDimensions(filePath) {
+  try {
+    const buffer = fs.readFileSync(filePath);
+    
+    // Check JPEG (starts with 0xFFD8)
+    if (buffer.length >= 2 && buffer[0] === 0xFF && buffer[1] === 0xD8) {
+      // Find SOF0 marker (0xFFC0)
+      for (let i = 2; i < buffer.length - 8; i++) {
+        if (buffer[i] === 0xFF && buffer[i + 1] === 0xC0) {
+          // Height is at i+5, i+6 (big-endian)
+          const height = (buffer[i + 5] << 8) | buffer[i + 6];
+          // Width is at i+7, i+8 (big-endian)
+          const width = (buffer[i + 7] << 8) | buffer[i + 8];
+          return { width, height };
+        }
+      }
+    }
+    
+    // Check PNG (starts with \x89PNG\r\n\x1a\n)
+    if (buffer.length >= 24 && 
+        buffer[0] === 0x89 && 
+        buffer[1] === 0x50 && 
+        buffer[2] === 0x4E && 
+        buffer[3] === 0x47) {
+      // IHDR chunk: bytes 16-23 are width (4 bytes big-endian) and height (4 bytes big-endian)
+      const width = (buffer[16] << 24) | (buffer[17] << 16) | (buffer[18] << 8) | buffer[19];
+      const height = (buffer[20] << 24) | (buffer[21] << 16) | (buffer[22] << 8) | buffer[23];
+      return { width, height };
+    }
+    
+    return null;
+  } catch (e) {
+    return null;
+  }
+}
+
 function markdownToHtml(markdown, outputDir) {
   const lines = markdown.split('\n');
   let html = '';
@@ -243,6 +287,24 @@ function main() {
     const ogUrl = '/' + articleRelativePath.replace(/\\/g, '/');
     const ogImage = '/' + path.relative(buildDir, path.join(buildDir, a.image)).replace(/\\/g, '/');
     
+    // Get image dimensions and warn if too small for social cards
+    const imageAbsPath = path.join(__dirname, 'content', path.dirname(path.relative(contentDir, a.filePath)), a.image);
+    const dims = getImageDimensions(imageAbsPath);
+    
+    if (dims) {
+      if (dims.width < MIN_IMAGE_WIDTH || dims.height < MIN_IMAGE_HEIGHT) {
+        console.warn(`WARNING: Image '${a.image}' is too small for social media cards. ` +
+                    `Recommended: at least ${MIN_IMAGE_WIDTH}x${MIN_IMAGE_HEIGHT}px. ` +
+                    `Actual: ${dims.width}x${dims.height}px. ` +
+                    `Article: ${a.title}`);
+      }
+    } else {
+      console.warn(`WARNING: Could not read dimensions for image '${a.image}'. Article: ${a.title}`);
+    }
+    
+    const ogImageWidth = dims ? dims.width : '';
+    const ogImageHeight = dims ? dims.height : '';
+    
     let html = articleTpl
       .replace(/{{title}}/g, a.title)
       .replace(/{{image}}/g, imageRelativeToOutput)
@@ -250,6 +312,8 @@ function main() {
       .replace(/{{logoHref}}/g, logoHref)
       .replace(/{{ogImage}}/g, ogImage)
       .replace(/{{ogUrl}}/g, ogUrl)
+      .replace(/{{ogImageWidth}}/g, ogImageWidth)
+      .replace(/{{ogImageHeight}}/g, ogImageHeight)
       .replace('{{content}}', markdownToHtml(a.body, outputDir));
     fs.writeFileSync(filename, html);
 
