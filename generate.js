@@ -1,7 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 
-function markdownToHtml(markdown) {
+function markdownToHtml(markdown, outputDir) {
   const lines = markdown.split('\n');
   let html = '';
   let inList = false;
@@ -55,6 +55,28 @@ function markdownToHtml(markdown) {
     if (inList) {
       html += '</ul>\n';
       inList = false;
+    }
+
+    // Images - validate and convert with correct paths
+    const imageMatch = line.match(/^!\[([^\]]*)\]\(([^)]+)\)\s*$/);
+    if (imageMatch) {
+      if (inList) html += '</ul>\n', inList = false;
+      const alt = imageMatch[1];
+      let src = imageMatch[2];
+      
+      // Image path in markdown is relative to the markdown file.
+      // Images are copied to public/images/ with the same internal structure.
+      // So images/foo.jpg in markdown becomes foo.jpg at the root of public/images/
+      // Strip leading 'images/' if present to get the path within the images dir
+      if (src.startsWith('images/')) {
+        src = src.substring(7); // Remove 'images/' prefix
+      }
+      
+      const imagesDir = path.join(path.dirname(outputDir), 'images');
+      src = path.relative(outputDir, path.join(imagesDir, src));
+      
+      html += `<p><img src="${src}" alt="${alt}"></p>\n`;
+      continue;
     }
 
     // Paragraph with inline formatting
@@ -210,10 +232,18 @@ function main() {
     fs.mkdirSync(outputDir, { recursive: true });
     const folderName = path.basename(articleDir);
     const filename = path.join(outputDir, folderName + '.html');
+    
+    // Fix image path: frontmatter image is relative to markdown file,
+    // but HTML needs path relative to output location
+    const imageRelativeToOutput = path.relative(
+      outputDir,
+      path.join(buildDir, a.image)
+    );
+    
     let html = articleTpl
       .replace(/{{title}}/g, a.title)
-      .replace(/{{image}}/g, a.image)
-      .replace('{{content}}', markdownToHtml(a.body));
+      .replace(/{{image}}/g, imageRelativeToOutput)
+      .replace('{{content}}', markdownToHtml(a.body, outputDir));
     fs.writeFileSync(filename, html);
 
     // Copy images from article's images folder to flat images dir

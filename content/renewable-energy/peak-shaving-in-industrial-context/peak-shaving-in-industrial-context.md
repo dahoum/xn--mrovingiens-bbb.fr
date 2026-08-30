@@ -1,7 +1,7 @@
 ---
 category: Renewable Energy
 title: Peak Shaving in Industrial Context
-image: images/update.jpg
+image: images/1.jpeg
 ---
 
 # Audience
@@ -14,13 +14,25 @@ To explain the different types of Peaks and Peak Shaving Solitions.
 
 The article uses data and charts from an actual factors.
 
-# Grid Limits
+# Reasons to Shave Peaks
+
+## Grid Limits
 
 The Grid operators normally impose two kind of Grid Limits.
 
-## kWh Over Period of Time
+## Grid Limits | kWh Over Period of Time
 
-## KW Peak
+## Grid Limits | kW Peak
+
+![](images/1.jpeg)
+
+## Fuses
+
+## Prioritisation
+
+Sometimes the reason is not that direct and obvious.
+
+One or more of the above listed limits may 
 
 # Peaks
 
