@@ -1,5 +1,5 @@
 ---
-category: News
+category: Renewable Energy
 title: Peak Shaving in Industrial Context
 image: images/update.jpg
 ---

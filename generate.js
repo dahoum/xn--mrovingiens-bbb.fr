@@ -110,7 +110,8 @@ function generateCategoriesHtml(articles, contentDir) {
     html += `<section>\n<h2>${category}</h2>\n<ul>\n`;
     list.forEach(a => {
       const articleDir = path.dirname(a.filePath);
-      const relativeDir = path.relative(contentDir, articleDir);
+      const parentDir = path.dirname(articleDir);
+      const relativeDir = path.relative(contentDir, parentDir);
       const folderName = path.basename(articleDir);
       const filename = path.join(relativeDir, folderName + '.html');
       html += `<li><a href="${filename}">${a.title}</a></li>\n`;
@@ -203,7 +204,8 @@ function main() {
   // Generate article pages
   articles.forEach(a => {
     const articleDir = path.dirname(a.filePath);
-    const relativeDir = path.relative(contentDir, articleDir);
+    const parentDir = path.dirname(articleDir);
+    const relativeDir = path.relative(contentDir, parentDir);
     const outputDir = path.join(buildDir, relativeDir);
     fs.mkdirSync(outputDir, { recursive: true });
     const folderName = path.basename(articleDir);

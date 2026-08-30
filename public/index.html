@@ -4,10 +4,10 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Brünhild</title>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="/style.css">
   <script>
     var xhr = new XMLHttpRequest();
-    xhr.open('GET', 'header.html', false);
+    xhr.open('GET', '/header.html', false);
     xhr.send();
     if (xhr.status === 200) document.write(xhr.responseText);
   </script>
@@ -17,16 +17,20 @@
   <section>
 <h2>News</h2>
 <ul>
-<li><a href="news/update/update.html">Big Update Released</a></li>
-<li><a href="news/welcome/welcome.html">Welcome to Our Site</a></li>
-<li><a href="renewable-energy/peak-shaving-in-industrial-context/peak-shaving-in-industrial-context.html">Peak Shaving in Industrial Context</a></li>
+<li><a href="news/welcome.html">Welcome to Our Site</a></li>
+</ul>
+</section>
+<section>
+<h2>Renewable Energy</h2>
+<ul>
+<li><a href="renewable-energy/peak-shaving-in-industrial-context.html">Peak Shaving in Industrial Context</a></li>
 </ul>
 </section>
 <section>
 <h2>Tutorials</h2>
 <ul>
-<li><a href="tutorials/advanced/advanced.html">Advanced Markdown</a></li>
-<li><a href="tutorials/basics/basics.html">Markdown Basics</a></li>
+<li><a href="tutorials/advanced.html">Advanced Markdown</a></li>
+<li><a href="tutorials/basics.html">Markdown Basics</a></li>
 </ul>
 </section>
 
