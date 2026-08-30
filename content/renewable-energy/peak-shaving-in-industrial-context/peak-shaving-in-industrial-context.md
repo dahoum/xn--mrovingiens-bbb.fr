@@ -3,7 +3,7 @@ category: Renewable Energy
 title: Peak Shaving in Industrial Context
 authors: 
 image: images/1.jpeg
-explanation: A 60-seconds window showing the power meter of a factory. The labels are ss.ms. The bars demonstrate Fast Peaks up to plus 250 kW over the base load, appearing and disappearing within seconds.
+explanation: A 60-seconds window showing the power meter of a factory employing cranes and welding equipment. The labels are ss.ms. The bars demonstrate Fast Peaks up to plus 250 kW over the base load, appearing and disappearing within seconds.
 ---
 
 # Audience
