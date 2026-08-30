@@ -67,12 +67,28 @@ h1
     font-size: 3rem;
 }
 
-/* Markdown h2
+/* Category names
  */
 h2
 {
     font-family: "Anton", sans-serif;
     font-size: 2.8rem;
+}
+
+/* Article links */
+a
+{
+    text-decoration: none;
+    color: black;
+    font-family: "Anton", sans-serif;
+    font-size: 2.6rem;
+}
+
+/* Remove bullets */
+ul
+{
+    list-style: none;
+    padding-left: 0;
 }
 
 p
