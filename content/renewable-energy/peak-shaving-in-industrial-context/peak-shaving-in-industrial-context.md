@@ -74,3 +74,18 @@ A crane may have 4 x 5 kW electical motors to move and 2 x 50 kW electrical moto
 
 The Slow Peaks are caused
 
+# Shaving
+
+## Shaving. Strategies.
+
+## Shaving. Controller.
+
+All peak shaving strategies require a controller.
+
+## Shaving. Controller. Control over the Load
+
+When one shaves peaks w/ eg. batteries one needs the ability to stop the load, which causes the peaks, when the batteries are about to be empty.
+
+This can be done with direct controlling.
+
+Or with a relay, which sends a signal or simply interrupts the power supply. The most brutal way.
