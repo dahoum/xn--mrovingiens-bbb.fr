@@ -1,6 +1,7 @@
 ---
 category: Renewable Energy
 title: Peak Shaving in Industrial Context
+authors: 
 image: images/1.jpeg
 explanation: A 60-seconds window showing the power meter of a factory. The labels are ss.ms. The bars demonstrate Fast Peaks up to plus 250 kW over the base load, appearing and disappearing within seconds.
 ---
@@ -25,7 +26,7 @@ Peak shaving is the activity of reducing electrical peaks.
 
 # Reasons to Shave Peaks
 
-There are several reasons to shave peaks.
+There are several reasons to shave peaks: grid limits, fuses, and prioritisation.
 
 ## Grid Limits
 
