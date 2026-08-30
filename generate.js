@@ -150,7 +150,7 @@ function main() {
   const buildDir = path.join(dir, 'public');
 
   // Check templates exist
-  const requiredTemplates = ['index.html', 'article.html', 'header.html', 'style.css'];
+  const requiredTemplates = ['index.html', 'article.html', 'style.css'];
   for (const tpl of requiredTemplates) {
     const tplPath = path.join(templatesDir, tpl);
     if (!fs.existsSync(tplPath)) {
@@ -200,12 +200,6 @@ function main() {
   fs.rmSync(buildDir, { recursive: true, force: true });
   fs.mkdirSync(buildDir);
 
-  // Copy header.html to public dir
-  const headerHtmlPath = path.join(templatesDir, 'header.html');
-  if (fs.existsSync(headerHtmlPath)) {
-    fs.copyFileSync(headerHtmlPath, path.join(buildDir, 'header.html'));
-  }
-
   // Copy style.css to public dir
   const styleCssPath = path.join(templatesDir, 'style.css');
   if (fs.existsSync(styleCssPath)) {
@@ -220,7 +214,7 @@ function main() {
   const categoriesHtml = generateCategoriesHtml(articles, contentDir);
   fs.writeFileSync(
     path.join(buildDir, 'index.html'),
-    indexTpl.replace('{{categories}}', categoriesHtml)
+    indexTpl.replace('{{categories}}', categoriesHtml).replace('{{logoHref}}', 'index.html')
   );
 
   // Generate article pages
@@ -240,9 +234,13 @@ function main() {
       path.join(buildDir, a.image)
     );
     
+    // Compute logo href: relative path from article to index.html
+    const logoHref = path.relative(outputDir, path.join(buildDir, 'index.html'));
+    
     let html = articleTpl
       .replace(/{{title}}/g, a.title)
       .replace(/{{image}}/g, imageRelativeToOutput)
+      .replace('{{logoHref}}', logoHref)
       .replace('{{content}}', markdownToHtml(a.body, outputDir));
     fs.writeFileSync(filename, html);
 
