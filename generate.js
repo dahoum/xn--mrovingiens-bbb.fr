@@ -73,7 +73,7 @@ function parseMarkdown(filePath) {
   const match = content.match(/^---[\r\n]+(.*?)---[\r\n]+(.*)/s);
 
   if (!match) {
-    throw new Error(`No frontmatter in ${filePath}`);
+    return null;
   }
 
   const frontmatter = match[1];
@@ -86,7 +86,7 @@ function parseMarkdown(filePath) {
   });
 
   if (!fm.category || !fm.title || !fm.image) {
-    throw new Error(`Missing category, title, or image in ${filePath}`);
+    return null;
   }
 
   return {
@@ -142,13 +142,19 @@ function main() {
 
   // Read all .md files
   const articles = [];
+  const skippedFiles = [];
   function readFiles(d) {
     fs.readdirSync(d).forEach(f => {
       const p = path.join(d, f);
       if (fs.statSync(p).isDirectory()) {
         readFiles(p);
       } else if (f.endsWith('.md')) {
-        articles.push(parseMarkdown(p));
+        const result = parseMarkdown(p);
+        if (result) {
+          articles.push(result);
+        } else {
+          skippedFiles.push(p);
+        }
       }
     });
   }
@@ -160,6 +166,11 @@ function main() {
   }
 
   readFiles(contentDir);
+
+  if (skippedFiles.length > 0) {
+    console.log(`Skipped ${skippedFiles.length} file(s) without proper frontmatter:`);
+    skippedFiles.forEach(f => console.log(`  - ${f}`));
+  }
 
   if (articles.length === 0) {
     console.log('No .md files found in content/');
