@@ -125,21 +125,14 @@ function main() {
   const templatesDir = path.join(dir, 'templates');
   const buildDir = path.join(dir, 'public');
 
-  // Ensure templates exist
-  if (!fs.existsSync(templatesDir)) {
-    fs.mkdirSync(templatesDir);
-    fs.writeFileSync(
-      path.join(templatesDir, 'index.html'),
-      '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="UTF-8">\n<title>My Site</title>\n</head>\n<body>\n<script src="header.js"></script>\n<h1>Articles</h1>\n{{categories}}\n</body>\n</html>'
-    );
-    fs.writeFileSync(
-      path.join(templatesDir, 'article.html'),
-      '<!DOCTYPE html>\n<html lang="en">\n<head>\n<meta charset="UTF-8">\n<title>{{title}}</title>\n</head>\n<body>\n<script src="header.js"></script>\n<article>\n<h1>{{title}}</h1>\n<img src="{{image}}" alt="{{title}}">\n{{content}}\n</article>\n</body>\n</html>'
-    );
-    fs.writeFileSync(
-      path.join(templatesDir, 'header.html'),
-      '<style>\n  body { padding-top: 6em; padding-left: 1em; }\n  .logo-container { position: fixed; top: 1em; left: 1em; z-index: 1000; }\n  .logo-text { font-family: Arial, Helvetica, sans-serif; font-weight: 900; font-size: 2rem; position: relative; }\n  .logo-text::before { content: ""; position: absolute; top: 50%; left: 20%; width: 100%; height: 100%; background-color: yellow; z-index: -1; }\n</style>\n<div class="logo-container"><span class="logo-text">Brunehilde</span></div>\n'
-    );
+  // Check templates exist
+  const requiredTemplates = ['index.html', 'article.html', 'header.html', 'style.css'];
+  for (const tpl of requiredTemplates) {
+    const tplPath = path.join(templatesDir, tpl);
+    if (!fs.existsSync(tplPath)) {
+      console.error(`Error: Template '${tpl}' not found in ${templatesDir}/`);
+      process.exit(1);
+    }
   }
 
   // Read all .md files
@@ -187,6 +180,12 @@ function main() {
   const headerHtmlPath = path.join(templatesDir, 'header.html');
   if (fs.existsSync(headerHtmlPath)) {
     fs.copyFileSync(headerHtmlPath, path.join(buildDir, 'header.html'));
+  }
+
+  // Copy style.css to public dir
+  const styleCssPath = path.join(templatesDir, 'style.css');
+  if (fs.existsSync(styleCssPath)) {
+    fs.copyFileSync(styleCssPath, path.join(buildDir, 'style.css'));
   }
 
   // Load templates

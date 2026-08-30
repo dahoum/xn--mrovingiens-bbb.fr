@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+/* It seems fonts must start at the bottom or do not work.
+ */
+
+body
+{
+    max-width: 500px;
+    padding-top: 6em;
+    padding-left: 1em;
+}
+
+img
+{
+    max-height: 450px;
+    max-width: 750px;
+    margin-left: 25px;
+    margin-bottom: 25px;
+}
+
+/*
+ * Logo
+ */
+
+div.logo{
+    position: fixed;
+    top: 1em;
+    left: 1em;
+    z-index: 1000;
+}
+
+span.logo
+{
+    font-family: "Anton", sans-serif;
+    font-size: 5rem;
+
+    position: relative;
+    display: inline-block;
+    padding: 0.2em 0.4em;
+}
+
+h1::before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: -0.3em;
+            right: -0.3em;
+            height: 50%;
+            background: yellow;
+            z-index: -1;
+        }
+
+/* Page Sub-Title
+ */
+h2
+{
+    font-family: "Anton", sans-serif;
+    font-size: 3rem;
+}
+
+p
+{
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings: "wdth" 100;
+}
+
+p.article-date-time
+{
+    font-style: italic;
+}
+
+p.quote
+{
+    font-style: italic;
+}
+
+a
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:hover
+{
+    text-decoration: none;
+    background-color: yellow;
+}
+
+a:visited
+{
+    text-decoration: none;
+    color: black;
+}
+
+a:visited:hover
+{
+    text-decoration: none;
+    background-color: yellow;
+}
