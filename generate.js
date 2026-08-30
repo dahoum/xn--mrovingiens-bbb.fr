@@ -115,6 +115,7 @@ function parseMarkdown(filePath) {
     category: fm.category,
     title: fm.title,
     image: fm.image,
+    explanation: fm.explanation || '',
     body,
     filePath
   };
@@ -237,10 +238,18 @@ function main() {
     // Compute logo href: relative path from article to index.html
     const logoHref = path.relative(outputDir, path.join(buildDir, 'index.html'));
     
+    // Compute Open Graph / absolute paths (relative to site root)
+    const articleRelativePath = path.relative(buildDir, filename);
+    const ogUrl = '/' + articleRelativePath.replace(/\\/g, '/');
+    const ogImage = '/' + path.relative(buildDir, path.join(buildDir, a.image)).replace(/\\/g, '/');
+    
     let html = articleTpl
       .replace(/{{title}}/g, a.title)
       .replace(/{{image}}/g, imageRelativeToOutput)
-      .replace('{{logoHref}}', logoHref)
+      .replace(/{{explanation}}/g, a.explanation)
+      .replace(/{{logoHref}}/g, logoHref)
+      .replace(/{{ogImage}}/g, ogImage)
+      .replace(/{{ogUrl}}/g, ogUrl)
       .replace('{{content}}', markdownToHtml(a.body, outputDir));
     fs.writeFileSync(filename, html);
 

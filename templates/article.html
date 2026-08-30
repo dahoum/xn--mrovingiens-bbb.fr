@@ -4,6 +4,20 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{title}}</title>
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{title}}">
+  <meta property="og:description" content="{{explanation}}">
+  <meta property="og:image" content="{{ogImage}}">
+  <meta property="og:url" content="{{ogUrl}}">
+  
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{title}}">
+  <meta name="twitter:description" content="{{explanation}}">
+  <meta name="twitter:image" content="{{ogImage}}">
+  
   <link rel="stylesheet" href="../style.css">
 </head>
 <body>
@@ -17,6 +31,7 @@
   <article>
     <h1 class="article-title">{{title}}</h1>
     <img src="{{image}}" alt="{{title}}" class="article-hero">
+    <p class="article-explanation">{{explanation}}</p>
     {{content}}
   </article>
 </body>

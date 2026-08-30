@@ -2,6 +2,7 @@
 category: Renewable Energy
 title: Peak Shaving in Industrial Context
 image: images/1.jpeg
+explanation: Understanding how industrial facilities can reduce energy costs and avoid grid limits through strategic peak demand management.
 ---
 
 # Audience
