@@ -109,7 +109,9 @@ function generateCategoriesHtml(articles) {
   for (const [category, list] of Object.entries(byCategory)) {
     html += `<section>\n<h2>${category}</h2>\n<ul>\n`;
     list.forEach(a => {
-      const filename = path.basename(a.filePath, '.md') + '.html';
+      const articleDir = path.dirname(a.filePath);
+      const folderName = path.basename(articleDir);
+      const filename = folderName + '.html';
       html += `<li><a href="${filename}">${a.title}</a></li>\n`;
     });
     html += `</ul>\n</section>\n`;
@@ -200,12 +202,24 @@ function main() {
 
   // Generate article pages
   articles.forEach(a => {
-    const filename = path.basename(a.filePath, '.md') + '.html';
+    const articleDir = path.dirname(a.filePath);
+    const folderName = path.basename(articleDir);
+    const filename = folderName + '.html';
     let html = articleTpl
       .replace(/{{title}}/g, a.title)
       .replace(/{{image}}/g, a.image)
       .replace('{{content}}', markdownToHtml(a.body));
     fs.writeFileSync(path.join(buildDir, filename), html);
+
+    // Copy images from article's images folder
+    const articleImagesDir = path.join(articleDir, 'images');
+    if (fs.existsSync(articleImagesDir)) {
+      const imagesDir = path.join(buildDir, 'images');
+      if (!fs.existsSync(imagesDir)) {
+        fs.mkdirSync(imagesDir, { recursive: true });
+      }
+      fs.cpSync(articleImagesDir, imagesDir, { recursive: true });
+    }
   });
 
   console.log(`Generated ${articles.length} article(s) in ${buildDir}/`);
