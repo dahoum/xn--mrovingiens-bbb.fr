@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Big Update Released</title>
+  <script>
+    var xhr = new XMLHttpRequest();
+    xhr.open('GET', 'header.html', false);
+    xhr.send();
+    if (xhr.status === 200) document.write(xhr.responseText);
+  </script>
+</head>
+<body>
+  <article>
+    <h1>Big Update Released</h1>
+    <img src="/images/update.jpg" alt="Big Update Released">
+    <p>Today we released a major update.</p>
+<ul>
+<li>Feature <strong>one</strong> is here</li>
+<li>Feature <em>two</em> is here</li>
+<li>Feature three is here</li>
+</ul>
+<h3>Changes</h3>
+<p>Everything is better now.</p>
+  </article>
+</body>
+</html>
