@@ -11,21 +11,34 @@ This article is written for Technical Directors of Factories and people in simil
 
 # Goal of this Article
 
-Explain the different types of Peaks and Peak Shaving Solitions.
+Explain the different types of (Electrical) Peaks and Peak Shaving Solitions.
+
+# Sources
 
 The article uses data and charts from an actual factors.
 
+The author has implemented a number of peak shaving solutions in industrial context.
+
+# Peak Shaving
+
+Peak shaving is the activity of reducing electrical peaks.
+
 # Reasons to Shave Peaks
+
+There are several reasons to shave peaks.
 
 ## Grid Limits
 
-The Grid operators normally impose two kind of Grid Limits.
-
-## Grid Limits | kWh Over Period of Time
+The Grid operators impose two kind of Grid Limits.
 
 ## Grid Limits | kW Peak
 
-![A chart showing fast power peaks in a factory](images/1.jpeg)
+![here you see...](images/1.jpeg)
+
+
+
+## Grid Limits | kWh Over Period of Time
+
 
 ## Fuses
 
