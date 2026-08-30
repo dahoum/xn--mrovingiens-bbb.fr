@@ -23,30 +23,17 @@ img
  * Logo
  */
 
-a.logo {
+div.logo {
     position: fixed;
     top: 1em;
     left: 1em;
     z-index: 1000;
-    text-decoration: none;
-    color: inherit;
-    display: inline-block;
-    margin: 0;
-    padding: 0;
-    outline: none;
-}
-
-a.logo:focus,
-a.logo:hover {
-    outline: none;
-    background-color: transparent;
 }
 
 span.logo
 {
     font-family: "Anton", sans-serif;
     font-size: 3.5rem;
-
     position: relative;
     display: inline-block;
     padding: 0.2rem 0.4rem;

@@ -6,9 +6,9 @@
 
 body
 {
-    max-width: 500px;
-    padding-top: 6em;
-    padding-left: 1em;
+    max-width: min(800px, 100vw - 2rem);
+    margin: 0 auto;
+    padding: 6em 1em 0;
 }
 
 img
@@ -23,7 +23,7 @@ img
  * Logo
  */
 
-div.logo{
+div.logo {
     position: fixed;
     top: 1em;
     left: 1em;
@@ -34,7 +34,6 @@ span.logo
 {
     font-family: "Anton", sans-serif;
     font-size: 3.5rem;
-
     position: relative;
     display: inline-block;
     padding: 0.2rem 0.4rem;
@@ -51,12 +50,44 @@ span.logo::before {
     z-index: -1;
 }
 
-/* Page Sub-Title
+/* Article Title
+ */
+h1.article-title
+{
+    font-family: "Anton", sans-serif;
+    font-size: 3.3rem;
+}
+
+/* Markdown h1
+ */
+h1
+{
+    font-family: "Anton", sans-serif;
+    font-size: 3rem;
+}
+
+/* Category names
  */
 h2
 {
     font-family: "Anton", sans-serif;
-    font-size: 3rem;
+    font-size: 2.8rem;
+}
+
+/* Article links */
+a
+{
+    text-decoration: none;
+    color: black;
+    font-family: "Anton", sans-serif;
+    font-size: 2.6rem;
+}
+
+/* Remove bullets */
+ul
+{
+    list-style: none;
+    padding-left: 0;
 }
 
 p
