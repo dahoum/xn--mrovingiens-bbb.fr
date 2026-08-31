@@ -101,7 +101,7 @@ The grid operator is ready to allow that, but will then lower the limits of both
 
 # Fuses/Circuit Breakers
 
-Fuses and circuit breakers are another reason to manage (shave) peaks.
+Fuses and circuit breakers are another reason to manage peaks.
 
 In another example a site has large water heaters, which consume more energy, than the fuses/ciruit breaksers can handle.
 
@@ -115,9 +115,13 @@ The peak management in this case might require re-design of the industrial proce
 
 Not all necessities are transformed into limits.
 
-A good energy management strategy looks beyond the present and into a dynamic future.
+A good energy management strategy looks beyond the present and into an unpredictable future.
 
-Staying away from limits, which might collapse 
+"No one can predict the future," says Uto Baader, the 82 years old German banker in the beginning of his openings.
+
+Yes, one can navigate it.
+
+"Change before you have to," used to say 
 
 # Peaks
 
@@ -183,7 +187,7 @@ Prior to this, the controller conducts measurements, which form the basis of the
 
 ## Emergency Control
 
-When one manages (shaves) peaks with the help of, for example, batteries, one needs emergency control over the load, which is causing the peaks.
+When one manages peaks with the help of, for example, batteries, one needs emergency control over the load, which is causing the peaks.
 
 The reason for this is that the batteries may discharge before the end of the peak interval ends, which might lead to damage caused by the unsupported peak load.
 
