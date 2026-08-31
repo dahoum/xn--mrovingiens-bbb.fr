@@ -36,7 +36,7 @@ All examples are for illustration purposes only and are selected based on their 
 
 # Management vs Shaving
 
-*Peak shaving* is a colloquial name for one of the aspects of *peak management* &mdash; reducing peaks.
+*Peak shaving* is a colloquial name for one of the aspects of *peak management*, the reduction of peaks.
 
 # Peak Management
 
