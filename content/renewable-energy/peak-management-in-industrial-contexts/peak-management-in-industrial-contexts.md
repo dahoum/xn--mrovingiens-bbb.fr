@@ -1,6 +1,6 @@
 ---
 category: Renewable Energy
-title: Peak Management in Industrial Contexts
+title: Peak Management In Industrial Contexts
 authors: by Ivor Jüchtern
 image: images/1.jpeg
 explanation: A 60-seconds window showing the power meter of a factory employing cranes and welding equipment. The labels are in seconds.milliseconds. The bars show the power in kW and demonstrate fast peaks up to plus 250 kW over the base load of 50 kW, appearing and disappearing within seconds.
@@ -24,9 +24,9 @@ Explain the different types of (electrical) peaks and peak management solutions.
 
 This article is loosely based on my *magnum opus* the handbook **How to Ask and Answer Qquestions related to Renewable Energy**.
 
-The data and the charts from an actual factory.
+The data and the charts are taken from an actual factory.
 
-To write both I have implemented a number of peak management (shaving) solutions in industrial context.
+To write both I have implemented a number of peak management solutions in industrial context.
 
 # No Association
 
@@ -74,7 +74,7 @@ The grid operator is ready to allow that, but will then lower the limits of both
 
 Fuses and circuit breakers are another reason to manage (shave) peaks.
 
-In another example a site has large water heaters, which consme more energy, than the fuses/ciruit breaksers can handle.
+In another example a site has large water heaters, which consume more energy, than the fuses/ciruit breaksers can handle.
 
 ## Prioritisation
 
