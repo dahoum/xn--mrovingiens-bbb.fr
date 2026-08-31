@@ -22,7 +22,7 @@ Explain the different types of peaks and peak management solutions.
 
 # Sources
 
-This article is loosely based on the author's *magnum opus* &mdash; the Handbook &mdash; **How to Ask and Answer Qquestions Related to Renewable Energy In Industrial Contexts**.
+This article is loosely based on the author's *magnum opus* &mdash; the Handbook &mdash; **How to Ask and Answer Questions Related to Renewable Energy In Industrial Contexts**.
 
 The data and the charts are taken from an actual factory.
 
@@ -30,7 +30,7 @@ The author has implemented a number of peak management solutions in industrial c
 
 # No Association
 
-Neither endorsement, nor fitness for purpose is applied to any of the solustions mentioned in this article.
+Neither endorsement, nor fitness for purpose is applied to any of the solutions mentioned in this article.
 
 All examples are for illustration purposes only and are selected based on their merit.
 
@@ -55,7 +55,21 @@ Grid operators may impose limits.
 These limits are typically two kinds &mdash;
 
 * Peak Power Limit (W), and
-* Wh over a period of time.
+* Energy Over a Period of Time Limit (Wh).
+
+## Power vs Energy
+
+These simple terms are surprisingly seldom understood.
+
+Here is a brief explanation.
+
+Power (W, Watts) is the rate at which electricity is used or produced at any moment. Power can be compared to the speed of a car.
+
+Energy (Wh, Watt-hours) is the total amount of electricity, which is used over time. Energy can be compared to the distance travelled by car.
+
+From another perspective *power* is a snapshot and *energy* is the accumulation over time.
+
+From yet another perspective power is how much water flows throuh a pipe and energy is the total amount of water that has flown through the pipe for a given period of time.
 
 ## Peak Power Limit (W)
 
@@ -93,7 +107,7 @@ In another example a site has large water heaters, which consume more energy, th
 
 The limits on peaks may lead to the impossibility to operate equipment needed for the industrial processes.
 
-The peak management in this case might require re-design of the industria process.
+The peak management in this case might require re-design of the industrial process.
 
 # Kinds of Peaks
 
@@ -163,7 +177,7 @@ The reason for this is that the batteries may discharge before the end of the pe
 
 To prevent such a damage the controller must be able to terminate the load-causing equipment. This may be possible or impossible, in which case the controller must be able to raise an alarm.
 
-Termination of load causing equipemnt can be done with direct control, in cases where the equipment supports it. Or with a simple relay that simply interrupts the power supply that equipment. A brutal, but effective in some cases way.
+Termination of load causing equipment can be done with direct control, in cases where the equipment supports it. Or with a simple relay that simply interrupts the power supply that equipment. A brutal, but effective in some cases way.
 
 ## Managing vs Not Managing
 
