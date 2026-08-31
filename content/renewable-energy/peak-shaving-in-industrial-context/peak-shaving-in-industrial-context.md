@@ -12,13 +12,13 @@ This article is written for professionals in industrial organisations, who are r
 
 These responsibilities may lie with different roles in different organisations.
 
-Emerging aspects of these responsbilities may challenge and even overwhelm some of those professionals.
+Emerging aspects of these responsibilities may challenge and even overwhelm some of those professionals.
 
 This article is especially aimed at them.
 
 # Goal of this Article
 
-Explain the different types of (electrical) peaks and peak management (shaving) solitions.
+Explain the different types of (electrical) peaks and peak management solutions.
 
 # Sources
 
@@ -44,7 +44,7 @@ Peak management, also called shaving, is the activity of managing electrical pea
 
 # Reasons to Manage (Shave) Peaks
 
-Electical peaks may cross limits set by the grid operator, limits of fuses/cricuit breakers, and due to one or a combination of those may additionaly hinder the operation of equipment, requiring prioritisation to be put in place.
+Electrical peaks may cross limits set by the grid operator, limits of fuses/cricuit breakers, and due to one or a combination of those may additionaly hinder the operation of equipment, requiring prioritisation to be put in place.
 
 ## Grid Limits
 
@@ -56,7 +56,7 @@ These limits are typically two kinds: kW peak and kWh over a period of time.
 
 ![Here again the chart from above. The factory has a kW peak limit of 1 750 kW.](images/1.jpeg)
 
-The kW peak limit prohibits consumption above the limit even for a short time. Exceeding the kW peak limit may lead to circiuit breakers opening to protect the grid. The factory loses grid power. Additionally there could be penalties.
+The kW peak limit prohibits consumption above the limit even for a short time. Exceeding the kW peak limit may lead to circuit breakers opening to protect the grid. The factory loses grid power. Additionally there could be penalties.
 
 ## Energy Limit, kWh Over Period of Time
 
@@ -80,7 +80,7 @@ In another example a site has large water heaters, which consme more energy, tha
 
 The limits on peaks may lead to the impossibility to operate equipment needed for the industrial processes.
 
-The peak management (shaving) in this case might require re-design of the industria process.
+The peak management in this case might require re-design of the industria process.
 
 # Kinds of Peaks
 
@@ -100,7 +100,7 @@ The Slow Peaks are caused by enganging equipment which stays in operation for lo
 
 ![A 60-seconds window showing the power meter of a factory. The labels are seconds.milliseconds. The bars show the power in kW and demonstrate the development of a slow peak from about 40 kW to about 100 kW over the period of about 30 seconds.](2.jpeg)
 
-# Peak Management (Shaving)
+# Peak Management
 
 In this section we will see how management of peaks is done. The approach to management of peaks depends on the reasons and on the overall goals.
 
