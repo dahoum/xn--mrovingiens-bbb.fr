@@ -48,9 +48,11 @@ Peaks may cross a number of limits.
 
 Some of the limits may be set by the energy contract(s). Some by fuses or circuit breakers. And some, individually or as a combination of the afore mentioned, may be limits imposed on the operation of equipment and therefore &mdash; on industrial processes.
 
-# Limits Imposed by the Energy Contract(s)
+# Limits
 
-Grid operators may impose limits.
+# Limits Imposed by the Energy Infrastructure
+
+One of the main sources of limits in industrial contexts are the *grid operators*.
 
 These limits are typically two kinds &mdash;
 
@@ -89,7 +91,7 @@ The Energy Over a Period of Time Limit limits the consumption or delivery not in
 
 The Energy Over a Period of Time Limit for our factory is calculated the following way. The factory has an Energy Over a Period of Time Limit of 398 000 Wh. The factory is not allowed to exceed 1/4 of that limit, or 99 500 Wh, during any 15 minutes period.
 
-## Grid Limits in Broader Context
+## Grid Limits as a Bargaining Chip
 
 The Grid Limits may be a bargaining chip in complex negotiations.
 
@@ -97,19 +99,29 @@ Our example factory can form an energy hub with a neighbouring factory in order 
 
 The grid operator is ready to allow that, but will then lower the limits of both companies. The lowered limits will fall under the minimum needs of the example factory to operate. This makes the hub possibility impossible to implement.
 
-## Fuses/Circuit Breakers
+# Fuses/Circuit Breakers
 
 Fuses and circuit breakers are another reason to manage (shave) peaks.
 
 In another example a site has large water heaters, which consume more energy, than the fuses/ciruit breaksers can handle.
 
-## Prioritisation
+# Prioritisation
 
 The limits on peaks may lead to the impossibility to operate equipment needed for the industrial processes.
 
 The peak management in this case might require re-design of the industrial process.
 
-# Kinds of Peaks
+# Limits and a Broader Context
+
+Not all necessities are transformed into limits.
+
+A good energy management strategy looks beyond the present and into a dynamic future.
+
+Staying away from limits, which might collapse 
+
+# Peaks
+
+## Kinds of Peaks
 
 In Industrial Context there are two major kinds of peaks.
 
@@ -180,6 +192,10 @@ To prevent such a damage the controller must be able to terminate the load-causi
 Termination of load causing equipment can be done with direct control, in cases where the equipment supports it. Or with a simple relay that simply interrupts the power supply that equipment. A brutal, but effective in some cases way.
 
 ## Managing vs Not Managing
+
+When peaks do not exceed one or more of the limits imposed on the industria site, they do not need to be managed.
+
+
 
 Related to the Peak Limit vs Limit over Time.
 
