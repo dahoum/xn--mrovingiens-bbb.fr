@@ -163,6 +163,7 @@ function parseMarkdown(filePath) {
   return {
     category: fm.category,
     title: fm.title,
+    authors: fm.authors || '',
     image: fm.image,
     explanation: fm.explanation || '',
     body,
@@ -312,6 +313,7 @@ function main() {
     
     let html = articleTpl
       .replace(/{{title}}/g, a.title)
+      .replace(/{{authors}}/g, a.authors)
       .replace(/{{image}}/g, imageRelativeToOutput)
       .replace(/{{explanation}}/g, a.explanation)
       .replace(/{{logoHref}}/g, logoHref)
