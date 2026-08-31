@@ -3,7 +3,7 @@ category: Renewable Energy
 title: Peak Management In Industrial Contexts
 authors: by Ivor Jüchtern
 image: images/1.jpeg
-explanation: A 60-seconds window showing the power meter of a factory employing cranes and welding equipment. The labels are in seconds.milliseconds. The bars show the power in kW and demonstrate fast peaks up to plus 250 kW over the base load of 50 kW, appearing and disappearing within seconds.
+explanation: A 60-seconds window showing the power meter of a factory employing cranes and welding equipment. The labels are in seconds.milliseconds. The bars show the power in W and demonstrates fast peaks up to plus 250 000 W over the base load of 50 000 W, appearing and disappearing within seconds.
 ---
 
 # Audience
