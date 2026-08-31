@@ -22,9 +22,11 @@ Explain the different types of (electrical) peaks and peak management (shaving) 
 
 # Sources
 
+This article is loosely based on my *magnum opus* the handbook **How to Ask and Answer Qquestions related to Renewable Energy**.
+
 The data and the charts from an actual factory.
 
-The author has implemented a number of peak management (shaving) solutions in industrial context.
+To write both I have implemented a number of peak management (shaving) solutions in industrial context.
 
 # Peak Management (Shaving)
 
