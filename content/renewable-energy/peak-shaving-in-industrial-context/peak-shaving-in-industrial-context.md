@@ -8,7 +8,13 @@ explanation: A 60-seconds window showing the power meter of a factory employing 
 
 # Audience
 
-This article is written for Technical Directors of Factories, responsible for electrical energy, and for professionals in similar roles and/or with similar responsibilities.
+This article is written for professionals in industrial organisations, who are responsible, formally or informally, for the purchase and usage of energy.
+
+These responsibilities may lie with different roles in different organisations.
+
+Emerging aspects of these responsbilities may challenge and even overwhelm some of those professionals.
+
+This article is especially aimed at them.
 
 # Goal of this Article
 
