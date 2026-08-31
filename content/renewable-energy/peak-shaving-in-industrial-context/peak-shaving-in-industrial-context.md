@@ -1,6 +1,6 @@
 ---
 category: Renewable Energy
-title: Peak Management (Shaving) in Industrial Context
+title: Peak Management in Industrial Contexts
 authors: 
 image: images/1.jpeg
 explanation: A 60-seconds window showing the power meter of a factory employing cranes and welding equipment. The labels are in seconds.milliseconds. The bars show the power in kW and demonstrate Fast Peaks up to plus 250 kW over the base load of 50 Kw, appearing and disappearing within seconds.
@@ -28,7 +28,17 @@ The data and the charts from an actual factory.
 
 To write both I have implemented a number of peak management (shaving) solutions in industrial context.
 
-# Peak Management (Shaving)
+# No Association
+
+Neither endorsement, nor fitness for purpose.
+
+All examples are for illustration purposes only.
+
+# Dictionary. Management vs Shaving
+
+Peak Shaving is a colloquial name for Peak Management.
+
+# Peak Management
 
 Peak management, also called shaving, is the activity of managing electrical peaks.
 
@@ -142,6 +152,18 @@ To prevent such a damage the controller must be able to terminate the load causi
 
 Termination of load causing equipemnt can be done with direct controlling, in cases when the equipment supports it. Or with a simple relay, which simply interrupts the power supply that equipment. A most brutal way, but effective in some cases
 
+## Managing vs Not Managing
+
+Related to the Peak Limit vs Limit over Time.
+
+## Management of Fast Peaks. Kinetic Solutions
+
+Teraloop.
+
 # Questions?
 
 If you would have any questions, please feel free to contact the authors of this article.
+
+# Meet the Author
+
+At SPS in Nürnberg in October.
