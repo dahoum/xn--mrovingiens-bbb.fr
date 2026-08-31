@@ -3,7 +3,7 @@ category: Renewable Energy
 title: Peak Management In Industrial Contexts
 authors: by Ivor Jüchtern
 image: images/1.jpeg
-explanation: A 60-seconds window showing the power meter of a factory employing cranes and welding equipment. The labels are in seconds.milliseconds. The bars show the power in W and demonstrates fast peaks up to plus 250 000 W over the base load of 50 000 W, appearing and disappearing within seconds. The base load has already been reduced by 200 000 W with the help of solar energy. Without the solar energy support the base load is 250 000 W and the fast peaks reach 550 000 W.
+explanation: A 60-seconds window showing the power meter of a factory employing cranes and welding equipment. The labels are in seconds.milliseconds. The bars show the power in W and demonstrates fast peaks up to plus 250 000 W over the base load of 50 000 W appearing and disappearing within seconds. The base load has already been reduced by 200 000 W with the help of solar energy. Without the solar energy support the base load is 250 000 W and the fast peaks reach 550 000 W.
 ---
 
 # Audience
@@ -18,49 +18,62 @@ This article is especially aimed at them.
 
 # Goal of this Article
 
-Explain the different types of (electrical) peaks and peak management solutions.
+Explain the different types of peaks and peak management solutions.
 
 # Sources
 
-This article is loosely based on my *magnum opus* the handbook **How to Ask and Answer Qquestions related to Renewable Energy**.
+This article is loosely based on the author's *magnum opus* &mdash; the Handbook &mdash; **How to Ask and Answer Qquestions Related to Renewable Energy In Industrial Contexts**.
 
 The data and the charts are taken from an actual factory.
 
-To write both I have implemented a number of peak management solutions in industrial context.
+The author has implemented a number of peak management solutions in industrial contexts.
 
 # No Association
 
-Neither endorsement, nor fitness for purpose.
+Neither endorsement, nor fitness for purpose is applied to any of the solustions mentioned in this article.
 
-All examples are for illustration purposes only.
+All examples are for illustration purposes only and are selected based on their merit.
 
-# Dictionary. Management vs Shaving
+# Management vs Shaving
 
-Peak Shaving is a colloquial name for Peak Management.
+*Peak shaving* is a colloquial name for one of the aspects of *peak management* &mdash; reducing peaks.
 
 # Peak Management
 
-Peak management, also called shaving, is the activity of managing electrical peaks.
+Peak management is the activity of managing peaks by managing either the industrial equipment causing them, a supporting equipment or both.
 
-# Reasons to Manage (Shave) Peaks
+# Reasons to Manage Peaks
 
-Electrical peaks may cross limits set by the grid operator, limits of fuses/circuit breakers, and due to one or a combination of those may additionaly hinder the operation of equipment, requiring prioritisation to be put in place.
+Peaks may cross a number of limits.
 
-## Grid Limits
+Some of the limits may be set by the energy contract(s). Some by fuses or circuit breakers. And some, individually or as a combination of the afore mentioned, may be limits imposed on the operation of equipment and therefore &mdash; on industrial processes.
+
+# Limits Imposed by the Energy Contract(s)
 
 Grid operators may impose limits.
 
-These limits are typically two kinds: kW peak and kWh over a period of time.
+These limits are typically two kinds &mdash;
 
-## Peak Power Limit, kW Peak
+* Peak Power Limit (W), and
+* Wh over a period of time.
+
+## Peak Power Limit (W)
 
 ![Here again the chart from above. The factory has a kW peak limit of 1 750 kW.](images/1.jpeg)
 
-The kW peak limit prohibits consumption above the limit even for a short time. Exceeding the kW peak limit may lead to circuit breakers opening to protect the grid. The factory loses grid power. Additionally there could be penalties.
+The Peak Power Limit (W) limits consumption and/or delivery above the limit even for a short period of time.
 
-## Energy Limit, kWh Over Period of Time
+Exceeding the Peak Power Limit (W) may lead to circuit breakers opening to protect the grid.
 
-The energy limit for our factory is calculated the following way. The factory has an energy limit 398 kWh. The factory is not allowed to exceed 1/4 of it, or 99,5 kWh during any 15 minutes period.
+The industrial site may, as a result, lose grid power.
+
+Additionally, there could be penalties.
+
+## Energy Over a Period of Time Limit (Wh) 
+
+The Energy Over a Period of Time Limit limits the consumption or delivery not in a peak, but in a temporal manner.
+
+The Energy Over a Period of Time Limit for our factory is calculated the following way. The factory has an Energy Over a Period of Time Limit of 398 000 Wh. The factory is not allowed to exceed 1/4 of that limit, or 99 500 Wh, during any 15 minutes period.
 
 ## Grid Limits in Broader Context
 
@@ -167,3 +180,9 @@ If you have any questions, please feel free to contact the authors of this artic
 # Meet the Author
 
 At SPS in Nürnberg in October.
+
+# Copyright
+
+All rights belong to the authors.
+
+The article can be reproduced as a whole or in parts as long as the original title and the authors are mentioned and a link to this page is provided.
