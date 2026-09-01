@@ -180,16 +180,16 @@ function generateCategoriesHtml(articles, contentDir) {
 
   let html = '';
   for (const [category, list] of Object.entries(byCategory)) {
-    html += `<section>\n<h2>${category}</h2>\n<ul>\n`;
+    html += `<section>\n<h2>${category}</h2>\n`;
     list.forEach(a => {
       const articleDir = path.dirname(a.filePath);
       const parentDir = path.dirname(articleDir);
       const relativeDir = path.relative(contentDir, parentDir);
       const folderName = path.basename(articleDir);
       const filename = path.join(relativeDir, folderName + '.html');
-      html += `<li><a href="${filename}">${a.title}</a></li>\n`;
+      html += `<p><a href="${filename}">${a.title}</a></p>\n`;
     });
-    html += `</ul>\n</section>\n`;
+    html += `</section>\n`;
   }
   return html;
 }
