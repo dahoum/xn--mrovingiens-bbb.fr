@@ -99,7 +99,7 @@ Our example factory can form an energy hub with a neighbouring factory in order 
 
 The grid operator is ready to allow that, but will then lower the limits of both companies. The lowered limits will fall under the minimum needs of the example factory to operate. This makes the hub possibility impossible to implement.
 
-# Fuses/Circuit Breakers
+# Limits Imposed by Fuses and Circuit Breakers
 
 Fuses and circuit breakers are another reason to manage peaks.
 
