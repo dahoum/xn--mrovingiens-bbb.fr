@@ -18,7 +18,7 @@ This article is especially aimed at them.
 
 # Goal of this Article
 
-Explain the different types of peaks and peak management solutions.
+Illustrate why peaks should be managed, the different types of peaks and some of the most typical ways to manage peaks.
 
 # Sources
 
@@ -36,11 +36,11 @@ All examples are for illustration purposes only and are selected based on their 
 
 # Management vs Shaving
 
-*Peak shaving* is a colloquial name for one of the aspects of *peak management*, the reduction of peaks.
+*Peak shaving* is a colloquial name for one of the aspects of *peak management*, the *reduction* of peaks.
 
 # Peak Management
 
-Peak management is the activity of managing peaks by managing either the industrial equipment causing them, a supporting equipment or both.
+The activity of managing peaks by managing either the industrial equipment causing them, a supporting equipment that lowers them or both.
 
 # Reasons to Manage Peaks
 
