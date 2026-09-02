@@ -1,28 +1,38 @@
 ---
 category: Renewable Energy
-title: Grid
+title: The Grid
 authors: by Ivor Jüchtern
 image: images/1.jpeg
-explanation: Workers in gondolas riding under high-voltage lines to peform maintenance work near Darmstadt in Germany.
+explanation: Workers performing maintenance by riding in gondolas under high-voltage lines near the author's home in Darmstadt, Germany.
 ---
 
-# Why talk about Grid?
+# The Grid?
 
-The electrical grid is a major factor and will play a major role in the future of energy.
+The electrical grid.
 
-A role, which will affect everyone in industrial context.
+# Why talk about the Grid?
 
-And should be, therefore, taken into account by everyone.
+The grid is a major factor in energy and will play an important role in the future. A role, which will affect everyone in industrial contexts. And should be, therefore, taken into account by everyone.
 
-# What is Grid?
+# What is the Grid?
 
-Grid are the cables connecting sources of energy with the consumers of energy.
+The Grid are the cables connecting non-local sources of energy to the local consumeption.
 
 Over short, long and very long distances.
 
 # Behind-the-meter (BTM) and in-front-of-the-meter (FTM)
 
-Explain.
+The Grid ends at the Power Meter. The Power Meter creates spaces: in-front-of-the-meter (FTM) and behind-the-meter (BTM).
+
+# Flow of Electricity vs Flow of Water
+
+The closest metaphor to the flow of electricity is the flows of water and it does not work.
+
+Electricity and water behave in fundamentally different ways.
+
+The most significant difference, is that water flow is controlled at the valve, which is not applicable to electricity. The flow of electricity is controlled at the source.
+
+This means, that when the sun is shining and your solar panels produce more electricity, than you consume, and you should not deliver to the Grid; what you do is reduce the production. There is no valve between your solar production and the grid you can close.
 
 # Challenges Facing the Grid
 
