@@ -3,7 +3,7 @@ category: Renewable Energy
 title: Grid
 authors: by Ivor Jüchtern
 image: images/1.jpeg
-explanation: [to be written]]
+explanation: Workers in gondolas riding under high-voltage lines to peform maintenance work near Darmstadt in Germany.
 ---
 
 # Why talk about Grid?
