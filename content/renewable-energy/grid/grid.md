@@ -42,6 +42,18 @@ Supply and demand balance (balancing generation with consumption)
 
  Upgrading throughput—e.g., adding high-voltage lines or smart grid tech—lets you move more power,  but it doesn’t by itself ensure that generation matches consumption at every moment. You still need mechanisms like storage, demand response, or flexible generation to handle the supply–demand problem.
 
+## Grid and Nature
+
+Ja, Vögel sterben jedes Jahr in Deutschland an Freileitungen und Masten durch tödliche Kollisionen und Stromschläge.In Deutschland verenden schätzungsweise 1 bis 2,8 Millionen Vögel jährlich an solchen Anlagen. https://niedersachsen.nabu.de/tiere-und-pflanzen/voegel/34803.html
+
+In Deutschland sterben schätzungsweise 100.000 bis 250.000 Vögel jährlich durch Kollisionen mit Windkraftanlagen.
+
+In Deutschland sterben schätzungsweise 100.000 bis 250.000 Vögel jährlich durch Kollisionen mit Windkraftanlagen.Einordnung im VergleichGlasscheiben: 100 bis 115 Millionen tote Vögel pro Jahr.Straßenverkehr: Rund 70 Millionen tote Vögel pro Jahr.Hauskatzen: 20 bis 100 Millionen tote Vögel pro Jahr.
+
+Conclusion:
+
+Less Grid is better for the nature.
+
 # Grid and Energy Productoin
 
 In an AC grid, generation must match consumption in real time. Any imbalance causes the grid frequency to deviate from its nominal value (50 Hz or 60 Hz). The system uses that frequency deviation as a feedback signal: if demand rises, frequency drops; generators automatically increase output (primary control), and additional reserves are dispatched (secondary/tertiary control) to restore balance.
