@@ -45,7 +45,7 @@ function getImageDimensions(filePath) {
   }
 }
 
-function markdownToHtml(markdown, outputDir) {
+function markdownToHtml(markdown, outputDir, articleRelativePath) {
   const lines = markdown.split('\n');
   let html = '';
   let inList = false;
@@ -109,15 +109,20 @@ function markdownToHtml(markdown, outputDir) {
       let src = imageMatch[2];
       
       // Image path in markdown is relative to the markdown file.
-      // Images are copied to public/images/ with the same internal structure.
-      // So images/foo.jpg in markdown becomes foo.jpg at the root of public/images/
-      // Strip leading 'images/' if present to get the path within the images dir
+      // Images are copied preserving directory structure.
+      // So images/foo.jpg in markdown at content/renewable-energy/grid/ 
+      // becomes public/renewable-energy/grid/images/foo.jpg
+      // We need to go from outputDir to the article's images dir
+      // articleRelativePath is like "renewable-energy/grid"
+      // outputDir is like "public/renewable-energy"
+      // imagesDir should be "public/renewable-energy/grid/images"
       if (src.startsWith('images/')) {
         src = src.substring(7); // Remove 'images/' prefix
       }
       
-      const imagesDir = path.join(path.dirname(outputDir), 'images');
-      src = path.relative(outputDir, path.join(imagesDir, src));
+      // Compute the path from outputDir to the article's images directory
+      const articleImagesDir = path.join(path.dirname(outputDir), articleRelativePath, 'images');
+      src = path.relative(outputDir, path.join(articleImagesDir, src));
       
       if (alt) {
         html += `<p><img src="${src}" alt="${alt}" class="article-inline-image"></p>\n`;
@@ -280,21 +285,22 @@ function main() {
     
     // Fix image path: frontmatter image is relative to markdown file,
     // but HTML needs path relative to output location
+    const articleRelativePath = path.relative(contentDir, path.dirname(a.filePath));
     const imageRelativeToOutput = path.relative(
       outputDir,
-      path.join(buildDir, a.image)
+      path.join(buildDir, articleRelativePath, a.image)
     );
     
     // Compute logo href: relative path from article to index.html
     const logoHref = path.relative(outputDir, path.join(buildDir, 'index.html'));
     
     // Compute Open Graph / absolute paths (relative to site root)
-    const articleRelativePath = path.relative(buildDir, filename);
-    const ogUrl = '/' + articleRelativePath.replace(/\\/g, '/');
-    const ogImage = '/' + path.relative(buildDir, path.join(buildDir, a.image)).replace(/\\/g, '/');
+    const articleRelativeToBuild = path.relative(buildDir, filename);
+    const ogUrl = '/' + articleRelativeToBuild.replace(/\\/g, '/');
+    const ogImage = '/' + path.relative(buildDir, path.join(buildDir, articleRelativePath, a.image)).replace(/\\/g, '/');
     
     // Get image dimensions and warn if too small for social cards
-    const imageAbsPath = path.join(__dirname, 'content', path.dirname(path.relative(contentDir, a.filePath)), a.image);
+    const imageAbsPath = path.join(__dirname, 'content', articleRelativePath, a.image);
     const dims = getImageDimensions(imageAbsPath);
     
     if (dims) {
@@ -321,17 +327,15 @@ function main() {
       .replace(/{{ogUrl}}/g, ogUrl)
       .replace(/{{ogImageWidth}}/g, ogImageWidth)
       .replace(/{{ogImageHeight}}/g, ogImageHeight)
-      .replace('{{content}}', markdownToHtml(a.body, outputDir));
+      .replace('{{content}}', markdownToHtml(a.body, outputDir, articleRelativePath));
     fs.writeFileSync(filename, html);
 
-    // Copy images from article's images folder to flat images dir
+    // Copy images from article's images folder, preserving directory structure
     const articleImagesDir = path.join(articleDir, 'images');
+    const targetImagesDir = path.join(buildDir, articleRelativePath, 'images');
     if (fs.existsSync(articleImagesDir)) {
-      const imagesDir = path.join(buildDir, 'images');
-      if (!fs.existsSync(imagesDir)) {
-        fs.mkdirSync(imagesDir, { recursive: true });
-      }
-      fs.cpSync(articleImagesDir, imagesDir, { recursive: true });
+      fs.mkdirSync(path.dirname(targetImagesDir), { recursive: true });
+      fs.cpSync(articleImagesDir, targetImagesDir, { recursive: true });
     }
   });
 

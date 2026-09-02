@@ -10,6 +10,10 @@ explanation: [to be written]]
 
 The electrical grid is a major factor and will play a major role in the future of energy.
 
+A role, which will affect everyone in industrial context.
+
+And should be, therefore, taken into account by everyone.
+
 # What is Grid?
 
 Grid are the cables connecting sources of energy with the consumers of energy.
@@ -79,3 +83,11 @@ The Dutch government and grid operators (Liander, Enexis, Stedin, TenneT) are im
 ## UK
 
 ## Finland
+
+# Measures You Should Take
+
+## Study Your Energy Profile
+
+## Create a Stratetgy
+
+## Restructure, Purchase and Manage
