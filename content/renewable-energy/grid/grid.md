@@ -26,7 +26,9 @@ From electrical point of view in-front-of-the-meter (FTM) and behind-the-meter (
 
 # Flow of Electricity vs Flow of Water
 
-The closest metaphor to the flow of electricity is the flows of water and it does not work.
+There are a number of misunderstanding in relation to the Grid and I have been looking for a suitable metaphor to help me talk about them.
+
+The closest metaphor would be the flow of water and it does not work.
 
 Electricity and water behave in fundamentally different ways.
 
