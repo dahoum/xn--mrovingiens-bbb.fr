@@ -12,17 +12,17 @@ The electrical grid.
 
 # Why talk about the Grid?
 
-The grid is a major factor in energy and will play an important role in the future. A role, which will affect everyone in industrial contexts. And should be, therefore, taken into account by everyone.
+The Grid is a major factor in energy and will play an important role in the future. A role, which will affect everyone in industrial contexts. Its nature and upcoming changes should be, therefore, taken into account.
 
 # What is the Grid?
 
-The Grid are the cables connecting non-local sources of energy to the local consumeption.
-
-Over short, long and very long distances.
+The Grid are the cables connecting non-local sources of energy to local consumeption. Over short, long and very long distances.
 
 # Behind-the-meter (BTM) and in-front-of-the-meter (FTM)
 
-The Grid ends at the Power Meter. The Power Meter creates spaces: in-front-of-the-meter (FTM) and behind-the-meter (BTM).
+The Grid ends at the Power Meter. The Power Meter creates two legal, but not electrical spaces: in-front-of-the-meter (FTM) and behind-the-meter (BTM)
+
+From electrical point of view in-front-of-the-meter (FTM) and behind-the-meter (BTM) is the same space.
 
 # Flow of Electricity vs Flow of Water
 
