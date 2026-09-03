@@ -44,13 +44,15 @@ To properly understand and act upon the future of grid one should learn the diff
 
 Throughput (transmission and distribution capacity)
 
- Upgrading throughput—e.g., adding high-voltage lines or smart grid tech—lets you move more power,  but it doesn’t by itself ensure that generation matches consumption at every moment. 
+Upgrading throughput—e.g., adding high-voltage lines or smart grid tech—lets you move more power,  but it doesn’t by itself ensure that generation matches consumption at every moment.
+
+So, upgrading the Grid for throughput addresses (and I am on purpose not saying "fixes") only half of the problem.
 
 ## Balance/Imbalance
 
 Supply and demand balance (balancing generation with consumption)
 
- Upgrading throughput—e.g., adding high-voltage lines or smart grid tech—lets you move more power,  but it doesn’t by itself ensure that generation matches consumption at every moment. You still need mechanisms like storage, demand response, or flexible generation to handle the supply–demand problem.
+Upgrading throughput—e.g., adding high-voltage lines or smart grid tech—lets you move more power,  but it doesn’t by itself ensure that generation matches consumption at every moment. You still need mechanisms like storage, demand response, or flexible generation to handle the supply–demand problem.
 
 ## Grid and Nature
 
