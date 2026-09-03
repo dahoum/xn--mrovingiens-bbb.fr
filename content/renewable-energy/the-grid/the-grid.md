@@ -8,7 +8,7 @@ explanation: Workers performing maintenance by riding in gondolas under high-vol
 
 # Audience
 
-This article is written for professionals responsible for the purchase and use of energy in industrial context.
+This article is written for professionals responsible for the purchase and use of energy in industrial contexts.
 
 # Lie-to-Children
 
