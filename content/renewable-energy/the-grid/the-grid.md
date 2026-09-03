@@ -6,27 +6,39 @@ image: images/1.jpeg
 explanation: Workers performing maintenance by riding in gondolas under high-voltage lines near the author's home in Darmstadt, Germany.
 ---
 
+# Audience
+
+This article is written for professionals responsible for the purchase and use of energy in industrial context.
+
+# Lie-to-Children
+
+In order to keep the article short and interesting, some complex topics are simplified.
+
+The detailed story is available in my *magnum opus* — the Handbook — How to Ask and Answer Questions Related to Renewable Energy In Industrial Contexts.
+
 # The Grid?
 
 The electrical grid.
 
 # Why talk about the Grid?
 
-The Grid is a major factor in energy and will play an important role in the future. A role, which will affect everyone in industrial contexts. Its nature and upcoming changes should be, therefore, taken into account.
+The Grid is a major factor in energy and will play an important role in the future. A role, which already affects and will affect everyone in industrial contexts. Its nature and upcoming changes should be, therefore, understood and taken into account.
 
 # What is the Grid?
 
-The Grid are the cables connecting non-local sources of energy to local consumeption. Over short, long and very long distances.
+The Grid is the infrastructure connecting in-front-of-the-meter sources of energy the behind-the-meter consumption. Over short, long and very long distances.
 
-# Behind-the-meter (BTM) and in-front-of-the-meter (FTM)
+# Behind-the-Meter (BTM) and In-Front-of-the-Meter (FTM)
 
-The Grid ends at the Power Meter. The Power Meter creates two legal, but not electrical spaces: in-front-of-the-meter (FTM) and behind-the-meter (BTM)
+The Grid both ends and does not end at your Grid Power Meter.
 
-From electrical point of view in-front-of-the-meter (FTM) and behind-the-meter (BTM) is the same space.
+The Grid Power Meter demarcates two legal, but not electrical spaces: in-front-of-the-meter (FTM) and behind-the-meter (BTM)
+
+From an electrical point of view in-front-of-the-meter (FTM) and behind-the-meter (BTM) is the same space.
 
 # Flow of Electricity vs Flow of Water
 
-There are a number of misunderstanding in relation to the Grid and I have been looking for a suitable metaphor to help me talk about them.
+There are a number of misunderstanding in relation to the Grid, and I have been looking for a suitable metaphor to help me talk about them.
 
 The closest metaphor would be the flow of water and it does not work.
 
@@ -38,7 +50,7 @@ This means, that when the sun is shining and your solar panels produce more elec
 
 # Challenges Facing the Grid
 
-When talking about the challenges facing the Grid, the common sense is an amalgamation of the two core challenges: "throughput" and "balance/imbalance". These are commonly amalgamed into "what the grid can do". And into "make the grid able to do more".
+When talking about the challenges facing the Grid, the common sense is an amalgamation of the two core challenges: "throughput" and "balance/imbalance". These are commonly amalgamated into "what the grid can do". And into "make the grid able to do more".
 
 To properly understand and act upon the future of grid one should learn the difference.
 
@@ -114,6 +126,6 @@ The Dutch government and grid operators (Liander, Enexis, Stedin, TenneT) are im
 
 ## Study Your Energy Profile
 
-## Create a Stratetgy
+## Create a Strategy
 
 ## Restructure, Purchase and Manage
