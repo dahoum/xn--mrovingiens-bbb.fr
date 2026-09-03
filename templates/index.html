@@ -5,15 +5,45 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Brünhild</title>
   <link rel="stylesheet" href="style.css">
+  <style>
+    body {
+      max-width: none;
+      margin: 0;
+      padding: 0;
+    }
+    .hero-image {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin: 0;
+      padding: 0;
+    }
+    .index-logo a.logo,
+    .index-logo span.logo,
+    .index-logo div.logo {
+      color: white;
+    }
+    .index-logo a.logo::before {
+      background: gold;
+    }
+    .toc-container {
+      max-width: min(800px, 100vw - 2rem);
+      margin: 0 auto;
+      padding: 2em 1em;
+    }
+  </style>
 </head>
 <body>
-  <div class="logo">
+  <img src="images/1.jpeg" alt="" class="hero-image">
+  <div class="logo index-logo">
     <span class="logo">
       <a class="logo" href="{{logoHref}}">
         Brünhild
       </a>
     </span>
   </div>
-  {{categories}}
+  <div class="toc-container">
+    {{categories}}
+  </div>
 </body>
 </html>

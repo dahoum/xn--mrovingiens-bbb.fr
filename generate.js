@@ -262,6 +262,14 @@ function main() {
     fs.copyFileSync(styleCssPath, path.join(buildDir, 'style.css'));
   }
 
+  // Copy template images to public dir
+  const templatesImagesDir = path.join(templatesDir, 'images');
+  const publicImagesDir = path.join(buildDir, 'images');
+  if (fs.existsSync(templatesImagesDir)) {
+    fs.mkdirSync(publicImagesDir, { recursive: true });
+    fs.cpSync(templatesImagesDir, publicImagesDir, { recursive: true });
+  }
+
   // Load templates
   const indexTpl = fs.readFileSync(path.join(templatesDir, 'index.html'), 'utf8');
   const articleTpl = fs.readFileSync(path.join(templatesDir, 'article.html'), 'utf8');
