@@ -2,8 +2,8 @@
 category: Research
 title: Hugh Hefner and the Playboy Magazine
 authors: by Brünhild
-image: images/placeholder.jpg
-explanation: Gloria Steinem's undercover investigation as a Playboy Bunny
+image: images/1.jpg
+explanation: Hugh Hefner’s traditional 1950s marriage started to fall apart when he started to work around the clock and practically live in the office, where he had a little bed and a little kitchen.
 ---
 
 Moving from https://medium.com/dahoum/hugh-hefner-and-the-playboy-magazine-working-notes-e87b0b26556d
