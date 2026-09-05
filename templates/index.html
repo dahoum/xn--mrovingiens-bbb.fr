@@ -5,59 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Brünhild</title>
   <link rel="stylesheet" href="style.css">
-  <style>
-    body {
-      max-width: none;
-      margin: 0;
-      padding: 0;
-    }
-    .hero-wrapper {
-      position: relative;
-      width: 100%;
-    }
-    .hero-image {
-      width: 100%;
-      height: auto;
-      display: block;
-      margin: 0;
-      padding: 0;
-    }
-    .hero-wrapper::after {
-      content: '';
-      position: absolute;
-      top: 0;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      background-color: rgba(0, 0, 0, 0.05);
-      pointer-events: none;
-    }
-    .hero-wrapper::before {
-      content: '';
-      position: absolute;
-      left: 0;
-      right: 0;
-      bottom: 0;
-      height: 8px;
-      background-color: rgba(0, 0, 0, 0.4);
-      pointer-events: none;
-    }
-    .index-logo a.logo,
-    .index-logo span.logo,
-    .index-logo div.logo {
-      color: white;
-    }
-    .index-logo a.logo::before {
-      background: gold;
-    }
-    .toc-container {
-      max-width: min(800px, 100vw - 2rem);
-      margin: 0 auto;
-      padding: 2em 1em;
-    }
-  </style>
 </head>
-<body>
+<body class="index-page">
   <div class="hero-wrapper">
     <img src="images/1.jpeg" alt="" class="hero-image">
   </div>

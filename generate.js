@@ -90,8 +90,9 @@ function markdownToHtml(markdown, outputDir, articleRelativePath) {
         inList = true;
       }
       let item = listMatch[1];
-      item = item.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-      item = item.replace(/\*(.*?)\*/g, '<em>$1</em>');
+      item = item.replace(/__(.*?)__/g, '<strong>$1</strong>');
+      item = item.replace(/_(.*?)_/g, '<em>$1</em>');
+      item = item.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
       html += `<li>${item}</li>\n`;
       continue;
     }
@@ -133,10 +134,11 @@ function markdownToHtml(markdown, outputDir, articleRelativePath) {
       continue;
     }
 
-    // Paragraph with inline formatting
+    // Paragraph with inline formatting and links
     let para = line;
-    para = para.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
-    para = para.replace(/\*(.*?)\*/g, '<em>$1</em>');
+    para = para.replace(/__(.*?)__/g, '<strong>$1</strong>');
+    para = para.replace(/_(.*?)_/g, '<em>$1</em>');
+    para = para.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
     html += `<p>${para}</p>\n`;
   }
 
@@ -270,6 +272,14 @@ function main() {
     fs.cpSync(templatesImagesDir, publicImagesDir, { recursive: true });
   }
 
+  // Copy template icons to public dir
+  const templatesIconsDir = path.join(templatesDir, 'icons');
+  const publicIconsDir = path.join(buildDir, 'icons');
+  if (fs.existsSync(templatesIconsDir)) {
+    fs.mkdirSync(publicIconsDir, { recursive: true });
+    fs.cpSync(templatesIconsDir, publicIconsDir, { recursive: true });
+  }
+
   // Load templates
   const indexTpl = fs.readFileSync(path.join(templatesDir, 'index.html'), 'utf8');
   const articleTpl = fs.readFileSync(path.join(templatesDir, 'article.html'), 'utf8');
@@ -344,6 +354,14 @@ function main() {
     if (fs.existsSync(articleImagesDir)) {
       fs.mkdirSync(path.dirname(targetImagesDir), { recursive: true });
       fs.cpSync(articleImagesDir, targetImagesDir, { recursive: true });
+    }
+
+    // Copy pdfs from article's pdfs folder, preserving directory structure
+    const articlePdfsDir = path.join(articleDir, 'pdfs');
+    const targetPdfsDir = path.join(buildDir, articleRelativePath, 'pdfs');
+    if (fs.existsSync(articlePdfsDir)) {
+      fs.mkdirSync(path.dirname(targetPdfsDir), { recursive: true });
+      fs.cpSync(articlePdfsDir, targetPdfsDir, { recursive: true });
     }
   });
 

@@ -22,7 +22,7 @@ Illustrate why peaks should be managed, the different types of peaks and some of
 
 # Sources
 
-This article is loosely based on the author's *magnum opus* &mdash; the Handbook &mdash; **How to Ask and Answer Questions Related to Renewable Energy In Industrial Contexts**.
+This article is loosely based on the author's _magnum opus_ &mdash; the Handbook &mdash; __How to Ask and Answer Questions Related to Renewable Energy In Industrial Contexts__.
 
 The data and the charts are taken from an actual factory.
 
@@ -36,7 +36,7 @@ All examples are for illustration purposes only and are selected based on their 
 
 # Management vs Shaving
 
-*Peak shaving* is a colloquial name for one of the aspects of *peak management*, the *reduction* of peaks.
+_Peak shaving_ is a colloquial name for one of the aspects of _peak management_, the _reduction_ of peaks.
 
 # Peak Management
 
@@ -52,7 +52,7 @@ Some of the limits may be set by the energy contract(s). Some by fuses or circui
 
 # Limits Imposed by the Energy Infrastructure
 
-One of the main sources of limits in industrial contexts are the *grid operators*.
+One of the main sources of limits in industrial contexts are the _grid operators_.
 
 These limits are typically two kinds &mdash;
 
@@ -69,7 +69,7 @@ Power (W, Watts) is the rate at which electricity is used or produced at any mom
 
 Energy (Wh, Watt-hours) is the total amount of electricity, which is used over time. Energy can be compared to the distance travelled by car.
 
-From another perspective *power* is a snapshot and *energy* is the accumulation over time.
+From another perspective _power_ is a snapshot and _energy_ is the accumulation over time.
 
 From yet another perspective power is how much water flows throuh a pipe and energy is the total amount of water that has flown through the pipe for a given period of time.
 

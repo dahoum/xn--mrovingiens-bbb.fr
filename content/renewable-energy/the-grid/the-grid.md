@@ -14,7 +14,7 @@ This article is written for professionals responsible for the purchase and use o
 
 In order to keep the article short and interesting, some complex topics are simplified.
 
-The detailed story is available in my *magnum opus* — the Handbook — How to Ask and Answer Questions Related to Renewable Energy In Industrial Contexts.
+The detailed story is available in my _magnum opus_ — the Handbook — How to Ask and Answer Questions Related to Renewable Energy In Industrial Contexts.
 
 # The Grid?
 
