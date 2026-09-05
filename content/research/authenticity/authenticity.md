@@ -1,6 +1,6 @@
 ---
 category: Research
-title: Hugh Hefner and the Playboy Magazine
+title: Authenticity
 authors: by Brünhild
 image: images/placeholder.jpg
 explanation: Gloria Steinem's undercover investigation as a Playboy Bunny

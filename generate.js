@@ -46,6 +46,20 @@ function getImageDimensions(filePath) {
 }
 
 function markdownToHtml(markdown, outputDir, articleRelativePath) {
+  // Compute relative path from outputDir to article's pdfs folder
+  const pdfsDir = path.join(path.dirname(outputDir), articleRelativePath, 'pdfs');
+  const pdfsRelativePath = path.relative(outputDir, pdfsDir);
+  
+  // Helper to fix PDF links: pdfs/filename.pdf -> correct relative path
+  const fixPdfLink = (match, text, href) => {
+    if (href.startsWith('pdfs/')) {
+      const filename = href.substring(5); // Remove 'pdfs/' prefix
+      const fixedHref = path.join(pdfsRelativePath, filename).split(path.sep).join('/');
+      return `<a href="${fixedHref}">${text}</a>`;
+    }
+    return `<a href="${href}">${text}</a>`;
+  };
+  
   const lines = markdown.split('\n');
   let html = '';
   let inList = false;
@@ -92,7 +106,7 @@ function markdownToHtml(markdown, outputDir, articleRelativePath) {
       let item = listMatch[1];
       item = item.replace(/__(.*?)__/g, '<strong>$1</strong>');
       item = item.replace(/_(.*?)_/g, '<em>$1</em>');
-      item = item.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+      item = item.replace(/\[([^\]]+)\]\(([^)]+)\)/g, fixPdfLink);
       html += `<li>${item}</li>\n`;
       continue;
     }
@@ -138,7 +152,7 @@ function markdownToHtml(markdown, outputDir, articleRelativePath) {
     let para = line;
     para = para.replace(/__(.*?)__/g, '<strong>$1</strong>');
     para = para.replace(/_(.*?)_/g, '<em>$1</em>');
-    para = para.replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+    para = para.replace(/\[([^\]]+)\]\(([^)]+)\)/g, fixPdfLink);
     html += `<p>${para}</p>\n`;
   }
 
