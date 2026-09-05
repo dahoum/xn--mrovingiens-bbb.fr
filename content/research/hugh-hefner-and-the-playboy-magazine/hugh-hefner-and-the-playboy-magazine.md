@@ -6,6 +6,8 @@ image: images/placeholder.jpg
 explanation: Gloria Steinem's undercover investigation as a Playboy Bunny
 ---
 
+Moving from https://medium.com/dahoum/hugh-hefner-and-the-playboy-magazine-working-notes-e87b0b26556d
+
 # Gloria Steinem Undercover as a Playboy Bunny
 
 [A Bunny's Tale Part One, Show Magazine, May 1963](pdfs/Show-A-Bunny's-Tale-Part-One-May-1963.pdf)

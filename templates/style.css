@@ -198,8 +198,9 @@ a[href$=".pdf"]::before
     background-image: url(/icons/pdf.svg);
     background-size: contain;
     background-repeat: no-repeat;
+    background-position: center -2px;
     margin-right: 0.3em;
-    vertical-align: text-bottom;
+    vertical-align: middle;
 }
 
 /*
