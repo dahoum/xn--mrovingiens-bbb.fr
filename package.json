@@ -1,0 +1,7 @@
+{
+  "name": "xn--mrovingiens-bbb.fr",
+  "version": "1.0.0",
+  "dependencies": {
+    "generator.js": "git+https://github.com/ij/generator.js.git"
+  }
+}
